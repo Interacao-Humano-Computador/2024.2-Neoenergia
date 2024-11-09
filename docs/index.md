@@ -1,4 +1,4 @@
-# Home
+# Início
 
 ## Sobre o projeto
 
@@ -15,3 +15,4 @@ Essa página é dedicada à documentação realizada pelo grupo 03 na disciplina
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 08/11/2024 | Criação da git page                      | [Henrique Alencar](https://github.com/henryqma) | Todos |
+| `1.1`  | 09/11/2024 | Remoção de um membro                     | [Henrique Alencar](https://github.com/henryqma) | Todos |

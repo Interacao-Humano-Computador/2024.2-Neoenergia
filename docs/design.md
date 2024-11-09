@@ -1,1 +1,0 @@
-#Design, Avaliação e Desenvolvimento

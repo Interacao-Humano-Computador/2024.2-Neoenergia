@@ -55,7 +55,16 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -146,45 +155,6 @@
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Pesquisar">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-        <div class="md-search__suggest" data-md-component="search-suggest"></div>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Inicializando busca
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    
     
       <div class="md-header__source">
         <a href="https://github.com/Interacao-Humano-Computador/2024.2-Grupo03" title="Ir para repositório" class="md-source" data-md-component="source">
@@ -222,7 +192,7 @@
   
     
   
-  Agencia Virtual de Brasília
+  Início
 
       </a>
     </li>
@@ -236,7 +206,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../apresenta%C3%A7%C3%B5es/01/" class="md-tabs__link">
+        <a href="../../apresenta%C3%A7%C3%B5es/apresentacao01/" class="md-tabs__link">
           
   
   Apresentações
@@ -343,7 +313,7 @@
         
   
   <span class="md-ellipsis">
-    Agencia Virtual de Brasília
+    Início
   </span>
   
 
@@ -399,7 +369,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../apresenta%C3%A7%C3%B5es/01/" class="md-nav__link">
+      <a href="../../apresenta%C3%A7%C3%B5es/apresentacao01/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -679,11 +649,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../processo-design/" class="md-nav__link">
+      <a href="../sites-avaliados/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Processo de Design
+    Sites Avaliados
   </span>
   
 
@@ -721,11 +691,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../sites-avaliados/" class="md-nav__link">
+      <a href="../processo-design/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Sites Avaliados
+    Processo de Design
   </span>
   
 
@@ -762,7 +732,9 @@
 
 <h1 id="ferramentas">Ferramentas</h1>
 <h2 id="introducao">Introdução</h2>
-<p>Para a realização deste projeto, foram utilizadas algumas ferramentas que auxiliam nas tarefas, documentação e comunicação feitas pelos membros da equipe. As ferramentas utilizadas são apresentadas na Tabela 1.</p>
+<p style="text-indent: 50px;text-align: justify;">
+Para a realização deste projeto, foram utilizadas algumas ferramentas que auxiliam nas tarefas, documentação e comunicação feitas pelos membros da equipe. As ferramentas utilizadas são apresentadas na Tabela 1. </p>
+
 <h2 id="ferramentas-utilizadas">Ferramentas Utilizadas</h2>
 <p><center></p>
 <p><strong>Tabela 1</strong> - Ferramentas Utilizadas</p>
@@ -776,47 +748,47 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/github.png" width="200px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/github.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/github.png" width="90px" /></a></td>
 <td style="text-align: center;">Github</td>
 <td style="text-align: left;">Repositório para organização do projeto.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/mkdocs.jpg" width="180px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/mkdocs.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/mkdocs.jpg" width="180px" /></a></td>
 <td style="text-align: center;">MkDocs</td>
 <td style="text-align: left;">Criação da página de documentação.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/teams.png" width="90px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/teams.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/teams.png" width="90px" /></a></td>
 <td style="text-align: center;">Microsoft Teams</td>
 <td style="text-align: left;">Realização e gravação de reuniões.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/youtube.png" width="80px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/youtube.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/youtube.png" width="80px" /></a></td>
 <td style="text-align: center;">YouTube</td>
 <td style="text-align: left;">Publicação das apresentações gravadas.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/docs.png" width="90px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/docs.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/docs.png" width="90px" /></a></td>
 <td style="text-align: center;">Google Docs</td>
 <td style="text-align: left;">Criação e edição de arquivos.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/planilhas.png" width="90px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/planilhas.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/planilhas.png" width="90px" /></a></td>
 <td style="text-align: center;">Google Planilhas</td>
 <td style="text-align: left;">Criação da planilha de grade de horários.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/vscode.png" width="90px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/vscode.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/vscode.png" width="90px" /></a></td>
 <td style="text-align: center;">Visual Studio Code</td>
 <td style="text-align: left;">Edição dos arquivos da git page.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/wpp.png" width="80px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/wpp.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/wpp.png" width="80px" /></a></td>
 <td style="text-align: center;">WhatsApp</td>
 <td style="text-align: left;">Principal plataforma de comunicação rápida entre a equipe.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="../assets/ferramentas/figma.png" width="90px"></td>
+<td style="text-align: center;"><a class="glightbox" href="../../assets/ferramentas/figma.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../assets/ferramentas/figma.png" width="90px" /></a></td>
 <td style="text-align: center;">Figma</td>
 <td style="text-align: left;">Criação de artefatos gráficos.</td>
 </tr>
@@ -919,5 +891,7 @@
       <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

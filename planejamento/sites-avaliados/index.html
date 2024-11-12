@@ -11,8 +11,10 @@
       
       
       
-        <link rel="prev" href="../site-escolhido/">
+        <link rel="prev" href="../heatmap/">
       
+      
+        <link rel="next" href="../site-escolhido/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -53,7 +55,16 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -144,45 +155,6 @@
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Pesquisar">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-        <div class="md-search__suggest" data-md-component="search-suggest"></div>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Inicializando busca
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    
     
       <div class="md-header__source">
         <a href="https://github.com/Interacao-Humano-Computador/2024.2-Grupo03" title="Ir para repositório" class="md-source" data-md-component="source">
@@ -220,7 +192,7 @@
   
     
   
-  Agencia Virtual de Brasília
+  Início
 
       </a>
     </li>
@@ -234,7 +206,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../apresenta%C3%A7%C3%B5es/01/" class="md-tabs__link">
+        <a href="../../apresenta%C3%A7%C3%B5es/apresentacao01/" class="md-tabs__link">
           
   
   Apresentações
@@ -341,7 +313,7 @@
         
   
   <span class="md-ellipsis">
-    Agencia Virtual de Brasília
+    Início
   </span>
   
 
@@ -397,7 +369,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../apresenta%C3%A7%C3%B5es/01/" class="md-nav__link">
+      <a href="../../apresenta%C3%A7%C3%B5es/apresentacao01/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -598,48 +570,6 @@
                 
   
   
-  
-  
-    <li class="md-nav__item">
-      <a href="../processo-design/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Processo de Design
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../site-escolhido/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Site Escolhido
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
     
   
   
@@ -742,6 +672,48 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../site-escolhido/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Site Escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../processo-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Processo de Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -769,7 +741,10 @@
 
 <h1 id="sites-avaliados">Sites Avaliados</h1>
 <h2 id="introducao">Introdução</h2>
-<p>Os membros da equipe realizaram avaliações de diversos sites, utilizando o framework DECIDE e as avaliações heurísticas. O objetivo dessas avaliações, era determinar que site era mais adequado para ser utilizado ao decorrer do projeto. A seguinte tabela mostra cada site e quem realizou a avaliação:</p>
+<p style="text-indent: 50px;text-align: justify;">
+
+Os membros da equipe realizaram avaliações de diversos sites, utilizando o framework DECIDE e as avaliações heurísticas. O objetivo dessas avaliações, era determinar que site era mais adequado para ser utilizado ao decorrer do projeto. A seguinte tabela mostra cada site e quem realizou a avaliação: </p>
+
 <p><center></p>
 <p><strong><em>Tabela 1</em></strong> - Lista de sites</p>
 <table>
@@ -798,19 +773,37 @@
 <p></center></p>
 <h2 id="metro-df">Metrô DF</h2>
 <p><em>Responsável: <a href="https://github.com/henryqma">Henrique Alencar</a></em></p>
-<p>O site <a href="https://metro.df.gov.br">Metrô DF</a> é a plataforma oficial do Metrô do Distrito Federal, que oferece informações essenciais sobre o sistema de transporte metroviário da região. No site, usuários podem acessar horários das linhas, mapa do trajeto, tarifas, notícias e atualizações sobre o funcionamento das estações. A plataforma também oferece informações sobre segurança, dicas de uso, serviços ao usuário, além de contar com um espaço para reclamações e sugestões, garantindo uma comunicação direta com o público e contribuindo para uma experiência de transporte mais eficiente e segura.</p>
-<p>Com a avaliação, percebemos que no geral o site cumpre todas as suas funções e é de fácil usabilidade, porém deixa a desejar em alguns fatores, como design, que pode ser pouco atrativo e com excesso de informações, falta de acessibilidade e de responsividade.</p>
+<p style="text-indent: 50px;text-align: justify;">
+
+O site <a href="https://metro.df.gov.br" target="_blank">Metrô DF</a> é a plataforma oficial do Metrô do Distrito Federal, que oferece informações essenciais sobre o sistema de transporte metroviário da região. No site, usuários podem acessar horários das linhas, mapa do trajeto, tarifas, notícias e atualizações sobre o funcionamento das estações. A plataforma também oferece informações sobre segurança, dicas de uso, serviços ao usuário, além de contar com um espaço para reclamações e sugestões, garantindo uma comunicação direta com o público e contribuindo para uma experiência de transporte mais eficiente e segura.
+
+Com a avaliação, percebemos que no geral o site cumpre todas as suas funções e é de fácil usabilidade, porém deixa a desejar em alguns fatores, como design, que pode ser pouco atrativo e com excesso de informações, falta de acessibilidade e de responsividade.
+
+</p>
+
 <ul>
 <li><a href="../avaliacoes/metrodf.pdf">Confira a avaliação detalhada</a></li>
 </ul>
 <h2 id="prefeitura-municipal-de-pium">Prefeitura Municipal de Pium</h2>
 <p><em>Responsável: <a href="https://github.com/daramaria">Dara maria</a></em></p>
-<p>O site da <a href="https://www.pium.to.gov.br/">Prefeitura Municipal de Pium (TO)</a> é um portal oficial voltado a fornecer à população informações sobre serviços municipais, estrutura administrativa e atividades da gestão pública. Com uma interface organizada, o site é uma central de acesso a diversos serviços como o Portal da Transparência, Diário Oficial e seções específicas de cada secretaria, abrangendo áreas de saúde, educação, finanças, cultura, e mais. Além disso, o portal inclui atualizações sobre obras e projetos locais, notícias relevantes, dados demográficos e informações de turismo para promover o desenvolvimento da cidade e facilitar o acesso dos cidadãos às informações e aos serviços públicos.</p>
-<p>Avaliando os site é possivel perceber varios pontos que precisam de melhorias, com menus acessíveis para informações sobre secretarias, transparência e serviços essenciais, além de conteúdo sobre turismo e dados demográficos. Embora o portal cumpra seu papel informativo, melhorias na interface, acessibilidade e responsividade para dispositivos móveis poderiam aprimorar a experiência do usuário. A presença do Portal da Transparência e do Diário Oficial destaca o compromisso com a transparência, mas incluir mais funcionalidades de autoatendimento tornaria o portal ainda mais eficiente para os cidadãos.</p>
+<p style="text-indent: 50px;text-align: justify;">
+
+O site da <a href="https://www.pium.to.gov.br" target="_blank">Prefeitura Municipal de Pium (TO)</a> é um portal oficial voltado a fornecer à população informações sobre serviços municipais, estrutura administrativa e atividades da gestão pública. Com uma interface organizada, o site é uma central de acesso a diversos serviços como o Portal da Transparência, Diário Oficial e seções específicas de cada secretaria, abrangendo áreas de saúde, educação, finanças, cultura, e mais. Além disso, o portal inclui atualizações sobre obras e projetos locais, notícias relevantes, dados demográficos e informações de turismo para promover o desenvolvimento da cidade e facilitar o acesso dos cidadãos às informações e aos serviços públicos.
+
+Avaliando os site é possivel perceber varios pontos que precisam de melhorias, com menus acessíveis para informações sobre secretarias, transparência e serviços essenciais, além de conteúdo sobre turismo e dados demográficos. Embora o portal cumpra seu papel informativo, melhorias na interface, acessibilidade e responsividade para dispositivos móveis poderiam aprimorar a experiência do usuário. A presença do Portal da Transparência e do Diário Oficial destaca o compromisso com a transparência, mas incluir mais funcionalidades de autoatendimento tornaria o portal ainda mais eficiente para os cidadãos.
+
+</p>
+
 <h2 id="sqlite">SQLite</h2>
 <p><em>Responsável: <a href="https://github.com/dcasseb">Davi Casseb</a></em> </p>
-<p>O site do <a href="www.sqlite.org/">SQLite</a> oferece informações sobre o banco de dados SQLite, que é amplamente usado por ser leve e autossuficiente. Ele funciona como uma biblioteca de banco de dados SQL embutido, projetado para armazenamento local e usado em diversas plataformas, especialmente em dispositivos móveis e aplicativos embarcados. A página principal do site destaca os recursos do SQLite, como sua portabilidade, desempenho e simplicidade, além de fornecer documentação detalhada, links para downloads, manuais de referência, e informações sobre licenciamento e suporte técnico.</p>
-<p>Avaliando o site, percebe-se que vários pontos deixam a desejar no contexto de usabilidade e experiência do usuário, principalmente quanto aos elementos voltados à acessibilidade.</p>
+<p style="text-indent: 50px;text-align: justify;">
+
+O site do <a href="https://sqlite.org" target="_blank">SQLite</a> oferece informações sobre o banco de dados SQLite, que é amplamente usado por ser leve e autossuficiente. Ele funciona como uma biblioteca de banco de dados SQL embutido, projetado para armazenamento local e usado em diversas plataformas, especialmente em dispositivos móveis e aplicativos embarcados. A página principal do site destaca os recursos do SQLite, como sua portabilidade, desempenho e simplicidade, além de fornecer documentação detalhada, links para downloads, manuais de referência, e informações sobre licenciamento e suporte técnico.
+
+Avaliando o site, percebe-se que vários pontos deixam a desejar no contexto de usabilidade e experiência do usuário, principalmente quanto aos elementos voltados à acessibilidade.
+
+</p>
+<p>www.sqlite.org/</p>
 <h2 id="historico-de-versao">Histórico de versão</h2>
 <table>
 <thead>
@@ -833,14 +826,14 @@
 <tr>
 <td><code>1.1</code></td>
 <td>10/11/2024</td>
-<td>adição de site avaliado</td>
-<td><a href="https://github.com/daramaria">Dara maria</a></td>
+<td>Adição de site avaliado</td>
+<td><a href="https://github.com/daramaria">Dara Maria</a></td>
 <td>Todos</td>
 </tr>
 <tr>
 <td><code>1.2</code></td>
 <td>12/11/2024</td>
-<td>adição de site avaliado</td>
+<td>Adição de site avaliado</td>
 <td><a href="https://github.com/dcasseb">Davi Casseb</a></td>
 <td>Todos</td>
 </tr>
@@ -906,5 +899,7 @@
       <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

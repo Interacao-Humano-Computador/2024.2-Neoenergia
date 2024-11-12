@@ -12,7 +12,7 @@ Para a realização deste projeto, foram utilizadas algumas ferramentas que auxi
 
 |   | Ferramenta | Finalidade |
 | :-: | :----------: | :---------- |
-| <img src="../assets/ferramentas/github.png" width="90px"> | Github | Repositório para organização do projeto. |
+|<img src="../assets/ferramentas/github.png" width="200px">| Github | Repositório para organização do projeto. |
 | <img src="../assets/ferramentas/mkdocs.jpg" width="180px"> | MkDocs | Criação da página de documentação. |
 | <img src="../assets/ferramentas/teams.png" width="90px"> | Microsoft Teams | Realização e gravação de reuniões. |
 | <img src="../assets/ferramentas/youtube.png" width="80px"> | YouTube | Publicação das apresentações gravadas. |

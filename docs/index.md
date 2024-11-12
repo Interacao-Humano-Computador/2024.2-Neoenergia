@@ -21,4 +21,4 @@ Essa página é dedicada à documentação realizada pelo grupo 03 na disciplina
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 08/11/2024 | Criação da git page                      | [Henrique Alencar](https://github.com/henryqma) | Todos |
 | `1.1`  | 09/11/2024 | Remoção de um membro                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.2`  | 12/11/2024 | Adição de imagem e detalhes do site avaliado                    | [Dara maria](https://github.com/daramaria) | Todos |
+| `1.2`  | 12/11/2024 | Adição de imagem e detalhes do site avaliado                    | [Dara Maria](https://github.com/daramaria) | Todos |

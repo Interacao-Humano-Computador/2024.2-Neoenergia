@@ -1,8 +1,8 @@
 #Ferramentas
 
 ## Introdução
-
-Para a realização deste projeto, foram utilizadas algumas ferramentas que auxiliam nas tarefas, documentação e comunicação feitas pelos membros da equipe. As ferramentas utilizadas são apresentadas na Tabela 1.
+<p style="text-indent: 50px;text-align: justify;">
+Para a realização deste projeto, foram utilizadas algumas ferramentas que auxiliam nas tarefas, documentação e comunicação feitas pelos membros da equipe. As ferramentas utilizadas são apresentadas na Tabela 1. </p>
 
 ## Ferramentas Utilizadas
 
@@ -12,15 +12,15 @@ Para a realização deste projeto, foram utilizadas algumas ferramentas que auxi
 
 |   | Ferramenta | Finalidade |
 | :-: | :----------: | :---------- |
-|<img src="../assets/ferramentas/github.png" width="200px">| Github | Repositório para organização do projeto. |
-| <img src="../assets/ferramentas/mkdocs.jpg" width="180px"> | MkDocs | Criação da página de documentação. |
-| <img src="../assets/ferramentas/teams.png" width="90px"> | Microsoft Teams | Realização e gravação de reuniões. |
-| <img src="../assets/ferramentas/youtube.png" width="80px"> | YouTube | Publicação das apresentações gravadas. |
-| <img src="../assets/ferramentas/docs.png" width="90px"> | Google Docs | Criação e edição de arquivos. |
-| <img src="../assets/ferramentas/planilhas.png" width="90px"> | Google Planilhas | Criação da planilha de grade de horários. |
-| <img src="../assets/ferramentas/vscode.png" width="90px"> | Visual Studio Code | Edição dos arquivos da git page. |
-| <img src="../assets/ferramentas/wpp.png" width="80px"> | WhatsApp | Principal plataforma de comunicação rápida entre a equipe. |
-| <img src="../assets/ferramentas/figma.png" width="90px"> | Figma | Criação de artefatos gráficos. |
+| ![](../assets/ferramentas/github.png){ width="90px" } | Github | Repositório para organização do projeto. |
+| ![](../assets/ferramentas/mkdocs.jpg){ width="180px" } | MkDocs | Criação da página de documentação. |
+| ![](../assets/ferramentas/teams.png){ width="90px" } | Microsoft Teams | Realização e gravação de reuniões. |
+| ![](../assets/ferramentas/youtube.png){ width="80px" } | YouTube | Publicação das apresentações gravadas. |
+| ![](../assets/ferramentas/docs.png){ width="90px" } | Google Docs | Criação e edição de arquivos. |
+| ![](../assets/ferramentas/planilhas.png){ width="90px" } | Google Planilhas | Criação da planilha de grade de horários. |
+| ![](../assets/ferramentas/vscode.png){ width="90px" } | Visual Studio Code | Edição dos arquivos da git page. |
+| ![](../assets/ferramentas/wpp.png){ width="80px" } | WhatsApp | Principal plataforma de comunicação rápida entre a equipe. |
+| ![](../assets/ferramentas/figma.png){ width="90px" } | Figma | Criação de artefatos gráficos. |
 
 _Fonte: Autores_
 

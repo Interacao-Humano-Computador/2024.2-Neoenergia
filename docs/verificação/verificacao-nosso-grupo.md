@@ -1,5 +1,14 @@
 # Verificação Etapa 01
 
+## Introdução
+A verificação de artefatos é uma etapa importante no projeto, pois garante que os produtos de trabalho atendam aos requisitos especificados. Esta técnica analisa detalhadamente o conteúdo e a estrutura dos artefatos para avaliar sua qualidade e conformidade.
+
+## Objetivo
+O objetivo principal deste documento de planejamento de verificação é assegurar que os artefatos produzidos durante a etapa 1 pelo grupo 4 estejam em conformidade com os requisitos especificados e atendam aos critérios de qualidade estabelecidos para o projeto. 
+
+## Metodologia 
+A metodologia escolhida será a lista de verificação, é apresentada como uma técnica organizada e eficiente para avaliar artefatos de design. E esse método possui o uso de listas predefinidas de critérios que ajudam os avaliadores a identificar se um artefato atende aos padrões e diretrizes estabelecidos. 
+
 ## Verificação do nosso grupo
 
 <center>
@@ -31,9 +40,17 @@ considerações dos monitores/professor?  | Sim  |
 
 </center>
 
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+>  https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/, acessado em 13 de novembro de 2024
+
+> SALES. Plano de Ensino. Outubro de 2004. Disponível em: <hhttps://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf>.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 12/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
 | `1.1`  | 12/11/2024 | Adição da tabela                      | [Davi Casseb](https://github.com/dcasseb) | Todos |
+| `1.2`  | 12/11/2024 | Verificação                     | [Davi Casseb](https://github.com/dcasseb) | Todos |

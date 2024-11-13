@@ -42,9 +42,9 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
->  https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/, acessado em 13 de novembro de 2024
+>  <a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/" target="_blank">https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/</a>, acessado em 13 de novembro de 2024
 
-> SALES. Plano de Ensino. Outubro de 2004. Disponível em: <hhttps://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf>.
+> SALES. Plano de Ensino. Outubro de 2004. Disponível em: <a href="hhttps://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf" target="_blank">Aprender3</a>.
 
 ## Histórico de versão
 

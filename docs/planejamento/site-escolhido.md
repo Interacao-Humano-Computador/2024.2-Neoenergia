@@ -22,7 +22,7 @@ Baseado nos critérios anteriores, o site [Agencia Virtual](https://agenciavirtu
 ## Avaliação
 A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE. 
 
-###  [Link para a avaliação de IHC completa do site.](avaliacoes/avaliacao-bilheteria-digital.pdf)
+### (planejamento/avaliacoes/PlanejAvalicao-neoenergia.pdf)
 
 ## Histórico de versão
 
@@ -30,3 +30,4 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE.
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
 | `1.1`  | 12/11/2024 | Criação da página                     | [Dara Maria](https://github.com/daramariabs) | Todos |
+| `1.2`  | 12/11/2024 | Atualização da página                     | [Davi Casseb](https://github.com/dcasseb) | Todos |

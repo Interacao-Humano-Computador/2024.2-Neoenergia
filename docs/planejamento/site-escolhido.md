@@ -22,7 +22,7 @@ Baseado nos critérios anteriores, o site [Agencia Virtual](https://agenciavirtu
 ## Avaliação
 A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE. 
 
-### (planejamento/avaliacoes/PlanejAvalicao-neoenergia.pdf)
+### [Documento de Planejamento da Avaliação](./planejamento/avaliacoes/PlanejAvalicao-neoenergia.pdf)
 
 ## Histórico de versão
 

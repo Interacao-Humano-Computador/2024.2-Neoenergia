@@ -1,6 +1,7 @@
 # Site Escolhido
 
 ## Introdução
+
 No início do processo da disciplina, alguns integrantes do grupo apresentaram possíveis candidatos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada site passava por alguns critérios com o objetivo de se chegar a um consenso.
 [Aqui](sites-avaliados.md) é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo. 
 
@@ -22,7 +23,7 @@ Baseado nos critérios anteriores, o site [Agencia Virtual](https://agenciavirtu
 ## Avaliação
 A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE. 
 
-###  [Consulte aqui](./avaliacoes/PlanejAvaliacao-neoenergia.pdf)
+* [Documento de Planejamento da Avaliação](./avaliacoes/PlanejAvalicao-neoenergia.pdf)
 
 ## Histórico de versão
 
@@ -30,3 +31,4 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE.
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
 | `1.1`  | 12/11/2024 | Criação da página                     | [Dara Maria](https://github.com/daramariabs) | Todos |
+| `1.2`  | 12/11/2024 | Atualização da página                     | [Davi Casseb](https://github.com/dcasseb) | Todos |

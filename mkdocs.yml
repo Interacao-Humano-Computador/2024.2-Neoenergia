@@ -29,10 +29,10 @@ nav:
     - Processo de Design: planejamento/processo-design.md
 
   - Verificação:
-    - Verificação 01: verificação/verificacao01.md
-
-  
-
+    - Nosso grupo:
+      - Verificação 01: verificação/verificacao-nosso-grupo.md
+    - Grupo 04:
+      - Verificação 01: verificação/verificacao-grupo4.md
 
 theme:
   name: material

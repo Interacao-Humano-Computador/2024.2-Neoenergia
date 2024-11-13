@@ -2,6 +2,35 @@ site_name: IHC - Grupo 03
 site_description: "Repositório do grupo 03 de IHC"
 repo_name: '2024.2-Grupo03'
 repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo03'
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox
+
+nav:
+  - Início: index.md
+  
+  - Apresentações:
+    - Apresentação 01: apresentações/apresentacao01.md
+  
+  - Atas: 
+    - Ata 01: atas/ata01.md
+  
+  - Planejamento: 
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Heatmap: planejamento/heatmap.md
+    - Sites Avaliados: planejamento/sites-avaliados.md
+    - Site Escolhido: planejamento/site-escolhido.md
+    - Processo de Design: planejamento/processo-design.md
+
+  
+
+
 theme:
   name: material
   features:

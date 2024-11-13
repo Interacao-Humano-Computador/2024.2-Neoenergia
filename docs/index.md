@@ -7,7 +7,8 @@
 
 ## Sobre o projeto
 
-Essa página é dedicada à documentação realizada pelo grupo 03 na disciplina Interação Humano-Computador (IHC), ministrada pelo professor André Barros de Sales, na Faculdade de Ciência e Tecnologia em Engenharia (FCTE-UnB) durante o 2º semestre de 2024. O objetivo desse projeto é realizar a avaliação do site da [Agencia Virtual de Brasília da Neoenergia](https://agenciavirtual.neoenergiabrasilia.com.br/) e sugerir melhorias em sua interface, aplicando os conceitos apendidos em sala de aula.
+<p style="text-indent: 50px;text-align: justify;">
+Essa página é dedicada à documentação realizada pelo grupo 03 na disciplina Interação Humano-Computador (IHC), ministrada pelo professor André Barros de Sales, na Faculdade de Ciência e Tecnologia em Engenharia (FCTE-UnB) durante o 2º semestre de 2024. O objetivo desse projeto é realizar a avaliação do site da [Agencia Virtual de Brasília da Neoenergia](https://agenciavirtual.neoenergiabrasilia.com.br/) e sugerir melhorias em sua interface, aplicando os conceitos apendidos em sala de aula. </p>
 
 ## Equipe
 

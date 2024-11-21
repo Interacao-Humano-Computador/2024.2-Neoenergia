@@ -25,6 +25,11 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE.
 
 * [Documento de Planejamento da Avaliação](./avaliacoes/PlanejAvalicao-neoenergia.pdf)
 
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+> NEOENERGIA. Agência Virtual de Brasília. Disponível em: <https://agenciavirtual.neoenergiabrasilia.com.br/>. Acesso em: 10 de nov. de 2024.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
@@ -33,3 +38,4 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE.
 | `1.1`  | 12/11/2024 | Criação da página                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
 | `1.2`  | 12/11/2024 | Atualização da página                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
 | `1.3`  | 20/11/2024 | Correção de revisores                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.4`  | 20/11/2024 | Adição da bibliografia                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

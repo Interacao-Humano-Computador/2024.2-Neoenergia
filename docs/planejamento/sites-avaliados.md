@@ -1,4 +1,4 @@
-#Sites Avaliados
+# Sites Avaliados
 
 ## Introdução
 
@@ -15,8 +15,9 @@ Os membros da equipe realizaram avaliações de diversos sites, utilizando o fra
 | [Metrô DF](#metrô-df) | [Henrique Alencar](https://github.com/henryqma) |
 | [Prefeitura Municipal de Pium](#prefeitura-pium) | [Dara Maria](https://github.com/daramariabs) |
 | [SQLite](#sqlite) | [Davi Casseb](https://github.com/dcasseb) |
+| [NeoEnergia - Agência Virtual de Brasília](#prefeitura-pium) | [Dara Maria](https://github.com/daramariabs) |
 
-_Fonte: Autores_
+_Fonte: Henrique Alencar_
 
 </center>
 
@@ -46,6 +47,8 @@ Avaliando os site é possivel perceber varios pontos que precisam de melhorias, 
 
 </p>
 
+* [Confira a avaliação detalhada](./avaliacoes/metrodf.pdf)
+
 ## SQLite
 _Responsável: [Davi Casseb](https://github.com/dcasseb)_ 
 
@@ -55,12 +58,27 @@ O site do <a href="https://sqlite.org" target="_blank">SQLite</a> oferece inform
 
 Avaliando o site, percebe-se que vários pontos deixam a desejar no contexto de usabilidade e experiência do usuário, principalmente quanto aos elementos voltados à acessibilidade.
 
-</p> www.sqlite.org/
+</p> 
+
+* [Confira a avaliação detalhada](./avaliacoes/metrodf.pdf)
+
+## Bibliografia
+> METRODF. Disponível em: <https://metro.df.gov.br>. Acesso em: 08 de nov. de 2024.
+
+> PREFEITURA MUNICIPAL DE PIUM. Disponível em: <https://www.pium.to.gov.br>. Acesso em: 09 de nov. de 2024.
+
+> SQLITE. Disponível em: <https://sqlite.org>. Acesso em: 12 de nov. de 2024.
+
+> NEOENERGIA. Agência Virtual de Brasília. Disponível em: <https://agenciavirtual.neoenergiabrasilia.com.br/>. Acesso em: 12 de nov. de 2024.
+
+
 
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 10/11/2024 | Adição de site avaliado                     | [Dara Maria](https://github.com/daramaria) | Todos |
-| `1.2`  | 12/11/2024 | Adição de site avaliado                     | [Davi Casseb](https://github.com/dcasseb) | Todos |
+| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 10/11/2024 | Adição de site avaliado                     | [Dara Maria](https://github.com/daramaria) | Davi Casseb, Henrique Alencar |
+| `1.2`  | 12/11/2024 | Adição de site avaliado                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.3`  | 20/11/2024 | Correção de autores                    | [Dara Maria](https://github.com/daramaria) | Davi Casseb, Henrique Alencar |
+| `1.4`  | 20/11/2024 | Adição da bibliografia e do site da Neoenergia                  | [Dara Maria](https://github.com/daramaria) | Davi Casseb, Henrique Alencar |

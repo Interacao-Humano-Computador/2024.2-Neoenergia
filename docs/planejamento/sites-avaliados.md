@@ -62,6 +62,19 @@ Avaliando o site, percebe-se que vários pontos deixam a desejar no contexto de 
 
 * [Confira a avaliação detalhada](./avaliacoes/metrodf.pdf)
 
+## Agência Virtual da Neoenergia
+
+_Responsável: [Dara maria](https://github.com/daramaria)_
+
+<p style="text-indent: 50px;text-align: justify;">
+  
+O site da <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual da Neoenergia</a> é uma plataforma online projetada para oferecer aos clientes acesso rápido e prático a diversos serviços, como emissão de segunda via de fatura, consulta de histórico de consumo, atualização de dados cadastrais e solicitação de serviços técnicos. Com um design moderno e funcionalidades voltadas para atender às demandas dos consumidores, o site busca facilitar o relacionamento entre a Neoenergia e seus clientes, promovendo autonomia e conveniência. No entanto, ao realizar uma avaliação detalhada, foram identificados alguns pontos de melhoria que, se corrigidos, podem otimizar ainda mais a experiência do usuário.
+
+Avaliando o site foram notadas funcionalidades que precisam de melhorias, como "Segunda Via", diretamente na página inicial, simplificando processos como atualização cadastral e garantindo melhor responsividade em dispositivos móveis. Além disso, ajustes de contraste e suporte para leitores de tela são essenciais para maior acessibilidade, assim como a inclusão de guias explicativos para facilitar a interpretação de dados pelos usuários.
+
+* [Confira a avaliação detalhada](./avaliacoes/PlanejAvaliacao-neoenergia.pdf)
+
+
 ## Bibliografia
 > METRODF. Disponível em: <https://metro.df.gov.br>. Acesso em: 08 de nov. de 2024.
 

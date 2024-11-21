@@ -29,6 +29,7 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE.
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 12/11/2024 | Criação da página                     | [Dara Maria](https://github.com/daramariabs) | Todos |
-| `1.2`  | 12/11/2024 | Atualização da página                     | [Davi Casseb](https://github.com/dcasseb) | Todos |
+| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 12/11/2024 | Criação da página                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.2`  | 12/11/2024 | Atualização da página                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.3`  | 20/11/2024 | Correção de revisores                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

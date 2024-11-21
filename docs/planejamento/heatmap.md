@@ -26,5 +26,6 @@ Como mostrado na figura acima, os horários de melhor disponibilidade para todos
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 10/11/2024 | Adiação do Heatmap                    | [Dara Maria](https://github.com/daramariabs) | Todos |
+| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 10/11/2024 | Adiação do Heatmap                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.2`  | 20/11/2024 | Correção dos revisores                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

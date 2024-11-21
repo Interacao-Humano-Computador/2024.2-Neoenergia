@@ -1,4 +1,4 @@
-#  Agencia Virtual de Brasília
+#  Agência Virtual da Neoenergia de Brasília
 
 ![logo Neoenergia](./assets/logo.svg)
 
@@ -14,12 +14,12 @@ Essa página é dedicada à documentação realizada pelo grupo 03 na disciplina
 
 | <img src="https://avatars.githubusercontent.com/u/67131700?v=4" width="220px"> | <img src="https://avatars.githubusercontent.com/u/77282586?v=4" width="220px"> | <img src="https://avatars.githubusercontent.com/u/102759084?v=4" width="220px"> |
 | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-|                   [Dara de Sousa](https://github.com/daramariabs)              |                   [Davi Casseb](https://github.com/dcasseb)                    |                [Henrique Alencar](https://github.com/henryqma)                  |
+|                   [Dara Maria](https://github.com/daramariabs)              |                   [Davi Casseb](https://github.com/dcasseb)                    |                [Henrique Alencar](https://github.com/henryqma)                  |
 
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 08/11/2024 | Criação da git page                      | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 09/11/2024 | Remoção de um membro                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.2`  | 12/11/2024 | Adição de imagem e detalhes do site avaliado                    | [Dara Maria](https://github.com/daramaria) | Todos |
+| `1.0`  | 08/11/2024 | Criação da git page                      | [Henrique Alencar](https://github.com/henryqma) | Dara Maria e Davi Casseb |
+| `1.1`  | 09/11/2024 | Remoção de um membro                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria e Davi Casseb |
+| `1.2`  | 12/11/2024 | Adição de imagem e detalhes do site avaliado                    | [Dara Maria](https://github.com/daramaria) | Davi Casseb e Henrique Alencar |

@@ -1,4 +1,4 @@
-#Ferramentas
+# Ferramentas
 
 ## Introdução
 <p style="text-indent: 50px;text-align: justify;">
@@ -22,7 +22,7 @@ Para a realização deste projeto, foram utilizadas algumas ferramentas que auxi
 | ![](../assets/ferramentas/wpp.png){ width="80px" } | WhatsApp | Principal plataforma de comunicação rápida entre a equipe. |
 | ![](../assets/ferramentas/figma.png){ width="90px" } | Figma | Criação de artefatos gráficos. |
 
-_Fonte: Autores_
+_Fonte: Henrique Alencar_
 
 </center>
 
@@ -42,4 +42,4 @@ _Fonte: Autores_
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
+| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

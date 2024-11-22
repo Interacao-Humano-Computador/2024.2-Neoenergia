@@ -1,12 +1,16 @@
-site_name: IHC - Grupo 03
+site_name: IHC - Neoenergia
 site_description: "Repositório do grupo 03 de IHC"
-repo_name: '2024.2-Grupo03'
+repo_name: '2024.2-Neoenergia'
 repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo03'
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tilde
 
 plugins:
   - glightbox
@@ -47,16 +51,19 @@ theme:
     - content.code.annotation
     - contention.code.copy
   language: pt-BR
+  favicon: assets/neoenergia.png
+  logo: assets/neoenergia.png
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Modo escuro
-      primary: teal
-      accent: purple
+      primary: green
+      accent: light blue
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Modo claro
-      primary: teal
-      accent: lime
+      primary: green
+      accent: amber
+  

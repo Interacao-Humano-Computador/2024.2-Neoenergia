@@ -41,15 +41,15 @@ O diagrama apresentado na figura 1 ilustra a estrutura do Ciclo de Vida Simples,
 
 </p>
 
+<div align="center">
+<p> Figura 1: Ciclo de Vida Simples </p> 
+</div>
+
 <center>
 
 ![Cilo de Design Simples](../assets/ferramentas/ciclo-de-vida-simples.png)
 
 </center>
-
-<div align="center">
-<p> Figura 1: Ciclo de Vida Simples </p> 
-</div>
 
 
 ## Ciclo de Vida Estrela
@@ -64,15 +64,15 @@ A estrutura e o funcionamento do Ciclo de Vida em Estrela podem ser visualizados
 
 </p>
 
+<div align="center">
+<p> Figura 2: Ciclo de Vida em Estrela</p> 
+</div>
+
 <center>
 
 ![Cilo de Vida em Estrela](../assets/ferramentas/ciclo-de-vida-estrela.png)
 
 </center>
-
-<div align="center">
-<p> Figura 2: Ciclo de Vida em Estrela</p> 
-</div>
 
 ## Engenharia de Usabilidade de Nielsen
 
@@ -105,15 +105,15 @@ A estrutura completa da engenharia de usabilidade proposta por Mayhew pode ser v
 
 </p>
 
+<div align="center">
+<p> Figura 3: Ciclo de Engenharia de Usabilidade de Mayhew</p> 
+</div>
+
 <center>
 
 ![Engenharia de Usabilidade de Mayhew](../assets/ferramentas/engenharia-de-usabilidade-mayhew.png)
 
 </center>
-
-<div align="center">
-<p> Figura 3: Ciclo de Engenharia de Usabilidade de Mayhew</p> 
-</div>
 
 ## Processo de design definido para o projeto
 
@@ -128,10 +128,10 @@ Após cuidadosa análise das diferentes metodologias disponíveis, a equipe deci
 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
+### Referências Bibliográficas
 > Lawson B. How Designers Think: The Design Process Demystified 4a edição. Oxford, UK: Architectural Press; 2006.
 
 > Löwgren J, Stolterman E. Thoughtful Interaction Design: A Design Perspective on Information Technology. Cambridge, MA: The MIT Press; 2004;.
-
 
 ## Histórico de Versão
 

@@ -40,6 +40,17 @@ considerações dos monitores/professor?  | Sim  |
 
 </center>
 
+## Gráfico de Tarefas
+<div align="center">
+<p> Figura 1: Gráfico de Tarefas do Grupo 04 </p> 
+</div>
+
+<center>
+
+![Pie Chart das Tarefas](../assets/Grafico-de-Tarefas.png)
+
+</center>
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 

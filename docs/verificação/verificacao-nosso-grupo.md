@@ -60,6 +60,7 @@ considerações dos monitores/professor?  | Sim  |
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 12/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 12/11/2024 | Adição da tabela                      | [Davi Casseb](https://github.com/dcasseb) | Todos |
-| `1.2`  | 12/11/2024 | Verificação                     | [Davi Casseb](https://github.com/dcasseb) | Todos |
+| `1.0`  | 12/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 12/11/2024 | Adição da tabela                      | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.2`  | 12/11/2024 | Verificação                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.3`  | 23/11/2024 | Adição do gráfico                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |

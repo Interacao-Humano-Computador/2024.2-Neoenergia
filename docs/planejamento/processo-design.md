@@ -137,5 +137,6 @@ Após cuidadosa análise das diferentes metodologias disponíveis, a equipe deci
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 12/11/2024 | Adição do Processo de Design                     | [Davi Casseb](https://github.com/dcasseb) | Todos |
+| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 12/11/2024 | Adição do Processo de Design                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.2`  | 25/11/2024 | Correção dos revisores e adição das referências bibliográficas                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |

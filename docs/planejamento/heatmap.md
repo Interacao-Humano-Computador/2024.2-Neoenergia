@@ -22,10 +22,14 @@ Como mostrado na figura acima, os horários de melhor disponibilidade para todos
 
 </p>
 
+## Referências Bibliográficas
+
+> SALES, André Barros de: Modelo de heatmap. Disponível em: <a href="https://aprender3.unb.br/mod/url/view.php?id=1305444" target="_blank">https://aprender3.unb.br/mod/url/view.php?id=1305444</a>
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
-| `1.1`  | 10/11/2024 | Adiação do Heatmap                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.1`  | 10/11/2024 | Adição do Heatmap                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
 | `1.2`  | 20/11/2024 | Correção dos revisores                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

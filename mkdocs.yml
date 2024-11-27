@@ -1,7 +1,7 @@
 site_name: IHC - Neoenergia
 site_description: "Repositório do grupo 03 de IHC"
 repo_name: '2024.2-Neoenergia'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo03'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Neoenergia'
 
 markdown_extensions:
   - attr_list
@@ -11,6 +11,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tilde
+  - admonition
 
 plugins:
   - glightbox
@@ -23,6 +24,7 @@ nav:
   
   - Atas: 
     - Ata 01: atas/ata01.md
+    - Ata 02: atas/ata02.md
   
   - Planejamento: 
     - Cronograma: planejamento/cronograma.md
@@ -32,6 +34,17 @@ nav:
     - Site Escolhido: planejamento/site-escolhido.md
     - Processo de Design: planejamento/processo-design.md
 
+  - Análise de Requisitos:
+    - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
+    - Perfil de Usuário: analise-requisitos/perfil-usuario.md
+    - Cenários: analise-requisitos/cenarios.md
+    - Personas: analise-requisitos/personas.md
+    - Análise de Tarefas: analise-requisitos/analise-tarefas.md
+    - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
+    - Príncipios Gerais: analise-requisitos/principios-gerais.md
+    - Guia de Estilo: analise-requisitos/guia-estilo.md
+    - Características Gerais: analise-requisitos/caracteristicas-gerais.md
+
   - Verificação:
     - Nosso grupo:
       - Verificação 01: verificação/verificacao-nosso-grupo.md
@@ -39,6 +52,9 @@ nav:
       - Verificação 01: verificação/verificacao-grupo4.md
 
 theme:
+  icon:
+    admonition:
+      note: octicons/info-16
   name: material
   features:
     - navigation.tabs
@@ -66,4 +82,5 @@ theme:
         name: Modo claro
       primary: green
       accent: amber
+
   

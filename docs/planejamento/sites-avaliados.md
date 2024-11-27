@@ -72,6 +72,8 @@ O site da <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_b
 
 Avaliando o site foram notadas funcionalidades que precisam de melhorias, como "Segunda Via", diretamente na página inicial, simplificando processos como atualização cadastral e garantindo melhor responsividade em dispositivos móveis. Além disso, ajustes de contraste e suporte para leitores de tela são essenciais para maior acessibilidade, assim como a inclusão de guias explicativos para facilitar a interpretação de dados pelos usuários.
 
+</p>
+
 * [Confira a avaliação detalhada](./avaliacoes/PlanejAvaliacao-neoenergia.pdf)
 
 

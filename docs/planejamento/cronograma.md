@@ -68,10 +68,10 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 
 | Atividade                         | Período de <br> desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
 | --------------------------------- | --------------------------------- | ------------------ | ---------------------------- | ---------------- |
-| Perfil do Usuário                 | Início: 14/11 <br>Fim: 16/11      | Henrique           | Início: 17/11 <br>Fim: 18/11 | Dara, Davi            |
-| Cenários                          | Início: 14/11 <br>Fim: 16/11      | Henrique           | Início: 17/11 <br>Fim: 18/11 | Dara, Davi            |
+| Perfil do Usuário                 | Início: 14/11 <br>Fim: 16/11      | Dara               | Início: 17/11 <br>Fim: 18/11 | Davi, Henrique            |
+| Cenários                          | Início: 14/11 <br>Fim: 16/11      | Dara               | Início: 17/11 <br>Fim: 18/11 | Davi, Henrique            |
 | Personas                          | Início: 17/11 <br>Fim: 20/11      | Dara               | Início: 21/11 <br>Fim: 22/11 | Davi, Henrique             |
-| Pesquisa sobre ética              | Início: 21/11 <br>Fim: 23/11      | Dara, Davi               | Início: 24/11 <br>Fim: 25/11 | Henrique             |
+| Pesquisa sobre ética              | Início: 21/11 <br>Fim: 23/11      | Henrique           | Início: 24/11 <br>Fim: 25/11 | Dara, Davi            |
 | Análise de Tarefas                | Início: 24/11 <br>Fim: 25/11      | Davi               | Início: 25/11 <br>Fim: 25/11 | Dara, Henrique             |
 | Gravar Apresentação               | Início: 25/11 <br>Fim: 25/11      | Dara, Davi, <br> Henrique               | Início: 25/11 <br>Fim: 26/11 | Dara, Davi, <br> Henrique             |
 | Inspecionar Equipe                | Início: 25/11 <br>Fim: 26/11      | Dara, Davi, <br> Henrique               | Início: 26/11 <br>Fim: 26/11 | Dara, Davi, <br> Henrique             |
@@ -92,9 +92,10 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 
 | Atividade                         | Período de <br> desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
 | --------------------------------- | --------------------------------- | ------------------ | ---------------------------- | ---------------- |
-| Príncipios Gerais do Projeto      | Início: 28/11 <br>Fim: 29/11      | Dara               | Início: 29/11 <br>Fim: 30/11 | Davi, Henrique             |
-| Metas de Usabilidade              | Início: 29/11 <br>Fim: 30/11      | Davi               | Início: 30/11 <br>Fim: 01/12 | Dara, Henrique             |
+| Príncipios Gerais do Projeto      | Início: 28/11 <br>Fim: 29/11      | Davi               | Início: 29/11 <br>Fim: 30/11 | Dara, Henrique             |
+| Metas de Usabilidade              | Início: 29/11 <br>Fim: 30/11      | Henrique               | Início: 30/11 <br>Fim: 01/12 | Dara, Davi             |
 | Guia de Estilo                    | Início: 01/12 <br>Fim: 02/12      | Henrique           | Início: 02/12 <br>Fim: 03/12 | Dara, Davi            |
+| Características do projeto                    | Início: 01/12 <br>Fim: 02/12      | Dara           | Início: 02/12 <br>Fim: 03/12 | Davi, Henrique            |
 | Gravar Apresentação               | Início: 02/12 <br>Fim: 02/12      | Dara, Davi, <br> Henrique               | Início: 02/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
 | Inspecionar Equipe                | Início: 02/12 <br>Fim: 03/12      | Dara, Davi, <br> Henrique               | Início: 03/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
 | Inspecionar Equipe +1             | Início: 03/12 <br>Fim: 04/12      | Dara, Davi, <br> Henrique               | Início: 04/12 <br>Fim: 04/12 | Dara, Davi, <br> Henrique             |
@@ -235,7 +236,7 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 
 ## Bibliografia
 
-> SALES. Plano de Ensino. Outubro de 2004. Disponível em: <a href="hhttps://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf" target="_blank">Aprender3</a>.
+> SALES, André Barros de. Plano de Ensino. Outubro de 2004. Disponível em: <a href="hhttps://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf" target="_blank">Aprender3</a>.
 
 > Projeto Bilheteria Digital. Disponível em: <a href="https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/" target="_blank">https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/</a>
 

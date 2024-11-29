@@ -83,4 +83,9 @@ theme:
       primary: green
       accent: amber
 
+extra:
+  version:
+    provider: mike
+
+extra_css: [stylesheets/extra.css]
   

@@ -1,8 +1,8 @@
 # Ferramentas
 
 ## Introdução
-<p style="text-indent: 50px;text-align: justify;">
-Para a realização deste projeto, foram utilizadas algumas ferramentas que auxiliam nas tarefas, documentação e comunicação feitas pelos membros da equipe. As ferramentas utilizadas são apresentadas na Tabela 1. </p>
+
+Para a realização deste projeto, foram utilizadas algumas ferramentas que auxiliam nas tarefas, documentação e comunicação feitas pelos membros da equipe. As ferramentas utilizadas são apresentadas na Tabela 1. 
 
 <br>
 

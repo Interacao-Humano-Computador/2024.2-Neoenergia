@@ -2,11 +2,7 @@
 
 ## Introdução
 
-<p style="text-indent: 50px;text-align: justify;">
-
 O mapa de calor foi utlizado para determinar horários livres em comum dos membros da equipe, para nos mostrar de maneira gráfica, como podemos nos organizar para definir os horários de reunião.
-
-</p>
 
 ## Resultado
 
@@ -16,11 +12,7 @@ O mapa de calor foi utlizado para determinar horários livres em comum dos membr
 
 </center>
 
-<p style="text-indent: 50px;text-align: justify;">
-
 Como mostrado na figura acima, os horários de melhor disponibilidade para todos os membros da equipe são de segunda a sexta entre 20h - 22h e sábado e domingo de 10h - 22h.
-
-</p>
 
 ## Referências Bibliográficas
 

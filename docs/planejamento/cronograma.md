@@ -2,11 +2,7 @@
 
 ## Introdução
 
-<p style="text-indent: 50px;text-align: justify;"> 
-
 O cronograma serve como uma forma de planejar a organização de todas as tarefas que serão realizadas ao decorrer do semestre, pontuando e estimando prazos de tudo que deve ser feito em cada etapa do projeto. A parte executada mostra como o planejamento se saiu em cada etapa, sendo assim mais suscetível a mudanças. Segue abaixo as tabelas que mostram os cronogramas de cada etapa do projeto:
-
-</p>
 
 ## Entrega 1 - Planejamento do Projeto
 

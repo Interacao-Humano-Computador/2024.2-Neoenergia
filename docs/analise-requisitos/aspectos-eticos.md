@@ -1,4 +1,4 @@
-#Aspectos Éticos
+# Aspectos Éticos
 
 ## Introdução
 
@@ -26,6 +26,7 @@ A computação também possui uma preocupação com a ética em suas pesquisas. 
 > 1. UNESP. Ética em Pesquisa com Seres Humanos. Disponível em: <a href="https://www.rosana.unesp.br/#!/pesquisa/orientacoes-e-manual/etica-em-pesquisa-com-seres-humanos/" target="_blank">https://www.rosana.unesp.br/#!/pesquisa/orientacoes-e-manual/etica-em-pesquisa-com-seres-humanos/</a>
 
 > 2. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |

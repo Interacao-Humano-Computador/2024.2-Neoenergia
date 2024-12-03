@@ -47,7 +47,7 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 <center>
 
-![Pie Chart das Tarefas](../assets/Grafico-de-Tarefas-Grupo-04.png)
+![Pie Chart das Tarefas](../assets/verificações/Grafico-de-Tarefas-Grupo-04.png)
 
 </center>
 

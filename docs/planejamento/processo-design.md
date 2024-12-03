@@ -31,7 +31,7 @@ O diagrama apresentado na figura 1 ilustra a estrutura do Ciclo de Vida Simples,
 
 <center>
 
-![Cilo de Design Simples](../assets/ferramentas/ciclo-de-vida-simples.png)
+![Cilo de Design Simples](../assets/processo/ciclo-de-vida-simples.png)
 
 </center>
 
@@ -50,7 +50,7 @@ A estrutura e o funcionamento do Ciclo de Vida em Estrela podem ser visualizados
 
 <center>
 
-![Cilo de Vida em Estrela](../assets/ferramentas/ciclo-de-vida-estrela.png)
+![Cilo de Vida em Estrela](../assets/processo/ciclo-de-vida-estrela.png)
 
 </center>
 
@@ -83,7 +83,7 @@ A estrutura completa da engenharia de usabilidade proposta por Mayhew pode ser v
 
 <center>
 
-![Engenharia de Usabilidade de Mayhew](../assets/ferramentas/engenharia-de-usabilidade-mayhew.png)
+![Engenharia de Usabilidade de Mayhew](../assets/processo/engenharia-de-usabilidade-mayhew.png)
 
 </center>
 

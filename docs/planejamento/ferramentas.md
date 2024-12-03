@@ -18,6 +18,7 @@ Para a realização deste projeto, foram utilizadas algumas ferramentas que auxi
 | ![](../assets/ferramentas/planilhas.png){ width="90px" } | Google Planilhas | Criação da planilha de grade de horários. |
 | ![](../assets/ferramentas/teams.png){ width="90px" } | Microsoft Teams | Realização e gravação de reuniões. |
 | ![](../assets/ferramentas/mkdocs.jpg){ width="180px" } | MkDocs | Criação da página de documentação. |
+| ![](../assets/ferramentas/persona.jpg){ width="90px" } | This Person Does Not Exist | Criação de imagens das personas. |
 | ![](../assets/ferramentas/vscode.png){ width="90px" } | Visual Studio Code | Edição dos arquivos da git page. |
 | ![](../assets/ferramentas/wpp.png){ width="80px" } | WhatsApp | Principal plataforma de comunicação rápida entre a equipe. |
 | ![](../assets/ferramentas/youtube.png){ width="80px" } | YouTube | Publicação das apresentações gravadas. |
@@ -37,10 +38,12 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 >7. Visual Studio Code. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/).
 >8. WhatsApp. Disponível em: [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br).
 >9. Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/).
+>10. This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.com](https://thispersondoesnotexist.com).
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                      |
-| ------ | ---------- | ---------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
-| `1.1`  | 22/11/2024 | Ccorreções                            | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| Versão | Data       | Descrição                                                   | Autor(es)                                       | Revisor                 |
+| ------ | ---------- | ----------------------------------------------------------- | ----------------------------------------------- |------------------------ |
+| `1.0`  | 09/11/2024 | Criação da página                                           | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 22/11/2024 | Correções                                                   | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.2`  | 03/12/2024 | Adição de ferramenta das personas                           | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

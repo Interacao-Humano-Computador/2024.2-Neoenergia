@@ -15,13 +15,13 @@ Os dados foram agrupados em perfis realistas que consideram aspectos demográfic
 
 ## **Definição de Personas**
 
-<div align="center">
+<center>
   
 ### **Persona 1: Ana Paula**
   
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Ana Paula](../assets/personas/persona1.png)              |
+| **Imagem**            | ![Imagem da Persona Ana Paula](../assets/personas/persona1.jpg){ width="200px" }              |
 | **Idade**             | 35 anos                                                                      |
 | **Sexo**              | Feminino                                                                     |
 | **Ocupação**          | Assistente administrativa                                                    |
@@ -34,15 +34,11 @@ Os dados foram agrupados em perfis realistas que consideram aspectos demográfic
 
 Fonte: Dara Maria
 
-</div>
-
-<div align="center">
-
 ### **Persona 2: Carlos Eduardo**
 
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Carlos Eduardo](../assets/personas/persona2.png)           |
+| **Imagem**            | ![Imagem da Persona Carlos Eduardo](../assets/personas/persona2.jpg){ width="200px" }           |
 | **Idade**             | 42 anos                                                                      |
 | **Sexo**              | Masculino                                                                    |
 | **Ocupação**          | Gerente financeiro de uma empresa de médio porte                             |
@@ -55,16 +51,11 @@ Fonte: Dara Maria
 
 Fonte: Dara Maria
 
-</div>
-
-
-<div align="center">
-
 ### **Persona 3: Maria do Carmo**
 
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Maria do Carmo](../assets/personas/persona3.png)         |
+| **Imagem**            | ![Imagem da Persona Maria do Carmo](../assets/personas/persona3.jpg){ width="200px" }         |
 | **Idade**             | 68 anos                                                                      |
 | **Sexo**              | Feminino                                                                     |
 | **Ocupação**          | Aposentada                                                                   |
@@ -77,15 +68,13 @@ Fonte: Dara Maria
 
 Fonte: Dara Maria
 
-</div>
-
-<div align="center">
-  
 ### **Persona 4: Rodrigo Silva**
   
+
+
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Rodrigo Silva](../assets/personas/persona4.png)           |
+| **Imagem**            | ![Imagem da Persona Rodrigo Silva](../assets/personas/persona4.jpg){ width="200px" }           |
 | **Idade**             | 29 anos                                                                      |
 | **Sexo**              | Masculino                                                                    |
 | **Ocupação**          | Técnico de manutenção na Neoenergia                                          |
@@ -98,8 +87,7 @@ Fonte: Dara Maria
 
 Fonte: Dara Maria
 
-</div>
-
+</center>
 
 ## **Conclusão**
 

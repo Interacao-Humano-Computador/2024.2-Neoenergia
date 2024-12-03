@@ -21,6 +21,18 @@ A computação também possui uma preocupação com a ética em suas pesquisas. 
 
 ## Termo de Consentimento
 
+Para a realização da pesquisa com o usuário, foi elaborado um termo de consentimento para garantir que os aspectos éticos sejam cumpridos. O termo pode ser conferido na figura 1 a seguir:
+
+<center>
+
+**Figura 1** - Termo de Consentimento
+
+![Termo](../assets/termo.png){ width="600px" }
+
+_Fonte: Henrique Alencar_
+
+</center>
+
 ## Bibliografia
 
 > 1. UNESP. Ética em Pesquisa com Seres Humanos. Disponível em: <a href="https://www.rosana.unesp.br/#!/pesquisa/orientacoes-e-manual/etica-em-pesquisa-com-seres-humanos/" target="_blank">https://www.rosana.unesp.br/#!/pesquisa/orientacoes-e-manual/etica-em-pesquisa-com-seres-humanos/</a>
@@ -32,3 +44,4 @@ A computação também possui uma preocupação com a ética em suas pesquisas. 
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 29/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 03/12/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

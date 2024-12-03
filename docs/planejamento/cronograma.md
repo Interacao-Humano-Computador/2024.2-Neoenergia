@@ -78,13 +78,35 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 
 </center>
 
+### Executado
+
+<center>
+
+**Tabela 4** - Perfil do Usuário
+
+| Atividade                         | Período de <br> desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
+| --------------------------------- | --------------------------------- | ------------------ | ---------------------------- | ---------------- |
+| Perfil do Usuário                 | Início: 27/11 <br>Fim: 02/12      | Dara               | Início: 02/12 <br>Fim: 03/12 | Davi, Henrique            |
+| Cenários                          | Início: 27/11 <br>Fim: 02/12      | Dara               | Início: 02/12 <br>Fim: 03/12 | Davi, Henrique            |
+| Personas                          | Início: 27/11 <br>Fim: 02/12     | Dara               | Início: 02/12 <br>Fim: 03/12 | Davi, Henrique             |
+| Pesquisa sobre ética              | Início: 27/11 <br>Fim: 29/11      | Henrique           | Início: 02/12 <br>Fim: 03/12 | Dara, Davi            |
+| Análise de Tarefas                | Início: 27/11 <br>Fim: 03/12      | Davi               | Início: 03/12 <br>Fim: 03/12 | Dara, Henrique             |
+| Gravar Apresentação               | Início: 03/12 <br>Fim: 03/12      | Dara, Davi, <br> Henrique               | Início: 03/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
+| Inspecionar Equipe                | Início: 03/12 <br>Fim: 03/12      | Dara, Davi, <br> Henrique               | Início: 03/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
+| Inspecionar Equipe +1             | Início: 04/12 <br>Fim: 04/12      | Dara, Davi, <br> Henrique               | Início: 04/12 <br>Fim: 04/12 | Dara, Davi, <br> Henrique             |
+| Correções pós Apresentação        | Início: 05/12 <br>Fim: 08/12      | Dara, Davi, <br> Henrique               | Início: 08/12 <br>Fim: 08/12 | Dara, Davi, <br> Henrique             |
+
+_Autor: [Henrique Alencar](https://github.com/henryqma)_
+
+</center>
+
 ## Etapa 3 - Príncipios Gerais do Projeto
 
 ### Planejado
 
 <center>
 
-**Tabela 4** - Príncipios Gerais do Projeto
+**Tabela 5** - Príncipios Gerais do Projeto
 
 | Atividade                         | Período de <br> desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
 | --------------------------------- | --------------------------------- | ------------------ | ---------------------------- | ---------------- |
@@ -96,6 +118,27 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 | Inspecionar Equipe                | Início: 02/12 <br>Fim: 03/12      | Dara, Davi, <br> Henrique               | Início: 03/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
 | Inspecionar Equipe +1             | Início: 03/12 <br>Fim: 04/12      | Dara, Davi, <br> Henrique               | Início: 04/12 <br>Fim: 04/12 | Dara, Davi, <br> Henrique             |
 | Correções pós Apresentação        | Início: 04/12 <br>Fim: 06/12      | Dara, Davi, <br> Henrique               | Início: 06/12 <br>Fim: 06/12 | Dara, Davi, <br> Henrique             |
+
+_Autor: [Henrique Alencar](https://github.com/henryqma)_
+
+</center>
+
+### Executado
+
+<center>
+
+**Tabela 6** - Príncipios Gerais do Projeto
+
+| Atividade                         | Período de <br> desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
+| --------------------------------- | --------------------------------- | ------------------ | ---------------------------- | ---------------- |
+| Príncipios Gerais do Projeto      | Início: 27/11 <br>Fim: 03/12      | Davi               | Início: 02/12 <br>Fim: 03/12 | Dara, Henrique             |
+| Metas de Usabilidade              | Início: 27/11 <br>Fim: 30/11      | Henrique               | Início: 02/12 <br>Fim: 03/12 | Dara, Davi             |
+| Guia de Estilo                    | Início: 27/11 <br>Fim: 02/12     | Henrique           | Início: 02/12 <br>Fim: 03/12 | Dara, Davi            |
+| Características do projeto                    | Início: 27/11 <br>Fim: 02/12      | Dara           | Início: 02/12 <br>Fim: 03/12 | Davi, Henrique            |
+| Gravar Apresentação               | Início: 03/12 <br>Fim: 03/12      | Dara, Davi, <br> Henrique               | Início: 03/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
+| Inspecionar Equipe                | Início: 03/12 <br>Fim: 03/12      | Dara, Davi, <br> Henrique               | Início: 03/12 <br>Fim: 03/12 | Dara, Davi, <br> Henrique             |
+| Inspecionar Equipe +1             | Início: 04/12 <br>Fim: 04/12      | Dara, Davi, <br> Henrique               | Início: 04/12 <br>Fim: 04/12 | Dara, Davi, <br> Henrique             |
+| Correções pós Apresentação        | Início: 05/12 <br>Fim: 08/12      | Dara, Davi, <br> Henrique               | Início: 08/12 <br>Fim: 08/12 | Dara, Davi, <br> Henrique             |
 
 _Autor: [Henrique Alencar](https://github.com/henryqma)_
 
@@ -245,3 +288,4 @@ _Autor: [Henrique Alencar](https://github.com/henryqma)_
 | `1.0`  | 09/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara, Davi  |
 | `1.1`  | 12/11/2024 | Adição do Cronograma                    | [Henrique Alencar](https://github.com/henryqma) | Dara, Davi  |
 | `1.2`  | 22/11/2024 | Correções                    | [Henrique Alencar](https://github.com/henryqma) | Dara, Davi  |
+| `1.3`  | 03/12/2024 | Adição de tabelas de executado para as etapas 2 e 3 | [Henrique Alencar](https://github.com/henryqma) | Dara, Davi  |

@@ -35,7 +35,7 @@ As informações foram agrupadas em categorias, considerando os atributos descri
   - Alfabetismo: Boa leitura, com preferência por informações claras e diretas.  
   - Preferências: Aprendem "fazendo" e evitam instruções longas.  
 
-- **Classificação **:  
+- **Classificação**:  
   - Idade: Adultos.  
   - Experiência: Leigos.  
   - Atitudes: Neutros quanto à tecnologia.  

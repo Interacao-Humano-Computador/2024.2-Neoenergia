@@ -80,7 +80,7 @@ _Autor: Neoenergia_
 
 ### Tipografia
 
-A fonte utilizada no site é a Open Sans de diversos tamanhos. Também é feita a utilização de logos e ícones. As tipografias foram apresentadas nas figuras abaixo:
+A fonte utilizada no site é a Open Sans em vários tamanhos. Foi percebido que algumas fontes são muito pequenas e dificultam na visualização. Também é feita a utilização de logos e ícones. As tipografias foram apresentadas nas figuras abaixo:
 
 <center>
 
@@ -136,7 +136,7 @@ O site não possui teclas de atalho.
 
 ### Preenchimento de campos
 
-O site possui diversos campos de preenchimento e exige que o usuário digite manualmente suas informações de acorco com seus objetivos, sendo em campos de busca para encontrar faturas ou residências, atualização ou cadastro de informações, solicitar boletos e autenticação.
+O site possui diversos campos de preenchimento e exige que o usuário digite manualmente suas informações de acorco com seus objetivos, sendo em campos de busca para encontrar faturas ou residências, atualização ou cadastro de informações, solicitar boletos e autenticação, porém foi observada uma falta de clareza em alguns campos.
 
 ### Seleção
 

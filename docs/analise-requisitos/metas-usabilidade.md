@@ -16,7 +16,7 @@ Mede a capacidade do usuário de alcançar seus objetivos ao interagir com o sis
 
 #### **Analisado:**
 
-O site demonstrou ser eficaz, sendo de fácil realização as tarefas relacionadas à energia de sua residência, como informar falta de energia, retirar segunda via e gerar boleto.
+No geral, o site parece ser eficaz, tendo fácil acesso da maioria das opções, mas algumas funções, como retirar segunda via, não são muito visíveis e acabar passando despercebidas pelo usuário, levando-o a demorar mais procurando essa função. Também foi percebida uma perda de eficácia devido ao tamanho pequeno de algumas fontes, dificultando o acesso às funções.
 
 ### Eficiência
 
@@ -24,7 +24,7 @@ Refere-se à rapidez e aos recursos usados para alcançar os objetivos. Um siste
 
 #### **Analisado:**
 
-O site não possui uma grande eficiência, algumas opções, como registrar falta de energia, possuem um tempo de espera alto, fazendo o usuário perder muito tempo para realizar uma solicitação e não demonstra com clareza que a solicitação foi realizada. Também foi observado que durante determinado tempo, o usuário é desconectado, fazendo com que passe novamente pelo processo de login.
+O site não possui uma grande eficiência, algumas opções, como registrar falta de energia, possuem um tempo de espera alto, fazendo o usuário perder muito tempo para realizar uma solicitação e não demonstra com clareza que a solicitação foi realizada. Também foi percebida a falta de eficiência para preencher campos, filtrar faturas e exportar documentos.
 
 ### Segurança
 
@@ -40,7 +40,7 @@ Avalia se o sistema oferece as funcionalidades e recursos necessários para aten
 
 #### **Analisado:**
 
-O site apresenta boa utilidade, trazendo todas as funcionalidades que o usuário esperar encontrar para a realização de suas tarefas.
+O site apresenta boa utilidade, trazendo todas as funcionalidades que o usuário espera encontrar para a realização de suas tarefas.
 
 ### Aprendizado
 
@@ -48,7 +48,7 @@ Mede a facilidade com que um novo usuário pode aprender a usar o sistema. Siste
 
 #### **Analisado:**
 
-O site demonstra ser de fácil aprendizado, não levando muito tempo para encontrar as informações desejadas e aprender onde realizar as tarefas desejadas.
+A maioria das funções parecem ser de fácil acesso, mas algumas estão mais ocultas e são difíceis de encontrar, como solicitar segunda via, o que faz os usuários levar mais tempo para encontrar. Também foi percebido a falta de clareza no preenchimento de campos.
 
 ### Memorização
 
@@ -60,7 +60,7 @@ Os botões e funcionalidade são bastante explícitas e intuitivas, com ícones 
 
 ## Conclusão
 
-No geral, o sistema de Neoenergia apresenta boas metas de usabilidade, tendo maiores dificuldades na **eficiência** e na **segurança**, devido aos longos tempos de espera, aos problemas de se manter conectado e à falta de certeza na realização de tarefas, portanto devem ser aspectos a serem priorizados na realização de próximas etapas.
+O site peca em algumas metas como **Eficiência**, **Eficácia**, **Segurança** e **Aprendizado**, pois tem vários problemas, como textos pequenos, opções poucos visíveis, falta de clareza, problemas de login e longo tempo de espera.
 
 ## Bibliografia
 

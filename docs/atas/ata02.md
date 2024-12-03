@@ -19,10 +19,11 @@
 
 ## Link da Gravação
 
-* <a href="https://unbbr.sharepoint.com/:v:/s/Estudos669/EbuFpdVvWFxKvnDQFVFUqWABVUBGhWVNXteOrK5pgEYklQ?e=rcr19f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Link para a gravação</a>
+* <a href="https://youtu.be/NYdTREvNOrg" target="_blank">Link para a gravação</a>
 
 ## Histórico de versão
 
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 27/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 02/12/2024 | Link para reunião de definição de atividades da etapa 2 e 3                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb e Henrique Alencar |

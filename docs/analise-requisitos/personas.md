@@ -21,7 +21,7 @@ Os dados foram agrupados em perfis realistas que consideram aspectos demográfic
   
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Ana Paula](coloque_o_link_da_imagem_aqui)               |
+| **Imagem**            | ![Imagem da Persona Ana Paula](../assets/personas/persona1.png)              |
 | **Idade**             | 35 anos                                                                      |
 | **Sexo**              | Feminino                                                                     |
 | **Ocupação**          | Assistente administrativa                                                    |
@@ -42,7 +42,7 @@ Fonte: Dara Maria
 
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Carlos Eduardo](coloque_o_link_da_imagem_aqui)           |
+| **Imagem**            | ![Imagem da Persona Carlos Eduardo](../assets/personas/persona2.png)           |
 | **Idade**             | 42 anos                                                                      |
 | **Sexo**              | Masculino                                                                    |
 | **Ocupação**          | Gerente financeiro de uma empresa de médio porte                             |
@@ -64,7 +64,7 @@ Fonte: Dara Maria
 
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Maria do Carmo](coloque_o_link_da_imagem_aqui)           |
+| **Imagem**            | ![Imagem da Persona Maria do Carmo](../assets/personas/persona3.png)         |
 | **Idade**             | 68 anos                                                                      |
 | **Sexo**              | Feminino                                                                     |
 | **Ocupação**          | Aposentada                                                                   |
@@ -85,7 +85,7 @@ Fonte: Dara Maria
   
 | **Atributo**          | **Descrição**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **Imagem**            | ![Imagem da Persona Rodrigo Silva](coloque_o_link_da_imagem_aqui)            |
+| **Imagem**            | ![Imagem da Persona Rodrigo Silva](../assets/personas/persona4.png)           |
 | **Idade**             | 29 anos                                                                      |
 | **Sexo**              | Masculino                                                                    |
 | **Ocupação**          | Técnico de manutenção na Neoenergia                                          |
@@ -116,3 +116,4 @@ A análise resultou na criação de quatro personas que representam os principai
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 29/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
 | `1.1`  | 02/12/2024 | Adição dos perfis de personas                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.2`  | 03/12/2024 | Adição das imagens das personas                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

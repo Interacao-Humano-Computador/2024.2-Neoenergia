@@ -48,7 +48,9 @@ nav:
   - Verificação:
     - Nosso grupo:
       - Verificação 01: verificação/verificacao-nosso-grupo.md
-    - Grupo 04:
+      - Verificação 02: verificação/verificacao-nosso-grupo2.md
+      - Verificação 03: verificação/verificacao-nosso-grupo3.md
+    - Outros grupos:
       - Verificação 01: verificação/verificacao-grupo4.md
 
 theme:

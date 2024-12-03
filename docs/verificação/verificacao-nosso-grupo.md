@@ -4,7 +4,7 @@
 A verificação de artefatos é uma etapa importante no projeto, pois garante que os produtos de trabalho atendam aos requisitos especificados. Esta técnica analisa detalhadamente o conteúdo e a estrutura dos artefatos para avaliar sua qualidade e conformidade.
 
 ## Objetivo
-O objetivo principal deste documento de planejamento de verificação é assegurar que os artefatos produzidos durante a etapa 1 pelo grupo 4 estejam em conformidade com os requisitos especificados e atendam aos critérios de qualidade estabelecidos para o projeto. 
+O objetivo principal deste documento de planejamento de verificação é assegurar que os artefatos produzidos durante a etapa 1 pelo nosso grupo estejam em conformidade com os requisitos especificados e atendam aos critérios de qualidade estabelecidos para o projeto. 
 
 ## Metodologia 
 A metodologia escolhida será a lista de verificação, é apresentada como uma técnica organizada e eficiente para avaliar artefatos de design. E esse método possui o uso de listas predefinidas de critérios que ajudam os avaliadores a identificar se um artefato atende aos padrões e diretrizes estabelecidos. 

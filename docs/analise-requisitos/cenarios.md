@@ -90,4 +90,4 @@ Os cenários de uso são uma ferramenta importante para ilustrar como diferentes
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 29/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
-| `1.1`  | 02/12/2024 | Adição dee cenariod                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.1`  | 02/12/2024 | Adição de cenario                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

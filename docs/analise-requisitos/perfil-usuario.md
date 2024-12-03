@@ -1,6 +1,5 @@
 # **Perfil de Usuário**
 
-
 ## **Introdução**  
 
 A **Agência Virtual da Neoenergia** é uma plataforma digital desenvolvida para facilitar o acesso dos clientes aos serviços, incluindo emissão de faturas, consulta de histórico de consumo e solicitações diversas. Este documento detalha os perfis de usuários da plataforma, considerando aspectos demográficos, experiências profissionais, níveis educacionais e preferências de interação. A identificação desses perfis é essencial para atender melhor às necessidades dos usuários e aprimorar a experiência geral no uso do site.
@@ -15,7 +14,6 @@ Para traçar os perfis, foram utilizadas duas abordagens:
 
 As informações foram agrupadas em categorias, considerando os atributos descritos no Capítulo 8 do livro _Interação Humano-Computador_.  
 
----
 
 ## **Perfis de Usuário Identificados**  
 
@@ -68,7 +66,6 @@ As informações foram agrupadas em categorias, considerando os atributos descri
   - Atitudes: Tecnófilos, mas exigem praticidade.  
   - Tarefas primárias: Emissão de relatórios e controle de consumo.  
 
----
 
 ### **Usuário Idoso**  
 - **Dados Demográficos**:  
@@ -91,8 +88,6 @@ As informações foram agrupadas em categorias, considerando os atributos descri
   - Experiência: Leigos.  
   - Atitudes: Neutros a tecnófobos.  
   - Tarefas primárias: Emissão de segunda via de faturas.  
-
----
 
 
 ## **Conclusão e Resultados**  

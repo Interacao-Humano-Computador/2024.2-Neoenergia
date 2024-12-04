@@ -50,11 +50,13 @@ nav:
 
   - Verificação:
     - Nosso grupo:
-      - Verificação 01: verificação/verificacao-nosso-grupo.md
-      - Verificação 02: verificação/verificacao-nosso-grupo2.md
-      - Verificação 03: verificação/verificacao-nosso-grupo3.md
-    - Outros grupos:
-      - Verificação 01: verificação/verificacao-grupo4.md
+      - Verificação 01: verificação/nosso-grupo/verificacao01.md
+      - Verificação 02: verificação/nosso-grupo/verificacao02.md
+      - Verificação 03: verificação/nosso-grupo/verificacao03.md
+    - Grupo 04:
+      - Verificação 01: verificação/grupo4/verificacao01.md
+      - Verificação 02: verificação/grupo4/verificacao02.md
+      - Verificação 03: verificação/grupo4/verificacao03.md
 
 theme:
   icon:

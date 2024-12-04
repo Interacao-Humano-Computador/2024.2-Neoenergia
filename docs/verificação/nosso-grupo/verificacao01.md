@@ -47,7 +47,7 @@ considerações dos monitores/professor?  | Sim  |
 
 <center>
 
-![Pie Chart das Tarefas](../assets/verificações/Grafico-de-Tarefas.png)
+![Pie Chart das Tarefas](/assets/verificações/Grafico-de-Tarefas.png)
 
 </center>
 

@@ -16,6 +16,8 @@ e regras de seleção (selection rules).
 
 <center>
 
+**Tabela 1** - Funcionalidades avaliadas
+
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 | 2ª via de pagamento |Dara|  
@@ -24,20 +26,20 @@ e regras de seleção (selection rules).
 | Cadastro de parceiro   | Davi          |
 | Solicitação sobre danos elétricos | Davi |
 
-</center>
+_Fonte: Davi Casseb_
 
-<center>
+**Figura 1** - Página inicial da Agência Virtual da Neoenergia.
 
-<p> Figura 1 - Página inicial da Agência Virtual da Neoenergia. </p> 
+![Página inicial da agência](../../assets/neoenergia_1.jpeg){ width="900px" }
 
-![Página inicial da agência](../../assets/neoenergia_1.jpeg)
-
-<p> Fonte: Site da agência virtual  </p> 
+ _Fonte: Site da agência virtual_  
 
 </center>
 
 ### 2ª via de pagamento 
+
 #### Introdução 
+
 No site da agência virtual da Neoenergia forma escolhidas algumas funcionalidades, entre elas a de visualização, pesquisa e geração de segunda via de _Boletos_. [Dara Maria](https://github.com/daramariabs) foi escolhida como responsável por essa funcionalidade. 
 * Goal 1: Listar todas as funcionalidades da agência virtual
     * Method 1: Inserir dados - deixar os espaços sem preencher.
@@ -51,20 +53,29 @@ No site da agência virtual da Neoenergia forma escolhidas algumas funcionalidad
         * Operation 4: Informar região (opcional)
         * Operation 5: submeter dados
 
-![Página de segunda via da agência](../../assets/neoenergia_4.jpeg)
-<div align="center">
-<p> Figura 2 - Página para requerimento da segunda via do boleto. Fonte: Site da agência virtual  </p> 
-</div>
+<center>
 
+**Figura 2** - Página para requerimento da segunda via do boleto.
+
+![Página de segunda via da agência](../../assets/neoenergia_4.jpeg){ width="900px" }
+
+_Fonte: Site da agência virtual_
+
+</center>
 
 ### Unidades cadastradas
 Nessa tarefa o usuário pretende solicitar todas as unidades cadastradas em seu CPF, foi analisada pelo integrante [Davi Casseb](https://github.com/dcasseb). Primeiro na página como mostra na Figura 3, em seguida pede-se o código do cliente e o código da UC como mostrada na Figura.
 
+<center>
 
-![Página de consulta de unidades consumidoras](../../assets/neoenergia_3.jpeg)
-<div align="center">
-<p> Figura 3 - Página para requerimento das unidades cadastradas no CPF. Fonte: Site da agência virtual  </p> 
-</div>
+**Figura 3** - Página para requerimento das unidades cadastradas no CPF.
+
+![Página de consulta de unidades consumidoras](../../assets/neoenergia_3.jpeg){ width="900px" }
+
+_Fonte: Site da agência virtual_ 
+
+</center>
+
 
 * GOAL 0: Descobrir se a pessoa possui unidades cadastradas.
   * GOAL 1: Solicitar os imóveis cadastrados em seu CPF.
@@ -121,10 +132,15 @@ Nessa tarefa o usuário pretende solicitar todas as unidades cadastradas em seu 
 
 Nessa tarefa o usuário pretende avaliar a responsividade da agência virtual em dispositivos móveis. Realizado por [Henrique Alencar](https://github.com/henryqma)
 
-![Página de dispositivo móvel](../../assets/neoenergiaPagUsuario_movel.jpeg)
-<div align="center">
-<p> Figura 3 - Página para requerimento das unidades cadastradas no CPF em um dispositivo móvel. Fonte: Site da agência virtual  </p> 
-</div>
+<center>
+
+**Figura 3** - Página para requerimento das unidades cadastradas no CPF em um dispositivo móvel.
+
+![Página de dispositivo móvel](../../assets/neoenergiaPagUsuario_movel.jpeg){ width="400px" }
+
+_Fonte: Site da agência virtual_
+
+</center>
 
 * GOAL 0:  Analisar a responsividade da página 
     * GOAL 1: Preencher os dados do usuário
@@ -147,8 +163,9 @@ Nessa tarefa o usuário pretende avaliar a responsividade da agência virtual em
 
 > Agência virtual da Neoenergia. Neoenergia. Disponível em: [https://agenciavirtual.neoenergiabrasilia.com.br/](https://agenciavirtual.neoenergiabrasilia.com.br/). Acesso em: 02 dez 2024.
 
-## Histórico de Versões
 
-| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do Documento GOMS                  |  [Davi Casseb](https://github.com/dcasseb), [Henrique Alencar](https://github.com/henryqma), [Dara Maria](https://github.com/daramariabs)      |   30/11   |     [Davi Casseb](https://github.com/dcasseb), [Henrique Alencar](https://github.com/henryqma), [Dara Maria](https://github.com/daramariabs)   |        02/12     |
+## Histórico de versão
+
+| Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
+| ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
+| `1.0`  | 03/12/2024 | Criação do documento                    | [Davi Casseb](https://github.com/dcasseb), [Henrique Alencar](https://github.com/henryqma), [Dara Maria](https://github.com/daramariabs)      | Dara Maria, Davi Casseb, Henrique Alencar |

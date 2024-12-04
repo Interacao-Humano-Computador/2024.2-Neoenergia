@@ -19,10 +19,15 @@ Para atender às expectativas dos usuários, é indispensável desenvolver siste
 ### Violação
 A violação que vemos na página principal do site da agência virtual da Neoenergia, é que mesmo selecionando o serviço a ser requisitado, o usuário não é levado à página desejada, mesmo que o usuário já tenha feito _login_. Como mostra na figura 1
 
-![Página Inicial](../assets/neoenergia_2.jpeg)
-<div align="center">
-<p> Figura 1 - Violação da Correspondência com as Expectativas dos Usuários. Fonte: Site Agência Virtual da Neoenergia  </p> 
-</div>
+<center>
+
+**Figura 1** - Violação da Correspondência com as Expectativas dos Usuários
+
+![Página Inicial](../assets/neoenergia_2.jpeg){ width="900px" }
+
+_Fonte: Site Agência Virtual da Neoenergia_
+
+</center>
 
 ### Sugestão de melhoria
 
@@ -45,10 +50,15 @@ Portanto, diante de cada linha de código, cada configuração de interface, dev
 ### Violação
 Como explicado acima, o site da Agência Virtual da Neoenergia não possui nenhuma informação para onde o usário deve ir, ou proceder para, por exemplo atualizar seu cadastro. Na figura 3 monstramos o layout do site, monstrando que o site não oferece as informações ao usuário.
 
-![Página de solicitação de Unidades Cadastradas](../assets/neoenergia_3.jpeg)
-<div align="center">
-<p> Figura 3 - Antecipação Fonte: Site Agência Virtual da Neoenergia  </p> 
-</div>
+<center>
+
+**Figura 3** - Antecipação
+
+![Página de solicitação de Unidades Cadastradas](../assets/neoenergia_3.jpeg){ width="900px" }
+
+_Fonte: Site Agência Virtual da Neoenergia_
+
+</center>
 
 ## Sugestão de melhoria
 Para resolver a violação de antecipação e melhorar a experiência do usuário, sugerimos a implementação de um sistema de mensagens de informações de acesso. Ao entrar na plataforma, os usuários seriam direcionados a uma página de login, onde poderiam inserir suas credenciais e receberiam uma mensagem informando para onde o usuário deveria ir para receber determinado serviço. Com isso, o site poderia antecipar as necessidades dos usuários, proporcionando uma experiência mais fluida e eficiente. Essa abordagem não só melhoraria a eficiência do site, como também criaria uma experiência de usuário mais satisfatória e personalizada, alinhada com os princípios de IHC de antecipação e proatividade.
@@ -63,11 +73,18 @@ Autores como Nielsen (1993), Shneiderman (1998) e Tognazzini (2003) reforçam a 
 Portanto, ao projetar interfaces, a prioridade deve ser sempre os usuários. Eles não devem enfrentar dificuldades para entender interações anteriores ou estados ocultos do sistema. Em vez disso, é necessário fornecer indicações claras, orientar suas ações e mantê-los cientes de onde estão e do que podem fazer. Essa abordagem é essencial para criar experiências de uso envolventes e satisfatórias.
 
 ### Violação
+
 No site móvel da Agência Virtual, , como monstrado na figura 4
-![Página Seleção do Crime](../assets/neoenergiaPagUsuario_movel.jpeg)
-<div align="center">
-<p> Figura 8 - Visibilidade e Reconhecimento Fonte: Site Agência Virtual da Neoenergia  </p> 
-</div>
+
+<center>
+
+**Figura 8** - Visibilidade e Reconhecimento
+
+![Página Seleção do Crime](../assets/neoenergiaPagUsuario_movel.jpeg){ width="400px" }
+
+_Fonte: Site Agência Virtual da Neoenergia_
+
+</center>
 
 ## Sugestão de melhoria
 Para a melhoria da Visibilidade e reconhecimento recomendamos:
@@ -88,8 +105,8 @@ Com base em todas as diretrizes avaliadas e nas funcionalidades escolhidas por c
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
 > Agência Virtual da Neoenergia. Disponível em: [https://agenciavirtual.neoenergia.com/](https://agenciavirtual.neoenergia.com/). Acesso em: 01 dez 2024.
 
-## **Histórico de Versões**
-      Tabela que descreve o Histórico de Versões
-| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0 | Criação do documento | [Davi Casseb ](https://github.com/dcasseb)  | 01/12 |  [Henrique Alencar](https://github.com/henryqma), [Dara Maria](https://github.com/daramariabs) | 02/12 |
+## Histórico de versão
+
+| Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
+| ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
+| `1.0`  | 03/12/2024 | Criação da página                     | [Davi Casseb](https://github.com/dcasseb)       | Dara Maria, Henrique Alencar |

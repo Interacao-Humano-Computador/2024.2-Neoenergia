@@ -16,16 +16,16 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 <center>
 
 | **Questão** | **Descrição** | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
-|:-----------:|---------------|:-------------------------------------:|:------------------------------------:|
-| 1           | O histórico de versão está padronizado?              |                                       |                                      |
-| 2           | Autor(es) e revisor(es) estão identificados para cada artefato? |                                |                                      |
-| 3           | Referências bibliográficas estão presentes em todos os artefatos? |                          |                                      |
-| 4           | Tabelas e imagens possuem legenda e fonte, sendo chamadas no texto? |                  |                                      |
-| 5           | Há um texto de introdução aos artefatos?              |                                       |                                      |
-| 6           | O cronograma executado detalha responsáveis e datas de início e fim? |                   |                                      |
-| 7           | Existem atas das reuniões com informações completas?  |                                       |                                      |
-| 8           | As reuniões foram gravadas?                          |                                       |                                      |
-| 9           | Existe um vídeo de apresentação na categoria "não listado" no YouTube? |           |                                      |
+|:-----------:|---------------|:-------------------------------------:|:------------------------------------:| 
+| 1           | O histórico de versão está padronizado?              |  Sim                                     |         1.0, 03/12, 23h30                     |
+| 2           | Autor(es) e revisor(es) estão identificados para cada artefato? |      Sim                          |        1.0, 03/12, 23h30                               |
+| 3           | Referências bibliográficas estão presentes em todos os artefatos? |         Sim                 |               1.0, 03/12, 23h30                        |
+| 4           | Tabelas e imagens possuem legenda e fonte, sendo chamadas no texto? |          Sim        |                  1.0, 03/12, 23h30                     |
+| 5           | Há um texto de introdução aos artefatos?              |                   Sim                    |              1.0, 03/12, 23h30                         |
+| 6           | O cronograma executado detalha responsáveis e datas de início e fim? |         Sim          |                    1.0, 03/12, 23h30                   |
+| 7           | Existem atas das reuniões com informações completas?  |                     Sim                  |              1.0, 03/12, 23h30                         |
+| 8           | As reuniões foram gravadas?                          |                  Sim                     |              1.0, 03/12, 23h30                         |
+| 9           | Existe um vídeo de apresentação na categoria "não listado" no YouTube? |     Sim      |                1.0, 03/12, 23h30                       |
 
 </center>
 
@@ -36,17 +36,17 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 | **Questão** | **Descrição** | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
 |:-----------:|---------------|:-------------------------------------:|:------------------------------------:|
 | 1           | O perfil do usuário foi definido?                    |                                       |                                      |
-| 2           | O perfil do usuário possui os atributos demográficos e profissionais? |       |                                      |
-| 3           | O perfil do usuário categoriza idade, experiência, atitudes e tarefas? |          |                                      |
-| 4           | Aspectos éticos em pesquisas envolvendo pessoas foram considerados? |         |                                      |
-| 5           | Foram aplicados os princípios de autonomia, beneficência, não maleficência e justiça? |  |                                      |
-| 6           | Foi solicitado consentimento antes de gravações?      |                                       |                                      |
-| 7           | Há um termo de consentimento livre e esclarecido?     |                                       |                                      |
-| 8           | Foram utilizadas ao menos duas técnicas para coletar dados dos usuários? |          |                                      |
-| 9           | Cenários foram desenvolvidos?                        |                                       |                                      |
-| 10          | A análise de tarefas foi realizada?                  |                                       |                                      |
-| 11          | Tarefas foram modeladas em pelo menos duas técnicas (ex.: HTA, GOMS)? |         |                                      |
-| 12          | Foi aplicada alguma técnica para especificar tarefas? |                                       |                                      |
+| 2           | O perfil do usuário possui os atributos demográficos e profissionais? |    Sim   |       1.0, 03/12, 23h30                               |
+| 3           | O perfil do usuário categoriza idade, experiência, atitudes e tarefas? |     Sim     |           1.0, 03/12, 23h30                           |
+| 4           | Aspectos éticos em pesquisas envolvendo pessoas foram considerados? |    Sim     |            1.0, 03/12, 23h30                          |
+| 5           | Foram aplicados os princípios de autonomia, beneficência, não maleficência e justiça? | Sim |     1.0, 03/12, 23h30                                 |
+| 6           | Foi solicitado consentimento antes de gravações?      |         Sim                              |    1.0, 03/12, 23h30                                  |
+| 7           | Há um termo de consentimento livre e esclarecido?     |           Sim                            |        1.0, 03/12, 23h30                              |
+| 8           | Foram utilizadas ao menos duas técnicas para coletar dados dos usuários? |    Sim      |              1.0, 03/12, 23h30                        |
+| 9           | Cenários foram desenvolvidos?                        |             Sim                          |     1.0, 03/12, 23h30                                 |
+| 10          | A análise de tarefas foi realizada?                  |              Sim                         |        1.0, 03/12, 23h30                              |
+| 11          | Tarefas foram modeladas em pelo menos duas técnicas (ex.: HTA, GOMS)? |    Incompleto     |              1.0, 03/12, 23h30                        |
+| 12          | Foi aplicada alguma técnica para especificar tarefas? |                 Sim                      |     1.0, 03/12, 23h30                                 |
 
 </center>
 

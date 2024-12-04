@@ -17,15 +17,15 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 | **Questão** | **Descrição** | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
 |:-----------:|---------------|:-------------------------------------:|:------------------------------------:|
-| 1           | O histórico de versão está padronizado?              |                                       |                                      |
-| 2           | Autor(es) e revisor(es) estão identificados para cada artefato? |                                |                                      |
-| 3           | Referências bibliográficas estão presentes em todos os artefatos? |                          |                                      |
-| 4           | Tabelas e imagens possuem legenda e fonte, sendo chamadas no texto? |                  |                                      |
-| 5           | Há um texto de introdução aos artefatos?              |                                       |                                      |
-| 6           | O cronograma executado detalha responsáveis e datas de início e fim? |                   |                                      |
-| 7           | Existem atas das reuniões com informações completas?  |                                       |                                      |
-| 8           | As reuniões foram gravadas?                          |                                       |                                      |
-| 9           | Existe um vídeo de apresentação na categoria "não listado" no YouTube? |           |                                      |
+| 1           | O histórico de versão está padronizado?              |                   Sim                    |          1.0, 03/12, 23h30                            |
+| 2           | Autor(es) e revisor(es) estão identificados para cada artefato? |            Sim                    |              1.0, 03/12, 23h30                        |
+| 3           | Referências bibliográficas estão presentes em todos os artefatos? |           Sim               |                1.0, 03/12, 23h30                      |
+| 4           | Tabelas e imagens possuem legenda e fonte, sendo chamadas no texto? |         Sim         |                   1.0, 03/12, 23h30                   |
+| 5           | Há um texto de introdução aos artefatos?              |                 Sim                      |            1.0, 03/12, 23h30                          |
+| 6           | O cronograma executado detalha responsáveis e datas de início e fim? |       Sim            |                1.0, 03/12, 23h30                      |
+| 7           | Existem atas das reuniões com informações completas?  |                Sim                       |            1.0, 03/12, 23h30                          |
+| 8           | As reuniões foram gravadas?                          |                 Sim                      |            1.0, 03/12, 23h30                          |
+| 9           | Existe um vídeo de apresentação na categoria "não listado" no YouTube? |    Sim       |               1.0, 03/12, 23h30                       |
 
 </center>
 
@@ -35,14 +35,14 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 | **Questão** | **Descrição** | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
 |:-----------:|---------------|:-------------------------------------:|:------------------------------------:|
-| 10          | As características da plataforma foram consideradas no projeto? |         |                                      |
-| 11          | Os Princípios Gerais do Projeto foram definidos?     |                                       |                                      |
-| 12          | Os Princípios Gerais do Projeto incluem todos os tópicos (expectativas, simplicidade, controle, etc.)? |  |                                      |
-| 13          | As metas de usabilidade ou objetivos de avaliação de IHC foram estabelecidos? | |                                      |
-| 14          | A razão para a escolha das metas de usabilidade foi apresentada? |      |                                      |
-| 15          | Um Guia de Estilo foi desenvolvido para o projeto?   |                                       |                                      |
-| 16          | O Guia de Estilo segue uma estrutura completa (introdução, elementos de interface, interação, etc.)? | |                                      |
-| 17          | O Guia de Estilo corresponde ao site avaliado?       |    
+| 10          | As características da plataforma foram consideradas no projeto? |   Sim      |                                      |
+| 11          | Os Princípios Gerais do Projeto foram definidos?     |             Sim                          |                                      |
+| 12          | Os Princípios Gerais do Projeto incluem todos os tópicos (expectativas, simplicidade, controle, etc.)? | Sim |                                      |
+| 13          | As metas de usabilidade ou objetivos de avaliação de IHC foram estabelecidos? | Sim |                                      |
+| 14          | A razão para a escolha das metas de usabilidade foi apresentada? |   Sim   |                                      |
+| 15          | Um Guia de Estilo foi desenvolvido para o projeto?   |               Sim                        |                                      |
+| 16          | O Guia de Estilo segue uma estrutura completa (introdução, elementos de interface, interação, etc.)? | Sim |                                      |
+| 17          | O Guia de Estilo corresponde ao site avaliado?       |    Sim
 
 </center>
 

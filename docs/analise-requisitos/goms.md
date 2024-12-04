@@ -13,6 +13,9 @@ e regras de seleção (selection rules).
 
 ## Funcionalidades Avaliadas pela GOMS
      Tabela que monstra quais funcionalidades foram avaliadas pela HTA
+
+<center>
+
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 | 2ª via de pagamento |Dara|  
@@ -21,10 +24,17 @@ e regras de seleção (selection rules).
 | Cadastro de parceiro   | Davi          |
 | Solicitação sobre danos elétricos | Davi |
 
+</center>
+
+<center>
+
+<p> Figura 1 - Página inicial da Agência Virtual da Neoenergia. </p> 
+
 ![Página inicial da agência](../../assets/neoenergia_1.jpeg)
-<div align="center">
-<p> Figura 1 - Página inicial da Agência Virtual da Neoenergia. Fonte: Site da agência virtual  </p> 
-</div>
+
+<p> Fonte: Site da agência virtual  </p> 
+
+</center>
 
 ### 2ª via de pagamento 
 #### Introdução 

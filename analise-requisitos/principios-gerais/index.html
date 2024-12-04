@@ -92,6 +92,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#introducao" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -888,6 +893,19 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Príncipios Gerais
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -898,6 +916,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1198,9 +1253,104 @@
   
 
 
-  <h1>Príncipios Gerais</h1>
+<h1 id="introducao">Introdução</h1>
+<p>No campo da Interação Humano-Computador (IHC), diretrizes frequentemente adotadas incluem alinhar-se às expectativas dos usuários, simplificar as atividades, equilibrar o controle e a liberdade oferecidos ao usuário, manter padrões de consistência, priorizar a eficiência, antecipar as necessidades do público-alvo, garantir visibilidade e reconhecimento, oferecer conteúdos úteis e adequadamente apresentados, além de projetar o sistema para minimizar erros. Tais princípios são fundamentais para criar interfaces e interações mais eficazes.</p>
+<p>Norman (1988) destaca a relevância de desenvolver sistemas baseados em um modelo conceitual bem definido e de fácil compreensão para os usuários. Esse modelo deve permitir que eles compreendam como as ações realizadas e as informações do sistema se conectam ao conhecimento que possuem sobre o mundo. Ele sublinha que o design deve favorecer a identificação das ações possíveis em cada situação, tornar os elementos do sistema visíveis, facilitar a avaliação de seu estado atual e alinhar as intenções dos usuários com as ações e seus resultados, seguindo mapeamentos intuitivos.</p>
+<h2 id="objetivo">Objetivo</h2>
+<p>Esse artefato tem como objetivo verificar os princípios gerais e se a agência virtual da Neoenergia viola estes princípios e, caso viole, sugerir uma melhoria.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Para analisarmos os princípios gerais, realizamos uma análise individual de violações que o site poderia ter em relação ao Princípio.</p>
+<h1 id="correspondencia-com-as-expectativas-dos-usuarios">Correspondência com as Expectativas dos Usuários</h1>
+<h3 id="motivacao">Motivação</h3>
+<p>Conforme Nielsen (1994), é fundamental que o projetista adote convenções alinhadas ao mundo real, organizando as informações de forma lógica e em uma sequência que faça sentido para os usuários. Por isso, é crucial compreender os padrões de ações que lhes são familiares. Caso a solução proposta se desvie dessas familiaridades, deve ao menos apresentar uma estrutura lógica que seja compreensível. Além disso, ao término de cada tarefa, o sistema precisa fornecer um feedback claro, permitindo ao usuário concluir a atividade com tranquilidade e seguir para outras tarefas.</p>
+<p>Para atender às expectativas dos usuários, é indispensável desenvolver sistemas que utilizem mapeamentos naturais, facilitando a compreensão das conexões entre suas intenções, as ações disponíveis e os resultados obtidos.</p>
+<h3 id="violacao">Violação</h3>
+<p>A violação que vemos na página principal do site da agência virtual da Neoenergia, é que mesmo selecionando o serviço a ser requisitado, o usuário não é levado à página desejada, mesmo que o usuário já tenha feito <em>login</em>. Como mostra na figura 1</p>
+<p><a class="glightbox" href="../../assets/neoenergia_2.jpeg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Página Inicial" src="../../assets/neoenergia_2.jpeg" /></a></p>
+<div align="center">
+<p> Figura 1 - Violação da Correspondência com as Expectativas dos Usuários. Fonte: Site Agência Virtual da Neoenergia  </p> 
+</div>
 
+<h3 id="sugestao-de-melhoria">Sugestão de melhoria</h3>
+<p>Podemos realizar algumas melhorias para atender a Correspondência dos usuários como:</p>
+<ul>
+<li>Responsividade do site. O site deverá levar o usuário para o serviço que ele deseja, sem a necessidade de inserir múltiplas vezes seus dados.</li>
+<li>Verificar o layout do site para que possa ser repensado as informações, de maneira que fiquem mais intuitivas.</li>
+</ul>
+<h1 id="antecipacao">Antecipação</h1>
+<h3 id="motivacao_1">Motivação</h3>
+<p>Diante do desafio de desenvolver aplicações que transcendam a mera resposta às necessidades imediatas dos usuários, somos convocados a abraçar o princípio da antecipação. Em vez de esperar passivamente por comandos, devemos aspirar a prever as necessidades e desejos dos usuários, fornecendo-lhes as informações e ferramentas necessárias antes mesmo que eles as solicitem.</p>
+<p>Cooper(1999) e Tognazzini(2003) nos guiam nessa jornada, lembrando-nos de que o verdadeiro valor de uma aplicação reside em sua capacidade de tomar a iniciativa, oferecendo não apenas respostas diretas, mas também informações adicionais pertinentes. Imagine um software que, ao ser questionado sobre um restaurante, não apenas fornece seu número de telefone, mas também seus horários de funcionamento. Este é o nível de antecipação que devemos almejar.</p>
+<p>Não basta apenas antecipar as necessidades; é crucial também oferecer configurações padrão cuidadosamente pensadas. Os valores padrão devem ser escolhidos com sabedoria, sendo facilmente ajustáveis pelos usuários conforme a situação exige. Lembre-se, as pessoas tendem a aceitar os valores padrão como corretos, então cada escolha deve ser feita com atenção e consideração.</p>
+<p>Portanto, diante de cada linha de código, cada configuração de interface, devemos nos perguntar: estamos verdadeiramente antecipando as necessidades dos nossos usuários? Estamos facilitando suas interações de forma proativa? Sejamos arquitetos da antecipação, construindo não apenas software, mas sim experiências que superam expectativas e proporcionam um serviço excepcional.</p>
+<h3 id="violacao_1">Violação</h3>
+<p>Como explicado acima, o site da Agência Virtual da Neoenergia não possui nenhuma informação para onde o usário deve ir, ou proceder para, por exemplo atualizar seu cadastro. Na figura 3 monstramos o layout do site, monstrando que o site não oferece as informações ao usuário.</p>
+<p><a class="glightbox" href="../../assets/neoenergia_3.jpeg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Página de solicitação de Unidades Cadastradas" src="../../assets/neoenergia_3.jpeg" /></a></p>
+<div align="center">
+<p> Figura 3 - Antecipação Fonte: Site Agência Virtual da Neoenergia  </p> 
+</div>
 
+<h2 id="sugestao-de-melhoria_1">Sugestão de melhoria</h2>
+<p>Para resolver a violação de antecipação e melhorar a experiência do usuário, sugerimos a implementação de um sistema de mensagens de informações de acesso. Ao entrar na plataforma, os usuários seriam direcionados a uma página de login, onde poderiam inserir suas credenciais e receberiam uma mensagem informando para onde o usuário deveria ir para receber determinado serviço. Com isso, o site poderia antecipar as necessidades dos usuários, proporcionando uma experiência mais fluida e eficiente. Essa abordagem não só melhoraria a eficiência do site, como também criaria uma experiência de usuário mais satisfatória e personalizada, alinhada com os princípios de IHC de antecipação e proatividade.</p>
+<h1 id="visibilidade-e-reconhecimento">Visibilidade e Reconhecimento</h1>
+<h3 id="motivacao_2">Motivação</h3>
+<p>No processo de desenvolvimento e design de interfaces, é comum perder o foco no elemento mais importante: os usuários. Por isso, é essencial garantir que não apenas as funcionalidades estejam evidentes, mas também as intenções e os estados do sistema. Norman destaca a necessidade de reduzir momentos de incerteza, deixando claro para os usuários o que pode ser feito e como realizar essas ações. A interface deve funcionar como uma extensão intuitiva de suas intenções, apresentando opções relevantes para o contexto e ocultando aquelas desnecessárias. Além disso, é fundamental oferecer feedback imediato e consistente após cada interação, alinhando-se ao modelo mental do usuário.</p>
+<p>Autores como Nielsen (1993), Shneiderman (1998) e Tognazzini (2003) reforçam a importância da visibilidade contínua dos elementos da interface. Os usuários não devem ser deixados sem informações sobre o funcionamento do sistema. Cada interação deve ser acompanhada por um feedback adequado, cuja intensidade varia conforme a frequência e o impacto da ação. Tognazzini (2003) também apresenta orientações práticas para lidar com diferentes tempos de resposta do sistema, desde ações instantâneas até aquelas que exigem maior tempo de processamento. É fundamental manter os usuários informados e engajados, mesmo em situações de espera mais prolongada.</p>
+<p>Portanto, ao projetar interfaces, a prioridade deve ser sempre os usuários. Eles não devem enfrentar dificuldades para entender interações anteriores ou estados ocultos do sistema. Em vez disso, é necessário fornecer indicações claras, orientar suas ações e mantê-los cientes de onde estão e do que podem fazer. Essa abordagem é essencial para criar experiências de uso envolventes e satisfatórias.</p>
+<h3 id="violacao_2">Violação</h3>
+<p>No site móvel da Agência Virtual, , como monstrado na figura 4
+<a class="glightbox" href="../../assets/neoenergiaPagUsuario_movel.jpeg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Página Seleção do Crime" src="../../assets/neoenergiaPagUsuario_movel.jpeg" /></a></p>
+<div align="center">
+<p> Figura 8 - Visibilidade e Reconhecimento Fonte: Site Agência Virtual da Neoenergia  </p> 
+</div>
+
+<h2 id="sugestao-de-melhoria_2">Sugestão de melhoria</h2>
+<p>Para a melhoria da Visibilidade e reconhecimento recomendamos:
+* Diferentes cores para os ícones;</p>
+<ul>
+<li>
+<p>Modificar o contraste dos ícones para que sua visibilidade não seja afetada, prejudicando principalmente os usuários mais velhos;</p>
+</li>
+<li>
+<p>Fornecer uma visão geral do site de maneira otimizada, promovendo a eficiência em sua usabilidade.</p>
+</li>
+</ul>
+<h2 id="principios-gerais-escolhidos-para-o-projeto">Principios Gerais escolhidos para o projeto:</h2>
+<p>Com base em todas as diretrizes avaliadas e nas funcionalidades escolhidas por cada integrante, os principios gerais escolhidos para o projeto são:</p>
+<pre><code>  1 - Correspondência com as Expectativas dos Usuários
+  2 - Antecipação
+  3 - Visibilidade e Reconhecimento
+</code></pre>
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
+Agência Virtual da Neoenergia. Disponível em: <a href="https://agenciavirtual.neoenergia.com/">https://agenciavirtual.neoenergia.com/</a>. Acesso em: 01 dez 2024.</p>
+</blockquote>
+<h2 id="historico-de-versoes"><strong>Histórico de Versões</strong></h2>
+<pre><code>  Tabela que descreve o Histórico de Versões
+</code></pre>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor(es)</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Revisor(es)</th>
+<th style="text-align: center;">Data de revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">Criação do documento</td>
+<td style="text-align: center;"><a href="https://github.com/dcasseb">Davi Casseb </a></td>
+<td style="text-align: center;">01/12</td>
+<td style="text-align: center;"><a href="https://github.com/henryqma">Henrique Alencar</a>, <a href="https://github.com/daramariabs">Dara Maria</a></td>
+<td style="text-align: center;">02/12</td>
+</tr>
+</tbody>
+</table>
 
 
 

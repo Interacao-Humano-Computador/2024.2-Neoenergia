@@ -35,14 +35,14 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 | **Questão** | **Descrição** | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
 |:-----------:|---------------|:-------------------------------------:|:------------------------------------:|
-| 10          | As características da plataforma foram consideradas no projeto? |   Sim      |                                      |
-| 11          | Os Princípios Gerais do Projeto foram definidos?     |             Sim                          |                                      |
-| 12          | Os Princípios Gerais do Projeto incluem todos os tópicos (expectativas, simplicidade, controle, etc.)? | Sim |                                      |
-| 13          | As metas de usabilidade ou objetivos de avaliação de IHC foram estabelecidos? | Sim |                                      |
-| 14          | A razão para a escolha das metas de usabilidade foi apresentada? |   Sim   |                                      |
-| 15          | Um Guia de Estilo foi desenvolvido para o projeto?   |               Sim                        |                                      |
-| 16          | O Guia de Estilo segue uma estrutura completa (introdução, elementos de interface, interação, etc.)? | Sim |                                      |
-| 17          | O Guia de Estilo corresponde ao site avaliado?       |    Sim
+| 10          | As características da plataforma foram consideradas no projeto? |   Sim      |                   1.0, 03/12, 23h30                    |
+| 11          | Os Princípios Gerais do Projeto foram definidos?     |             Sim                          |                 1.0, 03/12, 23h30                      |
+| 12          | Os Princípios Gerais do Projeto incluem todos os tópicos (expectativas, simplicidade, controle, etc.)? | Sim |              1.0, 03/12, 23h30                         |
+| 13          | As metas de usabilidade ou objetivos de avaliação de IHC foram estabelecidos? | Sim |                  1.0, 03/12, 23h30                     |
+| 14          | A razão para a escolha das metas de usabilidade foi apresentada? |   Sim   |             1.0, 03/12, 23h30                          |
+| 15          | Um Guia de Estilo foi desenvolvido para o projeto?   |               Sim                        |           1.0, 03/12, 23h30                            |
+| 16          | O Guia de Estilo segue uma estrutura completa (introdução, elementos de interface, interação, etc.)? | Sim |         1.0, 03/12, 23h30                              |
+| 17          | O Guia de Estilo corresponde ao site avaliado?       |    Sim  | 1.0, 03/12, 23h30  |
 
 </center>
 

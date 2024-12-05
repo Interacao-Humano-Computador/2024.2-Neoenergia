@@ -9,7 +9,7 @@ O objetivo principal deste documento de planejamento de verificação é assegur
 ## Metodologia 
 A metodologia escolhida será a lista de verificação, é apresentada como uma técnica organizada e eficiente para avaliar artefatos de design. E esse método possui o uso de listas predefinidas de critérios que ajudam os avaliadores a identificar se um artefato atende aos padrões e diretrizes estabelecidos. 
 
-## Verificação do nosso grupo
+## Verificação do grupo 04
 
 ### Desenvolvimento do projeto 
 
@@ -56,7 +56,7 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 **Figura 1:** Gráfico de Tarefas do Grupo 04
 
-![Pie Chart das Tarefas](../../assets/verificações/grafico402.png){ width="800px"}
+![Pie Chart das Tarefas](docs/assets/verificações/grafico402.png){ width="800px"}
 
 _Fonte: Davi Casseb_
 

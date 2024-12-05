@@ -52,7 +52,7 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 **Figura 1:** Gráfico de Tarefas
 
-![Pie Chart das Tarefas](../../assets/verificações/grafico03.png){ width="800px"}
+![Pie Chart das Tarefas](docs/assets/verificações/grafico03.png){ width="800px"}
 
 _Fonte: Davi Casseb_
 

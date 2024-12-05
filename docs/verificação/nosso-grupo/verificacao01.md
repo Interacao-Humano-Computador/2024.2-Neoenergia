@@ -46,7 +46,7 @@ considerações dos monitores/professor?  | Sim  |
 
 **Figura 1:** Gráfico de Tarefas
 
-![Pie Chart das Tarefas](../../assets/verificações/grafico01.png){ width="800px"}
+![Pie Chart das Tarefas](docs/assets/verificações/grafico01.png){ width="800px"}
 
 _Fonte: Davi Casseb_
 

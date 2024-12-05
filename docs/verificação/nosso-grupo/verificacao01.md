@@ -41,13 +41,14 @@ considerações dos monitores/professor?  | Sim  |
 </center>
 
 ## Gráfico de Tarefas
-<div align="center">
-<p> Figura 1: Gráfico de Tarefas do Grupo 04 </p> 
-</div>
 
 <center>
 
-![Pie Chart das Tarefas](/assets/verificações/Grafico-de-Tarefas.png)
+**Figura 1:** Gráfico de Tarefas
+
+![Pie Chart das Tarefas](/assets/verificações/grafico01.png){ width="800px"}
+
+_Fonte: Davi Casseb_
 
 </center>
 

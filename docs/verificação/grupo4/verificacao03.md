@@ -46,6 +46,18 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 </center>
 
+## Gráfico de Tarefas
+
+<center>
+
+**Figura 1:** Gráfico de Tarefas do Grupo 04
+
+![Pie Chart das Tarefas](/assets/verificações/grafico403.png){ width="800px"}
+
+_Fonte: Davi Casseb_
+
+</center>
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 

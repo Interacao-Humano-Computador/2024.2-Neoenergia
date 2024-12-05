@@ -41,17 +41,19 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 </center>
 
 ## Gráfico de Tarefas
-<div align="center">
-<p> Figura 1: Gráfico de Tarefas do Grupo 04 </p> 
-</div>
 
 <center>
 
-![Pie Chart das Tarefas](/assets/verificações/Grafico-de-Tarefas-Grupo-04.png)
+**Figura 1:** Gráfico de Tarefas do Grupo 04
+
+![Pie Chart das Tarefas](/assets/verificações/grafico401.png){ width="800px"}
+
+_Fonte: Davi Casseb_
 
 </center>
 
 ## Bibliografia
+
 > SALES. Plano de Ensino. Outubro de 2004. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf" target="_blank">Aprender3</a>.
 
 ## Histórico de versão

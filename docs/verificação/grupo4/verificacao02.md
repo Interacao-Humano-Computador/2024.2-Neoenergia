@@ -56,7 +56,7 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 **Figura 1:** Gráfico de Tarefas do Grupo 04
 
-![Pie Chart das Tarefas](/assets/verificações/grafico402.png){ width="800px"}
+![Pie Chart das Tarefas](../../assets/verificações/grafico402.png){ width="800px"}
 
 _Fonte: Davi Casseb_
 

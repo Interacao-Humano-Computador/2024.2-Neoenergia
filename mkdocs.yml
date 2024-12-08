@@ -50,13 +50,22 @@ nav:
 
   - Verificação:
     - Nosso grupo:
-      - Verificação 01: verificação/nosso-grupo/verificacao01.md
-      - Verificação 02: verificação/nosso-grupo/verificacao02.md
-      - Verificação 03: verificação/nosso-grupo/verificacao03.md
+      - Verificação 01: verificação/verificacao-01.md
+      - Verificação 02: verificação/verificacao-02.md
+      - Verificação 03: verificação/verificacao-03.md
     - Grupo 04:
-      - Verificação 01: verificação/grupo4/verificacao01.md
-      - Verificação 02: verificação/grupo4/verificacao02.md
-      - Verificação 03: verificação/grupo4/verificacao03.md
+      - Verificação 01: verificação/verificacaog4-01.md
+      - Verificação 02: verificação/verificacaog4-02.md
+      - Verificação 03: verificação/verificacaog4-03.md
+
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-analise.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-analise.md
+      - Storyboard: 
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-storyboard.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-storyboard.md
 
 theme:
   icon:

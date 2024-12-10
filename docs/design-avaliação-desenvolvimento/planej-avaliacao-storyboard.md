@@ -140,6 +140,10 @@ O **teste piloto** é uma etapa inicial da avaliação que serve como ensaio ger
 
 </center>
 
+## Bibliografia
+
+>  BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |

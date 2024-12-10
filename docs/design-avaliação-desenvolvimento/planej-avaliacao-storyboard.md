@@ -135,9 +135,15 @@ O **teste piloto** é uma etapa inicial da avaliação que serve como ensaio ger
 | Análise de dados          | 09/12/2024     | 1 dia       | Dara Maria, Davi e Henrique |
 | Elaboraçã do relatório   | 10/12/2024     | 1 dia       | Dara Maria |
 
+
 **Fonte**: [Dara Maria](https://github.com/daramariabs) 
 
 </center>
 
+## Histórico de versão
 
-
+| Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
+| ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
+| `1.0`  | 08/12/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 09/12/2024 | Adição do planejamento da avaliação                   | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.2`  | 10/12/2024 | Adição do teste piloto                    | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

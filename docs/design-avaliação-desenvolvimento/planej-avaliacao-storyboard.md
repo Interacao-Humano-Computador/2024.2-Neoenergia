@@ -33,7 +33,7 @@ O planejamento segue o framework DECIDE (Determine, Explore, Choose, Identify, D
 - Existe algum ponto de confusão ou ambiguidade?
 
 
-## 3. Choose the evaluation methods (Escolha os métodos de avaliação)
+## 3. Escolha os métodos de avaliação
 Após determinar os objetivos e as perguntas, é hora de escolher os métodos e técnicas que serão utilizados para coletar os dados necessários. Aqui, optamos por métodos qualitativos como testes de usabilidade, entrevistas e questionários.
 
 - **Métodos escolhidos:**
@@ -44,6 +44,10 @@ Após determinar os objetivos e as perguntas, é hora de escolher os métodos e 
 #### Roteiro de Perguntas
 
 Durante as entrevistas e a aplicação do questionário, as seguintes perguntas serão feitas aos participantes para avaliar a eficácia e clareza do storyboard. As respostas coletadas ajudarão a identificar áreas para melhorias.
+
+<center>
+
+**Tabela 1** - Roteiro de Perguntas
 
 | **ID** | **Enunciado**                                                                 | **Resposta**        |
 |--------|--------------------------------------------------------------------------------|---------------------|
@@ -57,6 +61,10 @@ Durante as entrevistas e a aplicação do questionário, as seguintes perguntas 
 | 8      | O storyboard é adequado ao público-alvo do produto? | ( ) SIM ( ) NÃO     |
 | 9      | O storyboard demonstra os benefícios e as vantagens do produto? | ( ) SIM ( ) NÃO     |
 |  10     | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | ( ) SIM ( ) NÃO     |
+
+**Fonte**: [Dara Maria](https://github.com/daramariabs) 
+
+</center>
 
 ## 4. Identifique as questões práticas
 **Questões práticas:**
@@ -114,6 +122,10 @@ O **teste piloto** é uma etapa inicial da avaliação que serve como ensaio ger
 
 ### Cronograma
 
+<center>
+  
+**Tabela 2** - Cronograma
+
 | **Etapa**                 | **Data**       | **Duração** | **Participantes** |
 |---------------------------|----------------|-------------| -------------|
 | Preparação de materiais   | 03/12/2024     | 1 dia       | Dara Maria, Davi e Henrique |
@@ -122,6 +134,10 @@ O **teste piloto** é uma etapa inicial da avaliação que serve como ensaio ger
 | Execução dos testes       | 08/12/2024  | 1 dia     | Dara Maria
 | Análise de dados          | 09/12/2024     | 1 dia       | Dara Maria, Davi e Henrique |
 | Elaboraçã do relatório   | 10/12/2024     | 1 dia       | Dara Maria |
+
+**Fonte**: [Dara Maria](https://github.com/daramariabs) 
+
+</center>
 
 
 

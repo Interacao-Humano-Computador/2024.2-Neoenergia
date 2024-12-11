@@ -17,15 +17,15 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 
 | **Questão** |                                **Descrição**                           | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
 |:-----------:|------------------------------------------------------------------------|:-------------------------------------:|:------------------------------------:|
-| 1           | O histórico de versão está padronizado?                                |                                       |                                      |
-| 2           | Autor(es) e revisor(es) estão identificados para cada artefato?        |                                       |                                      |
-| 3           | Referências bibliográficas estão presentes em todos os artefatos?      |                                       |                                      |
-| 4           | Tabelas e imagens possuem legenda e fonte, sendo chamadas no texto?    |                                       |                                      |
-| 5           | Há um texto de introdução aos artefatos?                               |                                       |                                      |
-| 6           | O cronograma executado detalha responsáveis e datas de início e fim?   |                                       |                                      |
-| 7           | Existem atas das reuniões com informações completas?                   |                                       |                                      |
-| 8           | As reuniões foram gravadas?                                            |                                       |                                      |
-| 9           | Existe um vídeo de apresentação na categoria "não listado" no YouTube? |                                       |                                      |
+| 1           | O histórico de versão está padronizado?                                |                Sim                    |        1.2 <br> 10/12 - 22h00        |
+| 2           | Autor(es) e revisor(es) estão identificados para cada artefato?        |                Sim                    |        1.2 <br> 10/12 - 22h00        |
+| 3           | Referências bibliográficas/bibliografia estão presentes em todos os artefatos?      |   Sim                    |        1.2 <br> 10/12 - 22h00        |
+| 4           | Tabelas e imagens possuem legenda e fonte, sendo chamadas no texto?    |                Sim                    |        1.2 <br> 10/12 - 22h00        |
+| 5           | Há um texto de introdução aos artefatos?                               |                Sim                    |        1.2 <br> 10/12 - 22h00        |
+| 6           | O cronograma executado detalha responsáveis e datas de início e fim?   |                Sim                    |        1.2 <br> 10/12 - 22h00        |
+| 7           | Existem atas das reuniões com informações completas?                   |                Não                    |        1.2 <br> 10/12 - 22h00        |
+| 8           | As reuniões foram gravadas?                                            |                Não                    |        1.2 <br> 10/12 - 22h00        |
+| 9           | Existe um vídeo de apresentação na categoria "não listado" no YouTube? |                Sim                    |        1.2 <br> 10/12 - 22h00        |
 
 </center>
 
@@ -34,19 +34,19 @@ A metodologia escolhida será a lista de verificação, é apresentada como uma 
 <center>
 
 | **Questão** |                                    **Descrição**                                                        | **Resposta (Sim / Não / Incompleto)** | **Versão, Data e Hora da Avaliação** |
-|:-----------:|---------------------------------------------------------------------------------------------------------|:-------------------------------------:|--------------------------------------|
-| 1           | O planejamento da avaliação segue o Framework DECIDE?                                                   |                                       |                                      |
-| 2           | Os objetivos da avaliação foram descritos? (ex.: apropriação tecnológica, problemas de interação, etc.) |                                       |                                      |
-| 3           | Os métodos de avaliação foram definidos?                                                                |                                       |                                      |
-| 4           | As questões práticas sobre recrutamento e execução da avaliação foram detalhadas?                       |                                       |                                      |
-| 5           | As questões éticas sobre respeito aos participantes foram consideradas?                                 |                                       |                                      |
-| 6           | A estrutura do relatório de resultados foi definida? (objetivos, tarefas, problemas, etc.)              |                                       |                                      |
-| 7           | Foi elaborado um cronograma e local para realização da avaliação?                                       |                                       |                                      |
-| 8           | Cada storyboard está relacionado a uma especificação da análise de tarefas?                             |                                       |                                      |
-| 9           | A quantidade de storyboards corresponde ao número de integrantes do grupo?                              |                                       |                                      |
-| 10          | O teste piloto foi definido e possui data para realização?                                              |                                       |                                      |
-| 11          | O resultado do teste piloto não será apresentado nos resultados finais?                                 |                                       |                                      |
-| 12          | Itens para o avaliador realizar/anotar durante a avaliação foram listados?                              |                                       |                                      |
+|:-----------:|---------------------------------------------------------------------------------------------------------|:-------------------------------------:|:------------------------------------:|
+| 1           | O planejamento da avaliação segue o Framework DECIDE?                                                   |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 2           | Os objetivos da avaliação foram descritos? (ex.: apropriação tecnológica, problemas de interação, etc.) |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 3           | Os métodos de avaliação foram definidos?                                                                |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 4           | As questões práticas sobre recrutamento e execução da avaliação foram detalhadas?                       |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 5           | As questões éticas sobre respeito aos participantes foram consideradas?                                 |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 6           | A estrutura do relatório de resultados foi definida? (objetivos, tarefas, problemas, etc.)              |                 Sim                   |     1.0 <br> 10/12 - 22h00           |
+| 7           | Foi elaborado um cronograma e local para realização da avaliação?                                       |                 Incompleto            |     1.2 <br> 10/12 - 22h00           |
+| 8           | Cada storyboard está relacionado a uma especificação da análise de tarefas?                             |                 Incompleto            |     1.1 <br> 10/12 - 22h00           |
+| 9           | A quantidade de storyboards corresponde ao número de integrantes do grupo?                              |                 Incompleto            |     1.1 <br> 10/12 - 22h00           |
+| 10          | O teste piloto foi definido e possui data para realização?                                              |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 11          | O resultado do teste piloto não será apresentado nos resultados finais?                                 |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
+| 12          | Itens para o avaliador realizar/anotar durante a avaliação foram listados?                              |                 Sim                   |     1.2 <br> 10/12 - 22h00           |
 
 </center>
 
@@ -69,6 +69,7 @@ _Fonte: Davi Casseb_
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
-| ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 10/12/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| Versão | Data       | Descrição                                  | Autor(es)                                       | Revisor                 |
+| ------ | ---------- | ------------------------------------------ | ----------------------------------------------- | ----------------------- |
+| `1.0`  | 10/12/2024 | Criação da página                          | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 10/12/2024 | Verificação                                | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

@@ -23,6 +23,7 @@ nav:
     - Apresentação 01: apresentações/apresentacao01.md
     - Apresentação 02: apresentações/apresentacao02.md
     - Apresentação 03: apresentações/apresentacao03.md
+    - Apresentação 04: apresentações/apresentacao04.md
   
   - Atas: 
     - Ata 01: atas/ata01.md
@@ -48,6 +49,16 @@ nav:
     - Guia de Estilo: analise-requisitos/guia-estilo.md
     - Características Gerais: analise-requisitos/caracteristicas-gerais.md
 
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-analise.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-analise.md
+      - Storyboard: 
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-storyboard.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-storyboard.md
+        - Storyboards: design-avaliação-desenvolvimento/storyboards.md
+
   - Verificação:
     - Nosso grupo:
       - Verificação 01: verificação/verificacao-01.md
@@ -58,16 +69,6 @@ nav:
       - Verificação 01: verificação/verificacaog4-01.md
       - Verificação 02: verificação/verificacaog4-02.md
       - Verificação 03: verificação/verificacaog4-03.md
-
-  - Design, Avaliação e Desenvolvimento:
-    - Nível 1:
-      - Análise de Tarefas:
-        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-analise.md
-        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-analise.md
-      - Storyboard: 
-        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-storyboard.md
-        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-storyboard.md
-        - Storyboards: design-avaliação-desenvolvimento/storyboards.md
 
 theme:
   icon:

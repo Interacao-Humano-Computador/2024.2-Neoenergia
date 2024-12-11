@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 Depois de planejarmos a verificação, elaboramos um checklist para o artefato Planejamento do Relato do Storyboard. Agora, utilizaremos deste checklist para verificar o artefato.
 
 # Objetivo

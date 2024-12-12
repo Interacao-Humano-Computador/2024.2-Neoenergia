@@ -4,7 +4,7 @@
 A verificação de artefatos é uma etapa importante no projeto, pois garante que os produtos de trabalho atendam aos requisitos especificados. Esta técnica analisa detalhadamente o conteúdo e a estrutura dos artefatos para avaliar sua qualidade e conformidade.
 
 ## Objetivo
-O objetivo principal deste documento de planejamento de verificação é assegurar que os artefatos produzidos durante a etapa 1 pelo grupo 4 estejam em conformidade com os requisitos especificados e atendam aos critérios de qualidade estabelecidos para o projeto. 
+O objetivo principal deste documento de planejamento de verificação é assegurar que os artefatos produzidos durante a etapa 1 pelo nosso grupo estejam em conformidade com os requisitos especificados e atendam aos critérios de qualidade estabelecidos para o projeto. 
 
 ## Metodologia 
 A metodologia escolhida será a lista de verificação, é apresentada como uma técnica organizada e eficiente para avaliar artefatos de design. E esse método possui o uso de listas predefinidas de critérios que ajudam os avaliadores a identificar se um artefato atende aos padrões e diretrizes estabelecidos. 
@@ -40,6 +40,18 @@ considerações dos monitores/professor?  | Sim  |
 
 </center>
 
+## Gráfico de Tarefas
+
+<center>
+
+**Figura 1:** Gráfico de Tarefas
+
+![Pie Chart das Tarefas](../assets/verificações/grafico01.png){ width="800px"}
+
+_Fonte: Davi Casseb_
+
+</center>
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -49,6 +61,7 @@ considerações dos monitores/professor?  | Sim  |
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 12/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Todos |
-| `1.1`  | 12/11/2024 | Adição da tabela                      | [Davi Casseb](https://github.com/dcasseb) | Todos |
-| `1.2`  | 12/11/2024 | Verificação                     | [Davi Casseb](https://github.com/dcasseb) | Todos |
+| `1.0`  | 12/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 12/11/2024 | Adição da tabela                      | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.2`  | 12/11/2024 | Verificação                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.3`  | 23/11/2024 | Adição do gráfico                     | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |

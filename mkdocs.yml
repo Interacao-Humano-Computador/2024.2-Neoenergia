@@ -1,12 +1,17 @@
-site_name: IHC - Grupo 03
+site_name: IHC - Neoenergia
 site_description: "Repositório do grupo 03 de IHC"
-repo_name: '2024.2-Grupo03'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo03'
+repo_name: '2024.2-Neoenergia'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Neoenergia'
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - admonition
 
 plugins:
   - glightbox
@@ -16,9 +21,13 @@ nav:
   
   - Apresentações:
     - Apresentação 01: apresentações/apresentacao01.md
+    - Apresentação 02: apresentações/apresentacao02.md
+    - Apresentação 03: apresentações/apresentacao03.md
+    - Apresentação 04: apresentações/apresentacao04.md
   
   - Atas: 
     - Ata 01: atas/ata01.md
+    - Ata 02: atas/ata02.md
   
   - Planejamento: 
     - Cronograma: planejamento/cronograma.md
@@ -28,13 +37,43 @@ nav:
     - Site Escolhido: planejamento/site-escolhido.md
     - Processo de Design: planejamento/processo-design.md
 
+  - Análise de Requisitos:
+    - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
+    - Perfil de Usuário: analise-requisitos/perfil-usuario.md
+    - Cenários: analise-requisitos/cenarios.md
+    - Personas: analise-requisitos/personas.md
+    - Análise de Tarefas:
+      - GOMS: analise-requisitos/goms.md
+    - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
+    - Príncipios Gerais: analise-requisitos/principios-gerais.md
+    - Guia de Estilo: analise-requisitos/guia-estilo.md
+    - Características Gerais: analise-requisitos/caracteristicas-gerais.md
+
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-analise.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-analise.md
+      - Storyboard: 
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-storyboard.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-storyboard.md
+        - Storyboards: design-avaliação-desenvolvimento/storyboards.md
+
   - Verificação:
     - Nosso grupo:
-      - Verificação 01: verificação/verificacao-nosso-grupo.md
+      - Verificação 01: verificação/verificacao-01.md
+      - Verificação 02: verificação/verificacao-02.md
+      - Verificação 03: verificação/verificacao-03.md
+      - Verificação 04: verificação/verificacao-04.md
     - Grupo 04:
-      - Verificação 01: verificação/verificacao-grupo4.md
+      - Verificação 01: verificação/verificacaog4-01.md
+      - Verificação 02: verificação/verificacaog4-02.md
+      - Verificação 03: verificação/verificacaog4-03.md
 
 theme:
+  icon:
+    admonition:
+      note: octicons/info-16
   name: material
   features:
     - navigation.tabs
@@ -47,16 +86,25 @@ theme:
     - content.code.annotation
     - contention.code.copy
   language: pt-BR
+  favicon: assets/neoenergia.png
+  logo: assets/neoenergia.png
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Modo escuro
-      primary: teal
-      accent: purple
+      primary: green
+      accent: light blue
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Modo claro
-      primary: teal
-      accent: lime
+      primary: green
+      accent: amber
+
+extra:
+  version:
+    provider: mike
+
+extra_css: [stylesheets/extra.css]
+  

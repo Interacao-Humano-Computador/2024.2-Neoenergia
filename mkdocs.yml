@@ -45,6 +45,7 @@ nav:
       - Personas: analise-requisitos/personas.md
       - Análise de Tarefas:
         - GOMS: analise-requisitos/goms.md
+        - HTA: analise-requisitos/hta.md
       - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
       - Príncipios Gerais: analise-requisitos/principios-gerais.md
       - Guia de Estilo: analise-requisitos/guia-estilo.md

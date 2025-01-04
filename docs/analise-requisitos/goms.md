@@ -118,7 +118,24 @@ A tarefa analisada pelo [Henrique Alencar](https://github.com/henryqma) foi o ag
 ```
 
 GOAL 0: Agendar visita técnica
-
+  OP 1: Acessar o site da Neoenergia
+  OP 2: Realizar login
+  OP 3: Selecionar unidade cadastrada
+  OP 4: Acessar função de agendamento
+  GOAL 1: Solicitar visita
+    OP 1: Solicitar novo agendamento
+    OP 2: Informar problema
+    OP 3: Selecionar data
+    OP 4: Selecionar horário
+    OP 5: Confirmar agendamento 
+  GOAL 2: Alterar data de visita técnica
+    OP 1: Selecionar agendamento
+    OP 2: Alterar data
+    OP 3: Alterar horário
+    OP 4: Confirmar agendamento
+  GOAL 3: Cancelar Agendamento
+    OP 1: Selecionar Agendamento
+    OP 2: Confirmar cancelamento
 
 ```
 

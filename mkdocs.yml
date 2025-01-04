@@ -24,6 +24,7 @@ nav:
     - Apresentação 02: apresentações/apresentacao02.md
     - Apresentação 03: apresentações/apresentacao03.md
     - Apresentação 04: apresentações/apresentacao04.md
+    - Apresentação 05: apresentações/apresentacao05.md
   
   - Atas: 
     - Ata 01: atas/ata01.md
@@ -73,11 +74,13 @@ nav:
       - Verificação 02: verificação/verificacao-02.md
       - Verificação 03: verificação/verificacao-03.md
       - Verificação 04: verificação/verificacao-04.md
+      - Verificação 05: verificação/verificacao-05.md
     - Grupo 04:
       - Verificação 01: verificação/verificacaog4-01.md
       - Verificação 02: verificação/verificacaog4-02.md
       - Verificação 03: verificação/verificacaog4-03.md
       - Verificação 04: verificação/verificacaog4-04.md
+      - Verificação 05: verificação/verificacaog4-05.md
 
 theme:
   icon:

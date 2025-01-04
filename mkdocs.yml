@@ -38,16 +38,18 @@ nav:
     - Processo de Design: planejamento/processo-design.md
 
   - Análise de Requisitos:
-    - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
-    - Perfil de Usuário: analise-requisitos/perfil-usuario.md
-    - Cenários: analise-requisitos/cenarios.md
-    - Personas: analise-requisitos/personas.md
-    - Análise de Tarefas:
-      - GOMS: analise-requisitos/goms.md
-    - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
-    - Príncipios Gerais: analise-requisitos/principios-gerais.md
-    - Guia de Estilo: analise-requisitos/guia-estilo.md
-    - Características Gerais: analise-requisitos/caracteristicas-gerais.md
+    - ‎:
+      - Aspectos Éticos: analise-requisitos/aspectos-eticos.md
+      - Perfil de Usuário: analise-requisitos/perfil-usuario.md
+      - Cenários: analise-requisitos/cenarios.md
+      - Personas: analise-requisitos/personas.md
+      - Análise de Tarefas:
+        - GOMS: analise-requisitos/goms.md
+        - HTA: analise-requisitos/hta.md
+      - Metas de Usabilidade: analise-requisitos/metas-usabilidade.md
+      - Príncipios Gerais: analise-requisitos/principios-gerais.md
+      - Guia de Estilo: analise-requisitos/guia-estilo.md
+      - Características Gerais: analise-requisitos/caracteristicas-gerais.md
 
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:

@@ -25,6 +25,7 @@ nav:
     - Apresentação 03: apresentações/apresentacao03.md
     - Apresentação 04: apresentações/apresentacao04.md
     - Apresentação 05: apresentações/apresentacao05.md
+    - Apresentação 06: apresentações/apresentacao06.md
   
   - Atas: 
     - Ata 01: atas/ata01.md
@@ -65,8 +66,13 @@ nav:
         - Storyboards: design-avaliação-desenvolvimento/storyboards.md
     - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-prototipo.md
-        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-prototipo.md
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-prototipo-papel.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-prototipo-papel.md
+        - Relato dos Resultados: design-avaliação-desenvolvimento/relato-prototipo-papel.md
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: design-avaliação-desenvolvimento/planej-avaliacao-prototipo-alta.md
+        - Planejamento do Relato dos Resultados: design-avaliação-desenvolvimento/planej-relato-prototipo-alta.md
 
   - Verificação:
     - Nosso grupo:
@@ -75,12 +81,14 @@ nav:
       - Verificação 03: verificação/verificacao-03.md
       - Verificação 04: verificação/verificacao-04.md
       - Verificação 05: verificação/verificacao-05.md
+      - Verificação 06: verificação/verificacao-06.md
     - Grupo 04:
       - Verificação 01: verificação/verificacaog4-01.md
       - Verificação 02: verificação/verificacaog4-02.md
       - Verificação 03: verificação/verificacaog4-03.md
       - Verificação 04: verificação/verificacaog4-04.md
       - Verificação 05: verificação/verificacaog4-05.md
+      - Verificação 06: verificação/verificacaog4-06.md
 
 theme:
   icon:

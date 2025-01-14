@@ -72,18 +72,11 @@ O roteiro apresentado na tabela 2 mostra as perguntas que serão realizadas nas 
 
 | Número | Pergunta | Respostas Esperadas |
 | :----: | -------- | ------------------- |
-|   1    | Qual é o seu nome? | Resposta discursiva. |
-|   2    | Qual é a sua idade? | Resposta discursiva. |
-|   3    | Qual é o seu grau de escolaridade? | Resposta discursiva. |
-|   4    | Qual é a sua ocupação? | Resposta discursiva. |
-|   5    | Qual é o seu grau de experiência com tecnologia?| Resposta discursiva. |
-|   6    | Você já utilizou o site da Neoenergia? | ( ) Sim ( ) Não |
-|   7    | Quais são as principais atividades que você realiza no site? | Resposta discursiva. |
-|   8    | Você conseguiu utilizar o protótipo sem nenhuma dúvida? | ( ) Sim ( ) Não |
-|   9    | O protótipo representa bem o site escolhido? | ( ) Sim ( ) Não |
-|   10   | O site é de fácil usabilidade? | ( ) Sim ( ) Não |
-|   11   | As interfaces do site são de fácil entendimento? | ( ) Sim ( ) Não |
-|   12   | Você tem alguma sugestão de melhoria? | Resposta dircursiva. |
+|   1    | Você conseguiu utilizar o protótipo sem nenhuma dúvida? | ( ) Sim ( ) Não |
+|   2    | O protótipo representa bem o site escolhido? | ( ) Sim ( ) Não |
+|   3    | O site é de fácil usabilidade? | ( ) Sim ( ) Não |
+|   4    | As interfaces do site são de fácil entendimento? | ( ) Sim ( ) Não |
+|   5    | Você tem alguma sugestão de melhoria? | Resposta dircursiva. |
 
 _Fonte: Henrique Alencar_
 

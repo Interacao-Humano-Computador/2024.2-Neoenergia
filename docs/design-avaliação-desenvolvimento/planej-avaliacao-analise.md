@@ -72,19 +72,12 @@ O roteiro apresentado na tabela 2 mostra as perguntas que serão realizadas nas 
 
 | Número | Pergunta | Respostas Esperadas |
 | :----: | -------- | ------------------- |
-|   1    | Qual é o seu nome? | Resposta discursiva. |
-|   2    | Qual é a sua idade? | Resposta discursiva. |
-|   3    | Qual é o seu grau de escolaridade? | Resposta discursiva. |
-|   4    | Qual é a sua ocupação? | Resposta discursiva. |
-|   5    | Qual é o seu grau de experiência com tecnologia?| Resposta discursiva. |
-|   6    | Você já utilizou o site da Neoenergia? | ( ) Sim ( ) Não |
-|   7    | Quais são as principais atividades que você realiza no site? | Resposta discursiva. |
-|   8    | Você já relatou problema de falta de energia no site? | ( ) Sim ( ) Não |
-|   9    | Na tarefa de registrar falta de energia, a sequência de processos é coerente? | ( ) Sim ( ) Não |
-|   10   | Você já retirou segunda via no site? | ( ) Sim ( ) Não |
-|   11   | Na tarefa de retirar segunda via, a sequência de processos é coerente? | ( ) Sim ( ) Não |
-|   12   | A tarefa cumpre seu propósito? Por que? | Resposta dircursiva. |
-|   12   | Tem alguma sugestão de melhoria do procesos? | Resposta dircursiva. |
+|   1    | Você já relatou problema de falta de energia no site? | ( ) Sim ( ) Não |
+|   2    | Na tarefa de registrar falta de energia, a sequência de processos é coerente? | ( ) Sim ( ) Não |
+|   3    | Você já retirou segunda via no site? | ( ) Sim ( ) Não |
+|   4    | Na tarefa de retirar segunda via, a sequência de processos é coerente? | ( ) Sim ( ) Não |
+|   5    | A tarefa cumpre seu propósito? Por que? | Resposta discursiva. |
+|   6    | Tem alguma sugestão de melhoria do processos? | Resposta discursiva. |
 
 _Fonte: Henrique Alencar_
 

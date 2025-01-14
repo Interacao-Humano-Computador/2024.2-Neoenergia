@@ -35,9 +35,7 @@ Para garantir a eficácia da avaliação, tomaremos algumas perguntas como base 
 
 * Com o protótipo de papel foi possível explorar conceitos de design?
 * Foi observado alguma sugestão de melhoria para o protótipo proposto?
-* Existem elementos do protótipo que confundem o usuário ou geram dúvidas?
 * Foi possível identificar problemas de usabilidade preliminares?
-* Foi possível identificar ideias principais de design?
 * O usuário entende o que deve fazer em seguida?
 
 ## C - Escolher os métodos de avaliação

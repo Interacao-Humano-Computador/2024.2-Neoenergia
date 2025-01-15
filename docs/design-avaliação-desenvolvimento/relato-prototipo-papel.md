@@ -23,6 +23,7 @@ Foram escolhidos três participantes, que condizem com o número de integrantes 
 | Entrevistador    | Tarefa                 | Entrevistado   |
 | :--------------: | :--------------------: | :------------: |
 | Henrique Alencar | Agendar visita técnica | Paulo          |
+| Davi Casseb | Verificar unidades cadastradas | Geraldo          |
 
 </center>
 
@@ -32,11 +33,19 @@ Foram escolhidos três participantes, que condizem com o número de integrantes 
 
 Na entrevista realizada pelo Henrique, o usuário conseguiu realizar a tarefa, mas teve dificuldades para entender como utilizar o protótipo, sendo necessária a intervenção do entrevistador.
 
+### Entrevista 2
+
+Na entrevista feita pelo Davi, Geraldo teve um pouco de dificuldade de prosseguir na utilização do protótipo porque não havia entendido as funcionalidades propostas, mas após uma breve explicação conseguiu realizar a tarefa.
+
 ## Sugestões de melhoria
 
 ### Entrevista 1
 
 O entrevistado Paulo sugeriu a melhora na legibilidade das informações e dos desenhos feitos no protótipo, e a diminuição dos passos necessários para realizar a tarefa.
+
+### Entrevista 2
+
+O entrevistado Geraldo, assim como o entrevistado Paulo, sugeriu a melhora na legibilidade das informações e dos desenhos feitos no protótipo, além da simplificação passos necessários para realizar a tarefa.
 
 ## Feedback dos usuários
 
@@ -55,6 +64,24 @@ O entrevistado Paulo comentou que após as instruções conseguiu compreender o 
 |   3    | O site é de fácil usabilidade? | (X) Sim ( ) Não |
 |   4    | As interfaces do site são de fácil entendimento? | (X) Sim ( ) Não |
 |   5    | Você tem alguma sugestão de melhoria? | Apresentado em sugestões de melhoria. |
+
+</center>
+
+### Entrevista 2
+
+O entrevistado Geraldo experienciou um pouco de dificuldade para entender o que as funcionalidades no protótipo de papel representam, mas após breve explicação pôde entender o funcionamento do site.
+
+<center>
+
+**Tabela 3** - Perguntas respondidas na entrevista 2  
+
+| Número | Pergunta | Respostas Esperadas |  
+| :----: | -------- | ------------------- |  
+|   1    | Os fluxos de navegação apresentados no protótipo de papel foram fáceis de entender? | (X) Sim ( ) Não |  
+|   2    | Você conseguiu identificar rapidamente as principais funcionalidades no protótipo? | ( ) Sim (X) Não |  
+|   3    | As anotações e indicações no protótipo de papel ajudaram a compreender como o site funcionará? | (X) Sim ( ) Não |  
+|   4    | As transições entre diferentes telas ou seções do protótipo foram claras e bem definidas? | ( ) Sim (X) Não |  
+|   5    | O protótipo de papel permitiu visualizar claramente como será a interação com o site final? | (X) Sim ( ) Não |  
 
 </center>
 
@@ -78,6 +105,20 @@ Sim, o usuário reclamou que existem muitos passos para a realização da tarefa
 
 Sim, o usuário seguiu os passos corretos naturalmente.
 
+### Entrevista 2
+
+* Foram detectados possíveis obstáculos na usabilidade durante a interação com o protótipo?
+  
+Sim, o usuário inicialmente apresentou dificuldades de entender a sequência de ações, mas conseguiu realizar o roteiro após instruções.
+
+* Alguma ideia ou feedback foi fornecido para melhorar o protótipo?
+
+Sim. Foi sugerido a simplificação dos passos.
+
+* O protótipo de papel contribuiu para analisar e discutir diferentes abordagens de design?
+
+Sim, o protótipo de papel mostrou-se útil para visualizar diferentes possibilidades de layout e testar a organização das informações.
+
 ## Sumário dos principais resultados
 
 Após as entrevistas, destacamos as principais correções a serem feitas:
@@ -98,3 +139,4 @@ Após as considerações feitas pelos entrevistado, a equipe realizará o reproj
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 14/01/2025 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 14/01/2025 | Atualização do documento                  | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |

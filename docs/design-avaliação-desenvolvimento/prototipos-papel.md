@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar os protótipos de baixa-fidelidade, rea
 
 ## **Protótipos**
 
-### Agendar Visita Técnica
+### **Agendar Visita Técnica**
 
 Este protótipo é referente à funcionalidade de agendar visita técnica. O usuário acessa o site, faz o login, escolhe a unidade, acessa a função e realiza o agendamento.
 
@@ -54,10 +54,10 @@ _Fonte: Henrique Alencar_
 
 </center>
 
-## Bibliografia
+## **Bibliografia**
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
-## Histórico de versão
+## **Histórico de versão**
 
 | Versão | Data       | Descrição                                  | Autor(es)                                       | Revisor                 |
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------------- | ----------------------- |

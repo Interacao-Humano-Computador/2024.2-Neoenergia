@@ -26,10 +26,14 @@ nav:
     - Apresentação 04: apresentações/apresentacao04.md
     - Apresentação 05: apresentações/apresentacao05.md
     - Apresentação 06: apresentações/apresentacao06.md
+    - Apresentação 07: apresentações/apresentacao07.md
   
   - Atas: 
     - Ata 01: atas/ata01.md
     - Ata 02: atas/ata02.md
+    - Ata 03: atas/ata03.md
+    - Ata 04: atas/ata04.md
+    - Ata 05: atas/ata05.md
   
   - Planejamento: 
     - Cronograma: planejamento/cronograma.md
@@ -85,6 +89,7 @@ nav:
       - Verificação 04: verificação/verificacao-04.md
       - Verificação 05: verificação/verificacao-05.md
       - Verificação 06: verificação/verificacao-06.md
+      - Verificação 07: verificação/verificacao-07.md
     - Grupo 04:
       - Verificação 01: verificação/verificacaog4-01.md
       - Verificação 02: verificação/verificacaog4-02.md

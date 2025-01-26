@@ -1,4 +1,3 @@
-#Reunião 02
 
 ## Dados da Reunião
 
@@ -26,4 +25,5 @@
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 27/11/2024 | Criação da página                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
-| `1.1`  | 02/12/2024 | Link para reunião de definição de atividades da etapa 2 e 3                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb e Henrique Alencar |
+| `1.1`  | 02/12/2024 | Link para reunião de definição de atividades da etapa 2 e 3                     | [Dara Maria](https://github.com/daramariabs) | Davi Casseb e Henrique Alencar |#Reunião 02
+

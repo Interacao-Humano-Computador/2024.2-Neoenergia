@@ -4,15 +4,15 @@
 
 Os storyboards são utilizados como uma ferramenta no design de interação para explorar ideias sobre como melhorar a prática de trabalho dos usuários com o suporte oferecido pela tecnologia. Eles auxiliam o designer a projetar soluções que aprimorem o trabalho dos usuários, permitindo visualizar e planejar a interface e a interação de forma mais clara. Uma vez criados, os storyboards ajudam a consolidar ideias e servem como base para o desenvolvimento de protótipos, possibilitando um processo iterativo de refinamento até alcançar uma solução satisfatória​. Neste documento, iremos realizar um storyboard para cada tarefa analisada, mostrando a imagem do storyboard e especificando as pessoas envolvidas, o ambiente, as tarefas, os passos envolvidos, a motivação e o resultado.
 
-## Tarefa 1 - Registrar Falta de Energia
+## Tarefa 1 - Agendar visita técnica
 
-O storyboard apresentado na figura 1 representa um usuário utilizando o sistema quando teve um problema de falta de energia.
+O storyboard apresentado na figura 1 representa um usuário utilizando o sistema quando precisa agendar uma visita técnica em sua residência.
 
 <center>
 
-Figura 1: Storyboard de falta de energia
+Figura 1: Storyboard de agendar visita técnica
 
-![Storyboard falta de energia](../assets/storyboards/storyboard01.jpg){ width="600px"}
+![Storyboard de agendar visita técnica](../assets/storyboards/storyboard01.jpeg){ width="600px"}
 
 _Fonte: Henrique Alencar_
 
@@ -24,27 +24,30 @@ _Fonte: Henrique Alencar_
 
 ### Ambiente: 
 
-- Em sua casa, na sala assistindo TV.
+- Em sua casa, no quarto utilizando o computador.
 
 ### Tarefas:
 
- - Acessar o site da neoenergia, logar, escolher sua residência, registrar falta de energia.
+ - Acessar o site da neoenergia, logar, escolher sua residência, agendar a visita técnica.
 
 ### Passos envolvidos:
 
   1. Acessar o site; 
   2. Inserir os dados para fazer login; 
   3. Escolher sua residência; 
-  4. Acessar a função de falta de energia no menu. 
-  5. Registrar o problema de energia.
+  4. Acessar a função de agendar visita técnica.;
+  5. Informar o problema;
+  6. Selecionar a data;
+  7. Selecionar o horário;
+  8. Confirmar agendamento.
 
 ### Motivação de usar a aplicação: 
 
-- Resolver seu problema de energia.
+- Chamar um técnico da Neoenergia para resolver problemas em sua residência.
 
 ### O que precisam fazer: 
 
-- Acessar o site e registrar o problema.
+- Acessar o site e realizar o agendamento.
 
 ### O que motivou a usar o sistema: 
 
@@ -52,7 +55,7 @@ _Fonte: Henrique Alencar_
 
 ### Resultado ao completar a tarefa: 
 
-- Carlos se sentiu satisfeito em ter feito o registro e agora aguarda a resolução do seu problema.
+- Carlos se sentiu satisfeito em ter feito o agendamento e agora aguarda a realização da visita.
 
 ## Tarefa 2 - Retirar segunda via 
 
@@ -114,3 +117,4 @@ _Fonte: Dara Maria_
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 10/12/2024 | Criação da página                          | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
 | `1.1`  | 10/12/2024 | Adição de storyboard 2                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.2`  | 26/01/2025 | Atualização de storyboard                   | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

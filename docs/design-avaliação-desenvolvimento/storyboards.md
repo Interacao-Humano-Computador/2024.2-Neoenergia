@@ -10,7 +10,7 @@ O storyboard apresentado na figura 1 representa um usuário utilizando o sistema
 
 <center>
 
-Figura 1: Storyboard de agendar visita técnica
+**Figura 1:** Storyboard de agendar visita técnica
 
 ![Storyboard de agendar visita técnica](../assets/storyboards/storyboard01.jpeg){ width="600px"}
 

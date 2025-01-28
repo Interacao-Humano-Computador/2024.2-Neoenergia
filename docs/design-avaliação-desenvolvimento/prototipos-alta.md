@@ -28,7 +28,7 @@ Este protótipo é referente à funcionalidade de emissão de segunda via de con
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Q87BDIucj0JbzAnDOXTw6M/neoenergia?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-<\center>
+</center>
 
 ## **Bibliografia**
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

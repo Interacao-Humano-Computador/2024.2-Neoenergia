@@ -20,6 +20,11 @@ Este protótipo é referente à funcionalidade de agendar visita técnica. Para 
 
 </center>
 
+### **Emissão de segunda via de conta**
+
+Este protótipo é referente à funcionalidade de emissão de segunda via de conta. Para utilizá-lo, aperte no botão de login, entrar, clique na função de segunda via e selecione a unidade consumidora.
+
+
 ## **Bibliografia**
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -28,3 +33,4 @@ Este protótipo é referente à funcionalidade de agendar visita técnica. Para 
 | Versão | Data       | Descrição                                  | Autor(es)                                       | Revisor                 |
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 26/12/2025 | Adição do protótipo de agendamento         | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 27/12/2025 | Adição do protótipo de segunda via de conta         | [Dara Maria](https://github.com/daramariabs) | Henrique Alencar, Davi Casseb |

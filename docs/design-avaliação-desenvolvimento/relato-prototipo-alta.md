@@ -30,6 +30,8 @@ Foram escolhidos três participantes, que condizem com o número de integrantes 
 | Entrevistador    | Tarefa                 | Entrevistado   |
 | :--------------: | :--------------------: | :------------: |
 | Henrique Alencar | Agendar visita técnica | Paulo          |
+| Dara Maria | Emitir segunda via de fatura | Marina          |
+
 
 </center>
 
@@ -39,17 +41,29 @@ Foram escolhidos três participantes, que condizem com o número de integrantes 
 
 Na entrevista realizada pelo Henrique, o usuário conseguiu utilizar o protótipo sem nenhuma dúvida ou dificuldade, completando a tarefa com êxito.
 
+### Entrevista 2
+
+Na entrevista realizada pela Marina, o usuário utilizou o protótipo sem dificuldade e completou a tarefa de emissão da segunda via da fatura rapidamente. A entrevistada relatou que a funcionalidade estava fácil de localizar no menu principal e que o fluxo estava bem intuitivo.
+
 ## Sugestões de melhoria
 
 ### Entrevista 1
 
 O entrevistado não sugeriu nenhuma melhoria.
 
+### Entrevista 2
+
+O entrevistado não sugeriu nenhuma melhoria, afirmando que o protótipo atende perfeitamente às necessidades de navegação e usabilidade.
+
 ## Feedback dos usuários
 
 ### Entrevista 1
 
 O usuário relatou que o protótipo é de fácil entendimento e conseguiu utilizá-lo de forma rápida e eficiente, além de conseguir compreender como realizar a tarefa com maestria.
+
+### Entrevista 2
+
+O usuário destacou a melhoria implementada na visibilidade da funcionalidade de emissão de segunda via, mencionando que isso tornou o uso muito mais fluido. Além disso, elogiou o design organizado e a clareza das informações apresentadas.
 
 <center>
 
@@ -59,6 +73,16 @@ O usuário relatou que o protótipo é de fácil entendimento e conseguiu utiliz
 | :----: | -------- | ------------------- |
 |   1    | O protótipo representa bem o site escolhido? | (X) Sim ( ) Não |
 |   2    | A interface apresentada foi de fácil utilização?| (X) Sim ( ) Não |
+|   3    | Você acredita que as tarefas solicitadas correspondem com ações reais? | (X) Sim ( ) Não |
+|   4    | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? Quais? | ( ) Sim (X) Não |
+|   5    | Você tem alguma sugestão de melhoria? | Não tenho. |
+
+**Tabela 3** - Perguntas respondidas na entrevista 2
+
+| Número | Pergunta | Respostas Esperadas |
+| :----: | -------- | ------------------- |
+|   1    | O protótipo representa bem o site escolhido? | (X) Sim ( ) Não |
+|   2    | A interface apresentada foi de fácil utilização? | (X) Sim ( ) Não |
 |   3    | Você acredita que as tarefas solicitadas correspondem com ações reais? | (X) Sim ( ) Não |
 |   4    | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? Quais? | ( ) Sim (X) Não |
 |   5    | Você tem alguma sugestão de melhoria? | Não tenho. |
@@ -94,6 +118,26 @@ Sim, o usuário gostou do protótipo e aprovou o projeto.
 
 Não, o usuário não relatou nenhum problema ou sugestão.
 
+### Entrevista 2
+
+- **A interface segue o padrão do sistema operacional?**  
+  Sim, não houve comentários negativos quanto a isso.
+
+- **Foi possível testar a interação e a facilidade de uso do protótipo para identificar problemas de usabilidade?**  
+  Sim, o entrevistado navegou com facilidade, destacando a usabilidade intuitiva do protótipo.
+
+- **Foi possível avaliar a aparência e o estilo visual do protótipo, garantindo que ele atenda às expectativas e necessidades dos usuários, transmita a identidade da marca e seja esteticamente agradável?**  
+  Sim, o entrevistado elogiou o design e reafirmou que o protótipo reflete a identidade visual da Neoenergia.
+
+- **Foi possível verificar se todas as funcionalidades planejadas estão presentes e funcionam corretamente?**  
+  Sim, o entrevistado confirmou que a funcionalidade de emissão da segunda via está bem posicionada e acessível.
+
+- **Foi possível obter opiniões, percepções e sugestões dos usuários em relação ao protótipo?**  
+  Sim, porém o usuário relatou estar satisfeito e não sugeriu alterações.
+
+- **Foi possível identificar quaisquer problemas, erros ou áreas que precisam de ajustes no protótipo antes da implementação final?**  
+  Não, nenhuma área que necessite de ajuste foi identificada.
+
 ## Sumário dos principais resultados
 
 Após as entrevistas, não identificamos nenhuma correção a ser feita.
@@ -111,3 +155,4 @@ Após as considerações feitas pelos entrevistado, a equipe não identificou ne
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 26/01/2025 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 27/01/2025 | Relato da entrevista 2                  | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

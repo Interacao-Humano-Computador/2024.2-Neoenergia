@@ -1,43 +1,73 @@
-# Introdução
-Após a conclusão do planejamento da verificação, será feito a verificação do artefato Planejamento do Relato da Análise de Tarefas.
+# **Planejamento do Relato dos Resultados da Análise de Tarefas**
 
-## Objetivo
-O objetivo desse documento é relatar a verificação do Planejamento do Relato da Análise de Tarefas.
+## Introdução
 
-## Metodologia 
-A metodologia selecionada será a lista de verificação, uma técnica estruturada e eficiente para a avaliação de artefatos de design. Esse método utiliza listas predefinidas de critérios que auxiliam os avaliadores a verificar se os artefatos estão em conformidade com os padrões e diretrizes estabelecidos. A tabela foi reconstruída com base no livro de Interação Humano-Computador escrito por Simone Barbosa e por Bruno Silva (BARBOSA e SILVA, 2010).
+Nesse artefato iremos documentar o planejamento feitio para relatar os resultados obtidos após a realização da avaliação da análise de tarefas. Nele iremos abordar como iremos fazer o documento do relato.
 
-## Cronograma e Participantes
-Os participantes serão os integrantes Davi Casseb, que será responsável por realizar a avaliação, a Dara Maria e o Henrique Alencar que realizarão a revisão do artefato produzido pelo avaliador. Em relação ao cronograma seguido, ele já foi explicitado na página de planejamento.
+## Metodologia
 
-## Checklist Planejamento do Relato da Análise de Tarefas
-A tabela 1 descreve a verificação do Planejamento do Relato da Análise de Tarefas.
+Com base nos tópicos propostos por Barbosa e Silva, escolhemos os seguintes tópicos para auxiliar na construção do relato:
 
-    Tabela 1: Checklist Planejamento do Relato da Análise de Tarefas
+* Objetivo e escopo da avaliação
+* Método de avaliação
+* Seleção dos participantes
+* Problemas e dificuldades encontradas
+* Sugestões de melhoria
+* Feedback dos usuários
+* Análise e interpretação dos usuários
+* Sumários dos principais resultados
+* Planejamento de reprojeto
 
-| ID | Descrição | Avaliação | Referência | Print |
-|----------|----------|----------|--------|--------|
-|  1  | No planejamento é encontrado os objetivos da avaliação?       |   Sim      |"11.7.5 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  2  |   No planejamento tem o método de avaliação utilizado?       |     Sim     |"11.7.5 Consolidação e Relato dos Resultados"    | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
-|  3  |  No planejamento tem a quantidade de participates e avaliadores?        |      Sim    |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  4  |  No artefato tem um relato da interpretação e análise dos dados?        |       Não   |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  5  |     No artefato há uma lista de problemas encontrados?     |      Não    | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  6  |     Possui um planejamento para o reprojeto?     |     Sim     | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+## Objetivo e escopo da avaliação
 
-  <center> <p>Fonte: <a href="https://github.com/dcasseb">Davi Casseb</a>, 2024</p>
-</center>
+Nesse tópico será abordado o objetivo principal da avaliação e os objetivos do grupo com a realização da análise de tarefas, incluindo a justificativa para realização desses métodos e o que é esperado alcançar com a realização deles. Também serão respondidas as perguntas propostas:
 
-### Conclusão
-Como mostrado na figura 1, o artefado Planejamento do Relato da Análise de Tarefas está bom, mas ainda pode precisar de melhorias.
+* As tarefas escolhidas representam tarefas do site avaliado?
+* Todos os passos foram identificadas?
+* Os passos seguem uma sequência lógica?
+* As análises seguem um padrão?
+* A abordagem utilizada foi explicada e justificada?
+* As análises são de fácil entendimento?
+
+## Método de avaliação
+
+Aqui será abordada a metodologia utilizada para a coleta dos dados, incluindo como ela funciona e a justificativa de sua utilização. Também será abordado as ferramentas utilizadas e o ambiente de avaliação. Será também apresentado o cronograma executado para realizar os métodos de observação e entrevista, mantendo o artefato coeso e organizado.
+
+## Seleção dos participantes
+
+Os participantes serão apresentados neste tópico, com a justificativa da escolha e a verificação se eles encaixam no perfil do usuário definido, para verificar se os entrevistado batem com os usuários esperados do sistema, proporcionando um feedback mais realista.
+
+## Problemas e dificuldades encontradas
+
+Neste tópico será registrado todos os problemas e dificuldades encontrados na realização das entrevistas, registrando de maneira clara e objetiva qualquer erro e falha que possa ter acontecido ou qualquer desafio enfrentado pelo usuário.
+
+## Sugestões de melhoria
+
+Aqui serão abordadas as sugestões de melhoria observadas pelo entrevistador, registrando o contexto, a ação e o resultado esperado e obtido. Também deve-se propor uma solução para corrigir os problemas encontrados.
+
+## Feedback dos usuários
+
+Os feedbacks realizados pelo usuário, como sugestões, opiniões e comentários serão expressos nesse tópico. O entrevistador deve ouvir atentamente o que o entrevistado dizer durante a entrevista, para que sua opinião seja levada em conta na realização de melhorias do artefato proposto.
+
+## Análise e interpretação dos resultados
+
+Os resultados obtidos serão analisados e interpretados, examinando cuidadosamente os dados coletados durante a avaliação, identificando padrões e tendências dos entrevistados, extraindo conclusões que sejam pertinentes para a equipe. Deve-se também contextualizar os resultados de acordo com o objetivo da avaliação, para tirar o maior proveito possível e corrigir os problemas encontrados.
+
+## Sumário dos principais resultados
+
+Serão apresentados os dados obtidos com a avaliação, contendo uma descrição de como foi a realização feita pelos usuários e se eles conseguiram realizar o esperado com êxito ou não, incluindo suas dificuldades.
+
+## Planejamento de Reprojeto
+
+Após a coleta, organização, análise e interpretação dos resultados, será observado o que deve ser corrigido ou mudado, priorizando aquilo que for necessário, e então será feito um planejamento de como as coisas deverão ser refeitas, para que cumpram corretamente com os objetivos do artefato e respondam corretamente as perguntas estabelecidas pela avaliação.
 
 ## Bibliografia
-> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
-> https://interacao-humano-computador.github.io/2024.2-Neoenergia/
+> 1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-## Histórico de Versões
-      Tabela que descreve o Histórico de Versões
+## Histórico de versão
 
-|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação planejamento do relato da analise de tarefas | [Davi Casseb](https://github.com/dcasseb)  | 10/12 | [Dara Maria](https://github.com/daramariabs), [Henrique Alencar](https://github.com/henryqma) | 10/12
+| Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
+| ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
+| `1.0`  | 10/12/2024 | Criação do documento                  | [Davi Casseb](https://github.com/dcasseb)       | Dara Maria, Henrique Alencar |
+| `1.1`  | 04/01/2025 | Correções                             | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

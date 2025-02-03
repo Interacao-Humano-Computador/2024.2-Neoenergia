@@ -1,8 +1,8 @@
-# **Planejamento da Avaliação da Análise de Tarefas**
+# **Planejamento da Avaliação do Protótipo de Papel**
 
 ## Introdução
 
-A avaliação é essencial na produção de artefatos de qualidade. Neste documento, iremos elaborar a avaliação que faremos do artefato referente às análises de tarefas, a fim de verificar os possíveis problemas e resolvê-los para proporcionar um artefato de qualidade que cumpra com todos os requisitos esperados nessa análise. Para realizar esse planejamento, nos guiaremos de acordo com o framework DECIDE organizar e estruturar a avaliação, garantindo que os objetivos sejam claros, as questões relevantes sejam exploradas, e os métodos aplicados sejam eficazes e éticos.
+A avaliação é essencial na produção de artefatos de qualidade. Neste documento, iremos elaborar a avaliação que faremos do artefato referente ao protótipo de papel, a fim de verificar os possíveis problemas e resolvê-los para proporcionar um protótipo que compreenda as metas de usabilidade e seja de fácil entendimento para os usuários. Para realizar esse planejamento, nos guiaremos de acordo com o framework DECIDE organizar e estruturar a avaliação, garantindo que os objetivos sejam claros, as questões relevantes sejam exploradas, e os métodos aplicados sejam eficazes e éticos.
 
 ## Metodologia
 
@@ -27,22 +27,20 @@ _Fonte: BARBOSA e SILVA_
 
 ## D - Determinar os objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos na Análise de Tarefas estão de acordo com os padrões estabelecidos, e conseguem avaliar a eficácia, eficiência e satisfação dos usuários ao realizarem tarefas específicas no site da Neoenergia, e então, utilizar os resultados para propor melhorias que garantam a maior qualidade no artefato.
+O objetivo deste documento é verificar se o artefato Protótipo de Papel produzido pela equipe está de acordo com as metas de usabilidade estabelecidas e consegue transmitir a ideia das interfaces e do design realizados no site da Neoenergia, verificando a conformidade com o padrão estabelecido na análise de tarefas. Este documento detalhará como será feita essa avaliação, abordando sua metodologia, cronograma e como utilizar os resultados.
 
 ## E - Explorar perguntas
 
 Para garantir a eficácia da avaliação, tomaremos algumas perguntas como base que precisam ser respondidas para verificar a conformidade do artefato:
 
-* As tarefas escolhidas representam tarefas do site avaliado?
-* Todos os passos foram identificadas?
-* Os passos seguem uma sequência lógica?
-* As análises seguem um padrão?
-* A abordagem utilizada foi explicada e justificada?
-* As análises são de fácil entendimento?
+* Com o protótipo de papel foi possível explorar conceitos de design?
+* Foi observado alguma sugestão de melhoria para o protótipo proposto?
+* Foi possível identificar problemas de usabilidade preliminares?
+* O usuário entende o que deve fazer em seguida?
 
 ## C - Escolher os métodos de avaliação
 
-Será utilizado o método de investigação, fazendo entrevistas com usuários utilizando um roteiro de perguntas como guia. Esse método foi escolhido pois permite que a coleta de informações seja feita diretamente com o usuário, aprofundando no entendimento dos objetivos e necessidades do público-alvo.
+Será utilizado o método de investigação, fazendo entrevistas com usuários utilizando um roteiro de perguntas como guia, e o de observação, para ver como o entrevistado utilizará o protótipo estabelecido. Esses métodos foram escolhidos pois permitem que a coleta de informações seja feita diretamente com o usuário, aprofundando no entendimento dos objetivos e necessidades do público-alvo.
 
 ## I - Identificar as questões
 
@@ -52,19 +50,19 @@ Para a realização da entrevista serão escolhidos usuários que correspondam a
 
 ### Preparação
 
-Os entrevistadores devem levar o roteiro de perguntas estabelecido e registrar as respostas dos usuários. Cada entrevista será referente a uma tarefa analisada previamente e serão agendadas previamente com o entrevistado, definindo um horário que agrade ambas as partes.
+As entrevistas serão previamente agendadas de acordo com a disponibilidade de ambas as partes. Primeiramente será feita uma utilização do protótipo pelos usuários, abordando principalmente as tarefas analisadas, retirar segunda via e agendar visita técnica, para observar como o usuário utilizou o sistema e como realizou cada uma das tarefas. Depois, serão feitas perguntas com base em um roteiro pré-estabelecido para ouvir a opinião e sugestões propostas pelo usuário.
 
 ### Custos
 
-A entrevista não deve causar nenhum custo à equipe ou aos entrevistados, então será realizada em plataformas de comunicação gratuitas, nos dispositivos de cada pessoa envolvida na entrevista, necessitando apenas de um disposito com acesso à internet.
+A entrevista não deve causar nenhum custo à equipe ou aos entrevistados, então será realizada presencialmente, sendo gravadas por um aparelho celular, em um local acordado por ambas as partes, sendo necessário apenas da participação dos entrevistados.
 
 ### Prazos
 
-As entrevistas serão realizadas dentro de uma semana e devem ter a duração de no máximo 10 minutos.
+As entrevistas serão realizadas dentro de uma semana e devem ter a duração de no máximo 15 minutos.
 
 ### Roteiro de Perguntas
 
-O roteiro apresentado na tabela 2 mostra as perguntas que serão realizadas nas entrevistas com usuários. O roteiro sugere perguntas base para todas as entrevistas e perguntas específicas dependendo de qual tarefa está sendo analisada.
+O roteiro apresentado na tabela 2 mostra as perguntas que serão realizadas nas entrevistas com usuários.
 
 <center>
 
@@ -72,12 +70,11 @@ O roteiro apresentado na tabela 2 mostra as perguntas que serão realizadas nas 
 
 | Número | Pergunta | Respostas Esperadas |
 | :----: | -------- | ------------------- |
-|   1    | Você já relatou problema de falta de energia no site? | ( ) Sim ( ) Não |
-|   2    | Na tarefa de registrar falta de energia, a sequência de processos é coerente? | ( ) Sim ( ) Não |
-|   3    | Você já retirou segunda via no site? | ( ) Sim ( ) Não |
-|   4    | Na tarefa de retirar segunda via, a sequência de processos é coerente? | ( ) Sim ( ) Não |
-|   5    | A tarefa cumpre seu propósito? Por que? | Resposta discursiva. |
-|   6    | Tem alguma sugestão de melhoria do processos? | Resposta discursiva. |
+|   1    | Você conseguiu utilizar o protótipo sem nenhuma dúvida? | ( ) Sim ( ) Não |
+|   2    | O protótipo representa bem o site escolhido? | ( ) Sim ( ) Não |
+|   3    | O site é de fácil usabilidade? | ( ) Sim ( ) Não |
+|   4    | As interfaces do site são de fácil entendimento? | ( ) Sim ( ) Não |
+|   5    | Você tem alguma sugestão de melhoria? | Resposta dircursiva. |
 
 _Fonte: Henrique Alencar_
 
@@ -107,5 +104,4 @@ Antes da realização das entrevistas com usuários, será realizado um teste pi
 
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
-| `1.0`  | 09/12/2024 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
-
+| `1.0`  | 04/01/2025 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

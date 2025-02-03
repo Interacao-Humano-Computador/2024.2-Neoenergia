@@ -1,4 +1,4 @@
-# Verificação Etapa 01
+# Planejamento Verificação Etapa 01
 
 ## Introdução
 A verificação de artefatos é uma etapa importante no projeto, pois garante que os produtos de trabalho atendam aos requisitos especificados. Esta técnica analisa detalhadamente o conteúdo e a estrutura dos artefatos para avaliar sua qualidade e conformidade.

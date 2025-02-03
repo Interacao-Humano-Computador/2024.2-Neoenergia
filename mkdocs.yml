@@ -83,13 +83,18 @@ nav:
 
   - Verificação:
     - Nosso grupo:
-      - Verificação 01: verificação/verificacao-01.md
-      - Verificação 02: verificação/verificacao-02.md
-      - Verificação 03: verificação/verificacao-03.md
-      - Verificação 04: verificação/verificacao-04.md
-      - Verificação 05: verificação/verificacao-05.md
-      - Verificação 06: verificação/verificacao-06.md
-      - Verificação 07: verificação/verificacao-07.md
+      - Etapa 01:
+        - Planejamento da Verificação da Etapa 1: verificação/grupo/etapa1/planejamento-verificacao.md
+        - Cronograma: verificacao/grupo/etapa1/verificacao-cronogrma.md
+        - Ferramentas: verificacao/grupo/etapa1/verificacao-ferramentas.md
+        - Processo de Design: verificacao/grupo/etapa1/verificacao-processo-design.md
+        - Site Escolhido: verificacao/grupo/etapa1/verificacao-site-escolhido.md
+      - Etapa 02: verificação/verificacao-02.md
+      - Etapa 03: verificação/verificacao-03.md
+      - Etapa 04: verificação/verificacao-04.md
+      - Etapa 05: verificação/verificacao-05.md
+      - Etapa 06: verificação/verificacao-06.md
+      - Etapa 07: verificação/verificacao-07.md
     - Grupo 04:
       - Verificação 01: verificação/verificacaog4-01.md
       - Verificação 02: verificação/verificacaog4-02.md

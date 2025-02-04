@@ -109,14 +109,15 @@ Em relação aos itens de verificação, a questão 10 e 11 foram retiradas da c
 
 **Tabela 4** - Checklist para o artefato Cronograma.
 
-| ID  | Descrição                                                                                                      | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-|  6  |     O cronograma contém  autores, revisores, datas de execução e revisão?       |           |             |
-|  7  |     O cronograma foi elaborado em tabelas?        |           |            |
-|  8  |     O cronograma apresenta o planejado e o executado?        |           |            |
-|  9  |     O cronograma foi atualizado conforme as entregas foram sendo executadas?        |           |            |
-| 10  |     Os revisores são pessoas diferentes dos autores?        |           |            |
-| 11  |     Existem atividades redundantes dentro do cronograma?        |           |            |
+| ID  | Descrição                                                                                 | Avaliação | Observações |
+| :-: | ---------------------------------------------------------------------------------------- | :-------: | ----------- |
+|  6  | O cronograma inclui autores, revisores e datas de execução e revisão?                   |           |             |
+|  7  | O cronograma está estruturado em formato de tabela?                                      |           |             |
+|  8  | O cronograma diferencia o planejamento do que foi realmente executado?                  |           |             |
+|  9  | O cronograma é atualizado conforme a execução das entregas?                             |           |             |
+| 10  | Os revisores são diferentes dos autores do cronograma?                                  |           |             |
+| 11  | Há atividades redundantes no cronograma?                                                |           |             |
+
 
 
 _Fonte: [Dara Maria](https://github.com/daramariabs), 2025._

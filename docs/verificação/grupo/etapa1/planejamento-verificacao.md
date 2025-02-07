@@ -47,7 +47,7 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e podem ser acessados através dos seguintes links:
 
-- [Resultados da Verificação do Cronograma](../etapa1/verificacao-cronogrma.md);
+- [Resultados da Verificação do Cronograma](../etapa1/verificacao-cronograma.md);
 - [Resultados da Verificação das Ferramentas](../etapa1/verificacao-ferramentas.md);
 - [Resultados da Verificação do Processo de Design](../etapa1/verificacao-processo-design.md);
 - [Resultados da Verificação do Site escolhido](../etapa1/verificacao-site-escolhido.md);
@@ -103,7 +103,6 @@ _Fonte: Equipe do Projeto, 2025._
 
 A tabela 4 a seguir apresenta a checklist referente ao artefato cronograma, ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa e a checklist produzida pelo integrante do grupo [Dara Maria](https://github.com/daramariabs) no contexto da [verificação do mesmo artefato do grupo 4](../../../grupo2/etapa1/cronograma).<a id=anchor_3 href="#REF3"><sup>3</sup></a>
 
-Em relação aos itens de verificação, a questão 10 e 11 foram retiradas da checklist de [verificação da etapa 2 do grupo 2](../../../grupo4/etapa1/cronograma).<a href="#REF3"><sup>3</sup></a>
 
 <center>
 

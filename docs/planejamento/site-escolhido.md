@@ -2,8 +2,9 @@
 
 ## Introdução
 
-No início do processo da disciplina, alguns integrantes do grupo apresentaram possíveis candidatos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada site passava por alguns critérios com o objetivo de se chegar a um consenso.
-[Aqui](sites-avaliados.md) é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo. 
+No contexto da disciplina de Interação Humano-Computador (IHC), foi realizada a avaliação de quatro sites distintos com o objetivo de selecionar um para análise mais aprofundada ao longo do curso. A escolha foi baseada em critérios como usabilidade, acessibilidade, design e relevância dos serviços oferecidos. Após essa análise comparativa, optamos por trabalhar com o site da Agência Virtual da Neoenergia de Brasília.
+
+A partir dessa escolha, o projeto buscará examinar a experiência do usuário, identificar possíveis melhorias e propor soluções alinhadas aos princípios da IHC. Nas próximas seções, apresentamos o processo de avaliação dos sites, os critérios utilizados e as justificativas que levaram à seleção final. [Aqui](sites-avaliados.md) é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo. 
 
 ## Critérios para escolha
 * Site não ter sido trabalhado na disciplina.

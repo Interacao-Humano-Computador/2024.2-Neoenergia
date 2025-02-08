@@ -103,6 +103,19 @@ nav:
       - Verificação 05: verificação/verificacaog4-05.md
       - Verificação 06: verificação/verificacaog4-06.md
       - Verificação 07: verificação/verificacaog4-07.md
+  
+  - Entrega Final:
+    - Site Selecionado: entrega-final/site-selecionado.md
+    - Ciclo de Vida Utilizado: entrega-final/ciclo-utilizado.md
+    - Planejamento das Entregas: entrega-final/cronograma.md
+    - Execução do Projeto: entrega-final/execucao.md
+    - Resultados Alcançados: entrega-final/resultados.md
+    - Ferramentas Utilizadas: entrega-final/ferramentas.md
+    - Técnicas Utilizadas: entrega-final/tecnicas.md
+    - Artefatos Criados: entrega-final/artefatos.md
+    - Síntese das Avaliação: entrega-final/avaliacoes.md
+    - Síntese das Verificações: entrega-final/verificacoes.md
+    - Síntese das Apresentações: entrega-final/apresentacoes.md
 
 theme:
   icon:

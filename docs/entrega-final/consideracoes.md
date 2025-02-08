@@ -1,8 +1,10 @@
-# **Síntese das Apresentações**
+# **Considerações Finais**
 
 ## **Introdução**
 
-## **Apresentações Realizadas**
+## **Considerações Individuais**
+
+## **Conclusão**
 
 ## **Histórico de Versão**
 

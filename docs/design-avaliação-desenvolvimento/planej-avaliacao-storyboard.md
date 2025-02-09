@@ -68,19 +68,19 @@ Durante as entrevistas e a aplicação do questionário, as seguintes perguntas 
 
 ## 4. Identifique as questões práticas
 **Questões práticas:**
-- **Participantes:** Selecionar de 2 usuários representativos.
-- **Local:** Sala com recursos para exibição do storyboard (físico ou digital).
-- **Tempo:** 1 hora por sessão (30 minutos para a análise do storyboard e 30 minutos para entrevistas/questionários).
-- **Recursos:** Storyboard impresso ou projetado, formulários de feedback, dispositivos para gravação (se necessário).
-- **Equipe:** Facilitador (para conduzir os testes) e anotador (para registrar observações).
+  - **Participantes:** Selecionar de 2 usuários representativos.
+  - **Local:** Sala com recursos para exibição do storyboard (físico ou digital).
+  - **Tempo:** 1 hora por sessão (30 minutos para a análise do storyboard e 30 minutos para entrevistas/questionários).
+  - **Recursos:** Storyboard impresso ou projetado, formulários de feedback, dispositivos para gravação (se necessário).
+  - **Equipe:** Facilitador (para conduzir os testes) e anotador (para registrar observações).
 
 
 ## 5. Decida como lidar com questões éticas
 **Medidas éticas:**
-- Garantir consentimento informado dos participantes.
-- Garantir anonimato e confidencialidade dos dados.
-- Evitar pressões ou julgamentos durante o teste.
-- Permitir que os participantes abandonem a avaliação a qualquer momento.
+  - Garantir consentimento informado dos participantes.
+  - Garantir anonimato e confidencialidade dos dados.
+  - Evitar pressões ou julgamentos durante o teste.
+  - Permitir que os participantes abandonem a avaliação a qualquer momento.
 
 ### Termo de Consentimento
 
@@ -90,24 +90,25 @@ Durante as entrevistas e a aplicação do questionário, as seguintes perguntas 
 Você está sendo convidado(a) a participar de um teste de avaliação de storyboard. O objetivo é identificar como as informações apresentadas podem ser compreendidas pelos usuários e quais melhorias podem ser feitas.  
 
 **Direitos do Participante:**  
-- Sua participação é voluntária, e você pode desistir a qualquer momento sem penalidades.  
-- Suas respostas serão anônimas e usadas apenas para fins deste projeto.  
+  - Sua participação é voluntária, e você pode desistir a qualquer momento sem penalidades.  
+  - Suas respostas serão anônimas e usadas apenas para fins deste projeto.  
 
 **Consentimento:**  
 Ao assinar abaixo, você declara que leu e compreendeu este termo, concordando em participar do estudo.  
 
 **Assinatura do Participante:** ________________________  
+
 **Data:** ____________________
 
 
 ## 6. Avalie, interprete e apresente os dados
 **Etapas de análise:**
-1. **Coleta:** Anotar comentários durante o teste, transcrever entrevistas e consolidar respostas dos questionários.
-2. **Interpretação:** Identificar padrões, como pontos de confusão recorrentes ou elementos bem avaliados.
-3. **Apresentação dos resultados:** Elaborar um relatório com:
-   - **Resumo dos principais problemas encontrados.**
-   - **Sugestões de melhorias para o storyboard.**
-   - **Exemplos específicos que ilustram os problemas e as soluções propostas.**
+  1. **Coleta:** Anotar comentários durante o teste, transcrever entrevistas e consolidar respostas dos questionários.
+  2. **Interpretação:** Identificar padrões, como pontos de confusão recorrentes ou elementos bem avaliados.
+  3. **Apresentação dos resultados:** Elaborar um relatório com:
+    - **Resumo dos principais problemas encontrados.**
+    - **Sugestões de melhorias para o storyboard.**
+    - **Exemplos específicos que ilustram os problemas e as soluções propostas.**
 
 
 ## Teste piloto

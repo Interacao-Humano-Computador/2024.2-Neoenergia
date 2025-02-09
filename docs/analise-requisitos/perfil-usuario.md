@@ -9,7 +9,7 @@ A **Agência Virtual da Neoenergia** é uma plataforma digital desenvolvida para
 
 Para traçar os perfis, foram utilizadas duas abordagens:  
 
-- **Entrevistas Estruturadas**: Conduzidas com 15 usuários, abrangendo perguntas sobre sua interação com a plataforma, dificuldades enfrentadas e sugestões de melhoria.  
+- **Entrevistas Estruturadas**: Conduzidas com 10 usuários, abrangendo perguntas sobre sua interação com a plataforma, dificuldades enfrentadas e sugestões de melhoria.  
 - **Observações de Uso**: Observou-se a navegação de 10 usuários, registrando comportamentos, fluxos de navegação e desafios encontrados.  
 
 As informações foram agrupadas em categorias, considerando os atributos descritos no Capítulo 8 do livro _Interação Humano-Computador_.  
@@ -17,7 +17,7 @@ As informações foram agrupadas em categorias, considerando os atributos descri
 
 ## **Perfis de Usuário Identificados**  
 
-### **Usuário Residencial**  
+### **1. Usuário Residencial**  
 - **Dados Demográficos**:  
   - Idade: Adultos (25-50 anos).  
   - Sexo: Equilíbrio entre homens e mulheres.  
@@ -40,7 +40,7 @@ As informações foram agrupadas em categorias, considerando os atributos descri
   - Tarefas primárias: Consulta de faturas e pagamentos.  
 
 
-### **Usuário Empresarial**  
+### **2. Usuário Empresarial**  
 - **Dados Demográficos**:  
   - Idade: Adultos (30-55 anos).  
   - Sexo: Predominantemente homens.  
@@ -67,7 +67,7 @@ As informações foram agrupadas em categorias, considerando os atributos descri
   - Tarefas primárias: Emissão de relatórios e controle de consumo.  
 
 
-### **Usuário Idoso**  
+### **3. Usuário Idoso**  
 - **Dados Demográficos**:  
   - Idade: Terceira idade (60+ anos).  
   - Sexo: Predominantemente mulheres.  
@@ -89,6 +89,32 @@ As informações foram agrupadas em categorias, considerando os atributos descri
   - Atitudes: Neutros a tecnófobos.  
   - Tarefas primárias: Emissão de segunda via de faturas.  
 
+### **4. Usuário Técnico**  
+- **Dados Demográficos**:  
+  - Idade: Adultos (25-45 anos).  
+  - Sexo: Predominantemente homens.  
+  - Status socioeconômico: Classe média.  
+
+- **Experiência no Cargo**:  
+  - Cargo atual: Técnicos ou engenheiros associados à Neoenergia.  
+  - Experiência: 3-7 anos.  
+  - Responsabilidades: Análise técnica de dados e suporte administrativo.  
+
+- **Informações sobre a Empresa**:  
+  - Tamanho: Grande porte (Neoenergia).  
+  - Área de atuação: Energia elétrica.  
+
+- **Educação**:  
+  - Grau de instrução: Ensino superior completo (Engenharia ou afins).  
+  - Alfabetismo: Leitura avançada de textos técnicos.  
+  - Preferências: Preferem documentações detalhadas.  
+
+- **Classificação (Capítulo 8)**:  
+  - Idade: Adultos.  
+  - Experiência: Especialistas.  
+  - Atitudes: Tecnófilos.  
+  - Tarefas primárias: Suporte técnico e verificação de dados. 
+
 
 ## **Conclusão e Resultados**  
 
@@ -96,6 +122,8 @@ A análise revelou perfis distintos de usuários, cada um com necessidades espec
 
 1. Usuários residenciais e idosos demandam simplificação na navegação e maior acessibilidade.  
 2. Usuários empresariais necessitam de funcionalidades avançadas, como exportação de relatórios.  
+3. Usuários técnicos se beneficiariam de ferramentas otimizadas para suas tarefas específicas.  
+
 
 Essas melhorias ajudarão a tornar a plataforma mais eficiente, inclusiva e alinhada às expectativas de seus diferentes públicos.  
 

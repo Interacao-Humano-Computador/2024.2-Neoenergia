@@ -57,13 +57,13 @@ _Fonte: Henrique Alencar_
 
 - Carlos se sentiu satisfeito em ter feito o agendamento e agora aguarda a realização da visita.
 
-## Tarefa 2 - Retirar segunda via 
+## Tarefa 2 - Emissão de segunda via de conta 
 
-- O storyboard apresentado na figura 2 representa um usuário retirando uma segunda via no site.
+- O storyboard apresentado na figura 2 representa um usuário emitindo a segunda via de conta.
 
 <center>
 
-Figura 2: Storyboard de retirar segunda via
+Figura 2: Storyboard de emissão segunda via de conta
 
 ![Storyboard falta de energia](../assets/storyboards/storyboard02.png){ width="600px"}
 
@@ -117,4 +117,5 @@ _Fonte: Dara Maria_
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 10/12/2024 | Criação da página                          | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
 | `1.1`  | 10/12/2024 | Adição de storyboard 2                     | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
-| `1.2`  | 26/01/2025 | Atualização de storyboard                   | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.2`  | 26/01/2025 | Adição do storybord da tarefa 2                   | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |
+| `1.3`  | 26/01/2025 | Atualização de storyboard                   | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |

@@ -116,7 +116,6 @@ Para registrar todos os itens feitos em cada fase do projeto na disciplina de In
 
 </center>
 
-
 ## **Conclusão**
 
 A compilação abrangente dos artefatos produzidos pela equipe durante o projeto reflete o comprometimento, a colaboração e a competência de todos os membros envolvidos. Cada artefato desempenhou um papel crucial no desenvolvimento do projeto, demonstrando a dedicação da equipe em alcançar os objetivos estabelecidos. Ao revisar as tabelas que listam os artefatos, é evidente que a equipe trabalhou de forma diligente e eficaz para entregar resultados de alta qualidade em todas as fases do projeto.

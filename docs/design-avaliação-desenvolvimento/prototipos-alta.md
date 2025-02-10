@@ -26,7 +26,7 @@ Este protótipo é referente à funcionalidade de emissão de segunda via de con
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Q87BDIucj0JbzAnDOXTw6M/neoenergia?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/hkn18kkm9y2T4PZl2M6tLO/emiss%C3%A3o-segunda-via-de-fatura?node-id=0-1&t=3g0JMacBMtKnzGP6-1" allowfullscreen></iframe>
 
 </center>
 

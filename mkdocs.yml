@@ -12,6 +12,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tilde
   - admonition
+  - pymdownx.tabbed:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tabbed:
+      alternate_style: true
 
 plugins:
   - glightbox

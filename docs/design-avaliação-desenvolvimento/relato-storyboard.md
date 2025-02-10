@@ -52,13 +52,17 @@ Portanto, como visto no tópico anterior, infere-se que o storyboard está alinh
 
 **Tabela 2** - Respostas 1.
 
-| Perguntas | Respostas |
-| --------- | --------- |
-|1 – A narrativa apresentada pelo Storyboard está condizente com o título? | Sim |
-|2 – O Storyboard em questão possui lastro na realidade? | Sim |
-|3 – O Storyboard apresenta os principais aspectos da realização daquela tarefa? | Sim |
-|4 – As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | Sim |
-|5 – O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cénarios) identificáveis? | Sim |
+| **ID** | **Enunciado**                                                                 | **Resposta**        |
+|--------|--------------------------------------------------------------------------------|---------------------|
+| 1      | A narrativa apresentada pelo Storyboard está condizente com o título?         | ( ) SIM ( ) NÃO     |
+| 2      | As informações apresentadas no storyboard são compreensíveis?                        | ( ) SIM ( ) NÃO     |
+| 3      | O Storyboard apresenta os principais aspectos da realização daquela tarefa?  | ( ) SIM ( ) NÃO     |
+| 4      | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | ( ) SIM ( ) NÃO     |
+| 5      | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | ( ) SIM ( ) NÃO     |
+| 6      | Houve dificuldade ao realizar a interação com o storyboard? | ( ) SIM ( ) NÃO     
+| 7     | O storyboard é adequado ao público-alvo do produto? | ( ) SIM ( ) NÃO     |
+| 8      | O storyboard demonstra os benefícios e as vantagens do produto? | ( ) SIM ( ) NÃO     |
+|  9     | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | ( ) SIM ( ) NÃO     |
 
 **Fonte** - [Dara Maria](https://github.com/daramariabs).
 
@@ -70,7 +74,7 @@ Portanto, como visto no tópico anterior, infere-se que o storyboard está alinh
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
 ## Histórico de Versão
 

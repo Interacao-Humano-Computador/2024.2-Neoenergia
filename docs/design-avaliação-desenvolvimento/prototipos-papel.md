@@ -54,11 +54,51 @@ _Fonte: Henrique Alencar_
 
 </center>
 
-## **Bibliografia**
-> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+### **Emissão de segunda via de conta**
+
+Este protótipo é referente à funcionalidade de emitir segunda via de conta. 
+
+#### Primeiro passo:
+Após fazer login o usuario será  redirecionado para a tela da figura 1, onde é possivel ver dados pessoais e a unidade consumidora. Clique no botão de codigo do cliente para seguir para a proxima tela.
+
+<center>
+
+**Figura 1:** Tela de dados pessoais e unidades consumidoras
+
+![Tela de dados pessoais e unidades consumidoras](../assets/prototipo-papel/segunda-via01.jpg){ width="800px"}
+
+_Fonte: Dara Maria_
+</center>
+
+#### Segundo passo:
+A figura 2 é a tela de menus. Clique no icone de segunda via de conta para seguir para a proxima tela.
+
+<center>
+
+**Figura 2:** Tela de Menu
+
+![Tela de Menu](../assets/prototipo-papel/segunda-via02.jpg){ width="800px"}
+
+_Fonte: Dara Maria_
+</center>
+
+#### Ultimo passo:
+A figura 3 é a tela onde o usuario consegue visualizar as contas disponiveis em seu nome. Clique no icone de impressora, primeira coluna, após isso o site irá fazer um download da conta escolhida diretamente no seu dispositivo.
+
+<center>
+
+**Figura 2:** Tela de contas disponiveis
+
+![Tela de contas disponiveis](../assets/prototipo-papel/segunda-via03.jpg){ width="800px"}
+
+_Fonte: Dara Maria_
+</center>
+
+
 
 ## **Histórico de versão**
 
 | Versão | Data       | Descrição                                  | Autor(es)                                       | Revisor                 |
 | ------ | ---------- | ------------------------------------------ | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 26/12/2025 | Adição do protótipo de agendamento         | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
+| `1.1`  | 09/02/2025 | Adição do passo a passo do prototipo         | [Dara maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

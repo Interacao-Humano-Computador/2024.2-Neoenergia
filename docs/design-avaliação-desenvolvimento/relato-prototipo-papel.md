@@ -24,6 +24,8 @@ Foram escolhidos três participantes, que condizem com o número de integrantes 
 | :--------------: | :--------------------: | :------------: |
 | Henrique Alencar | Agendar visita técnica | Paulo          |
 | Davi Casseb | Verificar unidades cadastradas | Geraldo          |
+| Dara Maria | Emissão de segunda via de conta | Marina Marcia          |
+
 
 </center>
 
@@ -37,6 +39,8 @@ Na entrevista realizada pelo Henrique, o usuário conseguiu realizar a tarefa, m
 
 Na entrevista feita pelo Davi, Geraldo teve um pouco de dificuldade de prosseguir na utilização do protótipo porque não havia entendido as funcionalidades propostas, mas após uma breve explicação conseguiu realizar a tarefa.
 
+### Entrevista 3
+
 ## Sugestões de melhoria
 
 ### Entrevista 1
@@ -46,6 +50,8 @@ O entrevistado Paulo sugeriu a melhora na legibilidade das informações e dos d
 ### Entrevista 2
 
 O entrevistado Geraldo, assim como o entrevistado Paulo, sugeriu a melhora na legibilidade das informações e dos desenhos feitos no protótipo, além da simplificação passos necessários para realizar a tarefa.
+
+### Entrevista 3
 
 ## Feedback dos usuários
 
@@ -71,6 +77,7 @@ O entrevistado Paulo comentou que após as instruções conseguiu compreender o 
 
 O entrevistado Geraldo experienciou um pouco de dificuldade para entender o que as funcionalidades no protótipo de papel representam, mas após breve explicação pôde entender o funcionamento do site.
 
+
 <center>
 
 **Tabela 3** - Perguntas respondidas na entrevista 2  
@@ -82,6 +89,22 @@ O entrevistado Geraldo experienciou um pouco de dificuldade para entender o que 
 |   3    | As anotações e indicações no protótipo de papel ajudaram a compreender como o site funcionará? | (X) Sim ( ) Não |  
 |   4    | As transições entre diferentes telas ou seções do protótipo foram claras e bem definidas? | ( ) Sim (X) Não |  
 |   5    | O protótipo de papel permitiu visualizar claramente como será a interação com o site final? | (X) Sim ( ) Não |  
+
+</center>
+
+### Entrevista 3
+
+<center>
+
+**Tabela 3** - Perguntas respondidas na entrevista 2  
+
+| Número | Pergunta | Respostas Esperadas |  
+| :----: | -------- | ------------------- |  
+|   1    | Os fluxos de navegação apresentados no protótipo de papel foram fáceis de entender? | () Sim ( ) Não |  
+|   2    | Você conseguiu identificar rapidamente as principais funcionalidades no protótipo? | ( ) Sim () Não |  
+|   3    | As anotações e indicações no protótipo de papel ajudaram a compreender como o site funcionará? | () Sim ( ) Não |  
+|   4    | As transições entre diferentes telas ou seções do protótipo foram claras e bem definidas? | ( ) Sim () Não |  
+|   5    | O protótipo de papel permitiu visualizar claramente como será a interação com o site final? | () Sim ( ) Não |  
 
 </center>
 
@@ -118,6 +141,25 @@ Sim. Foi sugerido a simplificação dos passos.
 * O protótipo de papel contribuiu para analisar e discutir diferentes abordagens de design?
 
 Sim, o protótipo de papel mostrou-se útil para visualizar diferentes possibilidades de layout e testar a organização das informações.
+
+### Entrevista 3
+
+* Com o protótipo de papel foi possível explorar conceitos de design?
+  
+Sim, o usuário conseguiu realizar o roteiro de ações após as instruções.
+
+* Foi observado alguma sugestão de melhoria para o protótipo proposto?
+
+Sim, a diminuição dos passos e a melhoria na legibilidade.
+
+* Foi possível identificar problemas de usabilidade preliminares?
+
+Sim, o usuário reclamou que existem muitos passos para a realização da tarefa.
+
+* O usuário entende o que deve fazer em seguida?
+
+Sim, o usuário seguiu os passos corretos naturalmente.
+
 
 ## Sumário dos principais resultados
 

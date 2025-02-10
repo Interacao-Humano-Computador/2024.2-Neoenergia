@@ -56,11 +56,10 @@ Durante as entrevistas e a aplicação do questionário, as seguintes perguntas 
 | 3      | O Storyboard apresenta os principais aspectos da realização daquela tarefa?  | ( ) SIM ( ) NÃO     |
 | 4      | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | ( ) SIM ( ) NÃO     |
 | 5      | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | ( ) SIM ( ) NÃO     |
-| 6      | Houve dificuldade ao realizar a interação com o storyboard? | ( ) SIM ( ) NÃO     |
-| 7      | O ator principal completou seu objetivo na interação com o storyboard?? | ( ) SIM ( ) NÃO     |
-| 8      | O storyboard é adequado ao público-alvo do produto? | ( ) SIM ( ) NÃO     |
-| 9      | O storyboard demonstra os benefícios e as vantagens do produto? | ( ) SIM ( ) NÃO     |
-|  10     | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | ( ) SIM ( ) NÃO     |
+| 6      | Houve dificuldade ao realizar a interação com o storyboard? | ( ) SIM ( ) NÃO     
+| 7     | O storyboard é adequado ao público-alvo do produto? | ( ) SIM ( ) NÃO     |
+| 8      | O storyboard demonstra os benefícios e as vantagens do produto? | ( ) SIM ( ) NÃO     |
+|  9     | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | ( ) SIM ( ) NÃO     |
 
 **Fonte**: [Dara Maria](https://github.com/daramariabs) 
 
@@ -84,31 +83,18 @@ Durante as entrevistas e a aplicação do questionário, as seguintes perguntas 
 
 ### Termo de Consentimento
 
-**Projeto:** Avaliação de Storyboard para Interação Humano-Computador  
-
-**Descrição:**  
-Você está sendo convidado(a) a participar de um teste de avaliação de storyboard. O objetivo é identificar como as informações apresentadas podem ser compreendidas pelos usuários e quais melhorias podem ser feitas.  
-
-**Direitos do Participante:**  
-  - Sua participação é voluntária, e você pode desistir a qualquer momento sem penalidades.  
-  - Suas respostas serão anônimas e usadas apenas para fins deste projeto.  
-
-**Consentimento:**  
-Ao assinar abaixo, você declara que leu e compreendeu este termo, concordando em participar do estudo.  
-
-**Assinatura do Participante:** ________________________  
-
-**Data:** ____________________
-
+Para vizualizar o termo de consetimento [Clique aqui.](./arquivos/termo-consetimento.pdf)
 
 ## 6. Avalie, interprete e apresente os dados
 **Etapas de análise:**
   1. **Coleta:** Anotar comentários durante o teste, transcrever entrevistas e consolidar respostas dos questionários.
   2. **Interpretação:** Identificar padrões, como pontos de confusão recorrentes ou elementos bem avaliados.
-  3. **Apresentação dos resultados:** Elaborar um relatório com:
-    - **Resumo dos principais problemas encontrados.**
-    - **Sugestões de melhorias para o storyboard.**
-    - **Exemplos específicos que ilustram os problemas e as soluções propostas.**
+  3. **Apresentação dos resultados:** 
+      
+      Elaborar um relatório com:
+      - **Resumo dos principais problemas encontrados.**
+      - **Sugestões de melhorias para o storyboard.**
+      - **Exemplos específicos que ilustram os problemas e as soluções propostas.**
 
 
 ## Teste piloto

@@ -29,7 +29,7 @@ _Fonte: Davi Casseb_
 
 **Figura 1*- Página inicial da Agência Virtual da Neoenergia.
 
-![Página inicial da agência](../../assets/neoenergia_1.jpeg){ width="900px" }
+![Página inicial da agência](../../assets/verificações/neoenergia_1.jpeg)
 
  _Fonte: Site da agência virtual_  
 
@@ -57,7 +57,7 @@ Goal 2: Procurar um cadastro específico
 
 **Figura 2*- Página para requerimento da segunda via do boleto.
 
-![Página de segunda via da agência](../../assets/neoenergia_4.jpeg){ width="900px" }
+![Página de segunda via da agência](../../assets/verificações/neoenergia_4.jpeg)
 
 _Fonte: Site da agência virtual_
 
@@ -70,7 +70,7 @@ Nessa tarefa o usuário pretende solicitar todas as unidades cadastradas em seu 
 
 **Figura 3*- Página para requerimento das unidades cadastradas no CPF.
 
-![Página de consulta de unidades consumidoras](../../assets/neoenergia_3.jpeg){ width="900px" }
+![Página de consulta de unidades consumidoras](../../assets/verificações/neoenergia_3(corrigido).jpeg)
 
 _Fonte: Site da agência virtual_ 
 

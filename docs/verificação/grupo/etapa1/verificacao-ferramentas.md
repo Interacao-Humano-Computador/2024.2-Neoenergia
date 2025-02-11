@@ -19,11 +19,11 @@ A verificação do artefato será conduzida por meio de uma checklist elaborada 
 |  3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |             |
 |  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           | Sim       |             |
 |  5  | Todos os textos estão na norma padrão?                                                                 | Sim       |             |
-|  6  | As ferramentas selecionadas atendem às necessidades do projeto?                                        |           |             |
-|  7  | A documentação sobre as ferramentas está clara e completa?                                             |           |             |
-|  8  | Foram realizados testes para validar o funcionamento das ferramentas no contexto do projeto?           |           |             |
-|  9  | As ferramentas estão configuradas corretamente e integradas ao fluxo de trabalho do projeto?           |           |             |
-| 10  | Há planos de manutenção ou atualização das ferramentas ao longo do projeto?                            |           |             |
+|  6  | As ferramentas selecionadas atendem às necessidades do projeto?                                        | Sim         |             |
+|  7  | A documentação sobre as ferramentas está clara e completa?                                             | Sim          |             |
+|  8  | Foram realizados testes para validar o funcionamento das ferramentas no contexto do projeto?           | Sim           |             |
+|  9  | As ferramentas estão configuradas corretamente e integradas ao fluxo de trabalho do projeto?           | Sim         |             |
+| 10  | Há planos de manutenção ou atualização das ferramentas ao longo do projeto?                            | Não          |             |
 
 
 _Fonte: [Dara Maria Barbosa de Sousa](https://github.com/daramariabs), 2025._
@@ -56,21 +56,7 @@ _Fonte: [Dara Maria](https://github.com/daramariabs), 2025._
 
 ## Retrabalho
 
-Conforme proposto por Fagan, os autores do artefato verificado serão inicialmente responsáveis por corrigir os problemas identificados, seguindo a lista de sugestões de correção apresentada anteriormente. No entanto, outros integrantes do grupo também podem realizar as correções propostas. O responsável pela verificação revisará as alterações feitas, assegurando que as correções sejam adequadas e que não tenham introduzido novos erros. A Tabela 2 a seguir apresenta o cronograma de correções.
-
-
-<center>
-
-**Tabela 2** - Cronograma de Correções.
-
-| Data de Correção | Descrição                                       |              Responsável(eis)               |                   Revisor(es)                    |      Status      |
-| ---------------- | :---------------------------------------------- | :-----------------------------------------: | :----------------------------------------------: | :--------------: |
-| 01/02/2025       | Correção das referências e histórico de versão. | [Dara Maria](https://github.com/daramariabs) | [Henrique Alencar](https://github.com/henryqma) | :material-check: |
-
-_Fonte: Elaborado por [Dara Maria](https://github.com/daramariabs) 2025._
-
-</center>
-
+Conforme proposto por Fagan, os autores do artefato verificado serão inicialmente responsáveis por corrigir os problemas identificados, seguindo a lista de sugestões de correção apresentada anteriormente. No entanto, outros integrantes do grupo também podem realizar as correções propostas. O responsável pela verificação revisará as alterações feitas, assegurando que as correções sejam adequadas e que não tenham introduzido novos erros. 
 
 ## Bibliografia
 

@@ -54,7 +54,7 @@ Como explicado acima, o site da Agência Virtual da Neoenergia não possui nenhu
 
 **Figura 3** - Antecipação
 
-![Página de solicitação de Unidades Cadastradas](../assets/neoenergia_3.jpeg){ width="900px" }
+![Página de solicitação de Unidades Cadastradas](../assets/neoenergia_3(corrigido).jpeg){ width="900px" }
 
 _Fonte: Site Agência Virtual da Neoenergia_
 

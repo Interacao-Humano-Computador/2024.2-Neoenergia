@@ -23,8 +23,7 @@ A violação que vemos na página principal do site da agência virtual da Neoen
 
 **Figura 1** - Violação da Correspondência com as Expectativas dos Usuários
 
-![Página Inicial](../assets/neoenergia_2.jpeg){ width="900px" }
-
+![Página Inicial](../assets/neoenergia_2.jpeg)
 _Fonte: Site Agência Virtual da Neoenergia_
 
 </center>
@@ -54,7 +53,7 @@ Como explicado acima, o site da Agência Virtual da Neoenergia não possui nenhu
 
 **Figura 3** - Antecipação
 
-![Página de solicitação de Unidades Cadastradas](../assets/neoenergia_3(corrigido).jpeg){ width="900px" }
+![Página de solicitação de Unidades Cadastradas](../assets/neoenergia_3(corrigido).jpeg)
 
 _Fonte: Site Agência Virtual da Neoenergia_
 
@@ -80,7 +79,7 @@ No site móvel da Agência Virtual, , como monstrado na figura 4
 
 **Figura 4** - Visibilidade e Reconhecimento
 
-![Página de Usuário Móvel](../assets/neoenergiaPagUsuario_movel(corrigido).jpeg){ width="400px" }
+![Página de Usuário Móvel](../assets/neoenergiaPagUsuario_movel(corrigido).jpeg)
 
 _Fonte: Site Agência Virtual da Neoenergia_
 

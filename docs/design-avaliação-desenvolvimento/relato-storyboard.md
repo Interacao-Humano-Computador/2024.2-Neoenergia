@@ -17,18 +17,19 @@ O método utilizado foi o de teste de usabilidade e de entrevista onde o usiario
 O Storyboard em questão pode ser visto aqui [aqui](/docs/design-avaliação-desenvolvimento/storyboards.md).
 
 <center>
+
 **Tabela 1** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  Dara Maria  |   <span style = "color: orange">Marina Marcia</span>     |       12:00       |     12:05      | 09/02/2025 | Teams |
+|  Dara Maria  |   <span style = "color: orange">Milena Fernandes</span>     |       21:00       |     21:05      | 09/02/2025 | Teams |
 
-**Fonte** - [Dara Maria Barbosa de Sousa](https://github.com/daramariabs).
+**Fonte** - [Dara Maria ](https://github.com/daramariabs).
 </center>
 
 ### Seleção de participante
 
-
+O participante se encaixa no perfil de usuário, pois é um usuário de entre 20 e 35 anos, e que já tem experiencia previa com emissão de segunda via de conta em outros site
 
 ### Problemas e dificuldades encontradas
 
@@ -36,15 +37,15 @@ Durante a avaliação o usuário não relatou problemas.
 
 ### Sugestões de melhoria
 
-
+Durante a entrevista, não foi sugerido que a tela do computador apresentada no storyboard fosse maior para facilitar a visualização.
 
 ### Feedback do usuário
 
-
+A entrevistada elogiou bastante o storyboard e enfatizou que conseguiu compreender sua proposta.
 
 ### Análise e interpretação dos resultados
 
-Portanto, como visto no tópico anterior, infere-se que o storyboard está alinhado com a sua proposta e é compreensível por um usuário comum do site.
+Assim, conforme discutido no tópico anterior, conclui-se que o storyboard está alinhado com sua proposta e é de fácil compreensão para um usuário comum do site.
 
 ### Sumário dos principais resultados
 
@@ -54,20 +55,20 @@ Portanto, como visto no tópico anterior, infere-se que o storyboard está alinh
 
 | **ID** | **Enunciado**                                                                 | **Resposta**        |
 |--------|--------------------------------------------------------------------------------|---------------------|
-| 1      | A narrativa apresentada pelo Storyboard está condizente com o título?         | ( ) SIM ( ) NÃO     |
-| 2      | As informações apresentadas no storyboard são compreensíveis?                        | ( ) SIM ( ) NÃO     |
-| 3      | O Storyboard apresenta os principais aspectos da realização daquela tarefa?  | ( ) SIM ( ) NÃO     |
-| 4      | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | ( ) SIM ( ) NÃO     |
-| 5      | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | ( ) SIM ( ) NÃO     |
-| 6      | Houve dificuldade ao realizar a interação com o storyboard? | ( ) SIM ( ) NÃO     
-| 7     | O storyboard é adequado ao público-alvo do produto? | ( ) SIM ( ) NÃO     |
-| 8      | O storyboard demonstra os benefícios e as vantagens do produto? | ( ) SIM ( ) NÃO     |
-|  9     | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | ( ) SIM ( ) NÃO     |
+| 1      | A narrativa apresentada pelo Storyboard está condizente com o título?         | ( X ) SIM ( ) NÃO     |
+| 2      | As informações apresentadas no storyboard são compreensíveis?                        | ( X ) SIM ( ) NÃO     |
+| 3      | O Storyboard apresenta os principais aspectos da realização daquela tarefa?  | ( X ) SIM ( ) NÃO     |
+| 4      | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? | ( X ) SIM ( ) NÃO     |
+| 5      | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | ( X ) SIM ( ) NÃO     |
+| 6      | Houve dificuldade ao realizar a interação com o storyboard? | ( ) SIM ( X ) NÃO     
+| 7     | O storyboard é adequado ao público-alvo do produto? | ( X ) SIM ( ) NÃO     |
+| 8      | O storyboard demonstra os benefícios e as vantagens do produto? | ( X ) SIM ( ) NÃO     |
+|  9     | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | ( X ) SIM ( ) NÃO     |
 
 **Fonte** - [Dara Maria](https://github.com/daramariabs).
 
 
-<p style="text-align: center"><iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/JxFpsLBuHRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 </center>
 

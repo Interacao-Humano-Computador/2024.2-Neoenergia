@@ -53,6 +53,10 @@ O entrevistado Geraldo, assim como o entrevistado Paulo, sugeriu a melhora na le
 
 ### Entrevista 3
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/bBJn36a8GhU"></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Dara Maria</p></font>
+
 ## Feedback dos usuários
 
 ### Entrevista 1
@@ -93,18 +97,19 @@ O entrevistado Geraldo experienciou um pouco de dificuldade para entender o que 
 </center>
 
 ### Entrevista 3
+ A tabela a seguir refere se as perguntas repondias durante a entrevista.
 
 <center>
 
-**Tabela 3** - Perguntas respondidas na entrevista 2  
+**Tabela 4** - Perguntas respondidas na entrevista 2  
 
-| Número | Pergunta | Respostas Esperadas |  
-| :----: | -------- | ------------------- |  
-|   1    | Os fluxos de navegação apresentados no protótipo de papel foram fáceis de entender? | () Sim ( ) Não |  
-|   2    | Você conseguiu identificar rapidamente as principais funcionalidades no protótipo? | ( ) Sim () Não |  
-|   3    | As anotações e indicações no protótipo de papel ajudaram a compreender como o site funcionará? | () Sim ( ) Não |  
-|   4    | As transições entre diferentes telas ou seções do protótipo foram claras e bem definidas? | ( ) Sim () Não |  
-|   5    | O protótipo de papel permitiu visualizar claramente como será a interação com o site final? | () Sim ( ) Não |  
+| Número | Pergunta | Respostas Esperadas |
+| :----: | -------- | ------------------- |
+|   1    | Você conseguiu utilizar o protótipo sem nenhuma dúvida? | ( X ) Sim () Não |
+|   2    | O protótipo representa bem o site escolhido? | (X) Sim ( ) Não |
+|   3    | O site é de fácil usabilidade? | (X) Sim ( ) Não |
+|   4    | As interfaces do site são de fácil entendimento? | (X) Sim ( ) Não |
+|   5    | Você tem alguma sugestão de melhoria? | A entrevistada sugeriu que o icone de download da conta fosse feito de forma mais clara | 
 
 </center>
 
@@ -146,19 +151,19 @@ Sim, o protótipo de papel mostrou-se útil para visualizar diferentes possibili
 
 * Com o protótipo de papel foi possível explorar conceitos de design?
   
-Sim, o usuário conseguiu realizar o roteiro de ações após as instruções.
+    Sim, o usuário conseguiu realizar o roteiro de ações.
 
 * Foi observado alguma sugestão de melhoria para o protótipo proposto?
 
-Sim, a diminuição dos passos e a melhoria na legibilidade.
+    Sim, usuario sugeriu que o icone de download da conta fosse feito de forma mais clara.
 
 * Foi possível identificar problemas de usabilidade preliminares?
-
-Sim, o usuário reclamou que existem muitos passos para a realização da tarefa.
+  
+  Sim.
 
 * O usuário entende o que deve fazer em seguida?
 
-Sim, o usuário seguiu os passos corretos naturalmente.
+    Sim, o usuário seguiu os passos corretos naturalmente.
 
 
 ## Sumário dos principais resultados
@@ -182,3 +187,4 @@ Após as considerações feitas pelos entrevistado, a equipe realizará o reproj
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 14/01/2025 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
 | `1.1`  | 14/01/2025 | Atualização do documento                  | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.2`  | 16/01/2025 | Adição da entrevista 3                  | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |

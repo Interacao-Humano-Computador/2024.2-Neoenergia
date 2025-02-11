@@ -53,9 +53,14 @@ O entrevistado Geraldo, assim como o entrevistado Paulo, sugeriu a melhora na le
 
 ### Entrevista 3
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/bBJn36a8GhU"></iframe></p>
+* [Link da entrevista](https://youtu.be/bBJn36a8GhU)
 
-<font size="3"><p style="text-align: center">Fonte: Dara Maria</p></font>
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/bBJn36a8GhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 
 ## Feedback dos usuários
 
@@ -187,4 +192,4 @@ Após as considerações feitas pelos entrevistado, a equipe realizará o reproj
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 14/01/2025 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
 | `1.1`  | 14/01/2025 | Atualização do documento                  | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
-| `1.2`  | 16/01/2025 | Adição da entrevista 3                  | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.2`  | 16/01/2025 | Adição da entrevista 3                  | [Dara Maria](https://github.com/daramariabs) | Henrique Alencar, Davi Casseb |

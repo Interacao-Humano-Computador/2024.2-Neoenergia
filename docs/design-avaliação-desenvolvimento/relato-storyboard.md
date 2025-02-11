@@ -68,7 +68,10 @@ Assim, conforme discutido no tópico anterior, conclui-se que o storyboard está
 **Fonte** - [Dara Maria](https://github.com/daramariabs).
 
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/JxFpsLBuHRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+ [Link da Entrevista](https://youtu.be/JxFpsLBuHRA)
+
+<iframe width="560" height="315" src="https://youtu.be/JxFpsLBuHRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 </center>
 

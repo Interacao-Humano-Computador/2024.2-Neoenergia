@@ -26,7 +26,7 @@ Este protótipo é referente à funcionalidade de emissão de segunda via de con
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/hkn18kkm9y2T4PZl2M6tLO/emiss%C3%A3o-segunda-via-de-fatura?node-id=1-2&p=f&t=RKFSt1eF9YZNYeDT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/hkn18kkm9y2T4PZl2M6tLO/emiss%C3%A3o-segunda-via-de-fatura?node-id=1-2&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&embed-host=share" allowfullscreen></iframe>
 
 </center>
 

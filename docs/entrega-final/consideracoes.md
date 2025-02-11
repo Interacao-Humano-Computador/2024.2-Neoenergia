@@ -8,6 +8,8 @@ Este documento visa apresentar as considerações finais de cada membro do grupo
 
 ### **Dara Maria**
 
+O aprendizado adquirido nesta disciplina foi imenso, muito significativo. Foi uma jornada que exigiu um grande esforço, principalmente em termos de leitura e dedicação. Além disso, a disciplina contou com diversas atividades práticas, que proporcionaram um aprendizado ainda mais aprofundado. O principal ensinamento, no entanto, foi a habilidade de pesquisar, ler, entender, interpretar e, a partir disso, criar algo novo. Para mim, esse foi o maior aprendizado que tirei dessa experiência.
+
 ### **Davi Casseb**
 
 Durante o semestre, os desafios impostos pelos conteúdos e atividades práticas foram significativos, exigindo um esforço constante para absorção e aplicação dos conceitos. Além disso, a quebra de rotina causada pelo recesso de final de ano impactou o ritmo de estudo inicialmente conquistado, o que acabou tornando o término do semestre mais caótico e resultou em algumas entregas aquém do resultado esperado. Mesmo com essas dificuldades, a disciplina deixou uma impressão marcante, porque apesar de sua complexidade e da intensa demanda de trabalho para conciliar com as demais matérias, os aprendizados adquiridos se mostraram valiosos para a formação acadêmica e mostrou um pouco de como é a atuação profissional real desta área.
@@ -22,3 +24,4 @@ A maior dificuldade da disciplina foi conciliar o tempo, pois as atividades tem 
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 08/02/2025 | Criação do documento                  | [Henrique Alencar](https://github.com/henryqma) | Dara Maria, Davi Casseb |
 | `1.1`  | 10/02/2025 | Adição de consideração final                 | [Davi Casseb](https://github.com/dcasseb) | Dara Maria, Henrique Alencar |
+| `1.2`  | 10/02/2025 | Adição de consideração final                 | [Dara Maria](https://github.com/daramariabs) | Davi Casseb, Henrique Alencar |

@@ -53,7 +53,7 @@ O entrevistado Geraldo, assim como o entrevistado Paulo, sugeriu a melhora na le
 
 ### Entrevista 3
 
-* [Link da entrevista](https://youtu.be/bBJn36a8GhU)
+ [Link da entrevista](https://youtu.be/bBJn36a8GhU)
 
 <center>
 

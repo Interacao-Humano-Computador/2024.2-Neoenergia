@@ -78,9 +78,9 @@ No site móvel da Agência Virtual, , como monstrado na figura 4
 
 <center>
 
-**Figura 8** - Visibilidade e Reconhecimento
+**Figura 4** - Visibilidade e Reconhecimento
 
-![Página Seleção do Crime](../assets/neoenergiaPagUsuario_movel.jpeg){ width="400px" }
+![Página de Usuário Móvel](../assets/neoenergiaPagUsuario_movel(corrigido).jpeg){ width="400px" }
 
 _Fonte: Site Agência Virtual da Neoenergia_
 
@@ -110,3 +110,4 @@ Com base em todas as diretrizes avaliadas e nas funcionalidades escolhidas por c
 | Versão | Data       | Descrição                             | Autor(es)                                       | Revisor(es)             |
 | ------ | ---------- | ------------------------------------- | ----------------------------------------------- | ----------------------- |
 | `1.0`  | 03/12/2024 | Criação da página                     | [Davi Casseb](https://github.com/dcasseb)       | Dara Maria, Henrique Alencar |
+| `1.1`  | 03/12/2024 | Refatoração da página                     | [Davi Casseb](https://github.com/dcasseb)       | Dara Maria, Henrique Alencar |

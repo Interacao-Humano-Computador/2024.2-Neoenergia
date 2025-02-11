@@ -8,7 +8,7 @@ A Análise Hierárquica de Tarefas (HTA) é uma maneira de entender e dividir um
 
 **Figura 1** - Diagrama HTA
 
-![Diagrama HTA](../assets/hta/hta.png){ width="900px" }
+![Diagrama HTA](../assets/hta/hta.png)
 
 _Fonte: BARBOSA e SILVA, 2011_
 
@@ -38,7 +38,7 @@ A tarefa analisada pelo [Henrique Alencar](https://github.com/henryqma) foi o ag
 
 **Figura 2** - Diagrama HTA de agendar visita técnica
 
-![Diagrama visita técnica](../assets/hta/diagramavisita.png){ width="900px" }
+![Diagrama visita técnica](../assets/hta/diagramavisita.png)
 
 _Fonte: Henrique Alencar_
 
